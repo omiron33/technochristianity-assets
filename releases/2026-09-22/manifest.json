@@ -10,8 +10,8 @@
   ],
   "files": {
     "church/LICENSE.md": {
-      "byteLength": 3251,
-      "sha256": "54b07b0e07c047334776a1e40fa969af0dacc87e5180c202d28cc3a71a3b7093"
+      "byteLength": 3367,
+      "sha256": "4001267274a295bb859cfc8259accaec139e4788f1c6e2b3890749c3a1de2639"
     },
     "church/credits.json": {
       "byteLength": 4620,
@@ -790,8 +790,8 @@
       "sha256": "f5040a267616114bd6ca02a7bf4bb22fa17d71909b13e44705a30f4953518852"
     },
     "church/sign-of-the-theotokos-dubrovitsy/LICENSE.md": {
-      "byteLength": 4695,
-      "sha256": "2774db28c4e5923166e577898d79f990c50f0638a274b1092de2de963e5952b0"
+      "byteLength": 4661,
+      "sha256": "3b297f9fbe9854f0196dbba688a6a8c6140b67ada976147e8235c2ca9639eb38"
     },
     "church/sign-of-the-theotokos-dubrovitsy/credits.json": {
       "byteLength": 13098,

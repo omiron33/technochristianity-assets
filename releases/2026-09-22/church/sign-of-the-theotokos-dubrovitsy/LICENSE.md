@@ -1,11 +1,11 @@
 # Provenance
 
-`source.jpg` is retained as a reconstruction reference for Technochristian.
+`source.jpg` is retained in the authoring project as a reconstruction reference
+for Technochristian.
 Procedural geometry was created for this repository. Retained photographs,
 projected image fields, and historical drawings retain the individual licenses
-and attributions in `selected-photographs.json`, `interior-full-image-provenance.json`,
-`tower-full-image-provenance.json`, and the public church's `credits.json` and
-`photographic-provenance.json`.
+and attributions in this release's `credits.json`, `photographic-provenance.json`
+and `textures/provenance.json`.
 The photo records distinguish CC BY-SA 3.0, CC BY-SA 4.0, public-domain material,
 and reconstruction references; those sources are not relicensed as original
 repository materials. Parish and encyclopedia URLs identify architectural descriptions.
@@ -36,10 +36,11 @@ documented church surfaces.
 
 The floor uses [Marble 01](https://polyhaven.com/a/marble_01) by **Rob Tuytel**,
 provided by Poly Haven under [CC0](https://polyhaven.com/license). Original
-4096 × 4096 diffuse and OpenGL normal-map JPEGs are retained in
-`../materials/`; their hashes, source URLs, UV fields, and material adjustments
-are recorded in `floor-material-provenance.json`. The retained roughness image
-is not used by this floor material. This generic stone sample supplies veins
+4096 × 4096 diffuse and OpenGL normal-map JPEGs are included among the model
+textures; their hashes, source URLs, sampling and material adjustments are
+recorded in `photographic-provenance.json`. The authoring project also retains
+a roughness image that is not used by this floor material or included here.
+This generic stone sample supplies veins
 and surface response; it is not a photograph or scan of the church floor.
 Its auxiliary credit is excluded from the church-photograph gallery.
 
@@ -48,12 +49,12 @@ by **Rob Tuytel**, also supplied by Poly Haven under CC0. Original 1k OpenGL nor
 and packed ARM JPEGs provide fine surface response at a 1 m repeat. The ARM
 green channel supplies roughness; red AO is unused and blue metallic has a zero
 factor. Authored blue and chalk base colors are preserved. The diffuse and
-standalone roughness originals are retained but unused. Source URLs, original
+standalone roughness originals are retained in the authoring project but unused
+and not included here. Source URLs, original
 hashes, dimensions and the source's scale discrepancy are
-recorded in `../materials/white_plaster_02_provenance.json`. This is a generic
-material sample, not a photograph or survey of Dubrovitsy plaster. Matching
-material entries in `selected-photographs.json` and the public
-`photographic-provenance.json` distinguish used maps from retained originals;
+recorded in `photographic-provenance.json`. This is a generic material sample,
+not a photograph or survey of Dubrovitsy plaster. Its material entry in
+`photographic-provenance.json` distinguishes used maps from retained originals;
 the auxiliary material credit is excluded from the church-photograph gallery.
 
 Full-image source records and the Poly Haven maps retain their original bytes.
@@ -64,8 +65,8 @@ normal strength and roughness adjustments determine the reconstructed appearance
 without relicensing the underlying photographs. These asset notices do not
 change the repository's code license.
 
-The editable scene distributed through `blender-source/manifest.json` and its
-numbered parts contains packed copies of the same credited photographs,
-retained derivatives and material maps. Splitting or restoring the Blender file
-does not change those sources' attribution or license terms. Restore instructions
-and the complete-file checksum are in `README.md`.
+This runtime release contains the glTF model, geometry buffers, model textures
+and attribution documents. It does not include the editable Blender scene,
+authoring scripts or source-archive restore files. Their omission does not change
+the attribution or license terms of the photographs, retained derivatives and
+material maps included in the runtime model.
