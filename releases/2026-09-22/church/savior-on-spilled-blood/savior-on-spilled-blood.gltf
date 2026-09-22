@@ -1,0 +1,6300 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.1.20",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression",
+    "KHR_materials_transmission",
+    "KHR_materials_emissive_strength",
+    "KHR_materials_specular",
+    "KHR_materials_ior",
+    "KHR_texture_transform"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression",
+    "KHR_texture_transform"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "extras": {
+        "Reconstruction": "Photo-informed architectural study, plan-scaled and approximate. Not photogrammetry, a surveyed digital twin, or an exhaustive iconographic record.",
+        "Coordinate convention": "glTF: X south/right, Y up, Z west; sanctuary negative Z.",
+        "Sources": "textures/provenance.json; source/architecture.md; source/selected-photographs.json"
+      },
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "extras": {
+        "bakedLightScale": 18.256668090820312,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 0,
+      "name": "Limestone white trim"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 17.684547424316406,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 1,
+      "name": "Red brown brick"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.975463390350342,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 2,
+      "name": "Pink ochre marble"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 13.17530632019043,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 3,
+      "name": "Grey green revetment marble"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 9.94023323059082,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 4,
+      "name": "Violet grey jasper"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 6.557365894317627,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 5,
+      "name": "Rhodonite plinth"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 17.56908416748047,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 6,
+      "name": "Gilded bronze"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.414107322692871,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 7,
+      "name": "Yellow Siena floor inlay"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.544546127319336,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 8,
+      "name": "White grey floor inlay"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 7.120316505432129,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 9,
+      "name": "Black green floor inlay"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.1119327545166016,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 10,
+      "name": "Warm honey floor medallion"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.338111162185669,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 11,
+      "name": "Porphyry red floor medallion"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.830879211425781,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 12,
+      "name": "Polished veined floor marble"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 10.595474243164062,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 13,
+      "name": "Cobalt mosaic ground"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 1.1565059423446655,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 14,
+      "name": "Memorial rust red pavement"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.6642212867736816,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 15,
+      "name": "Memorial pale green inlay"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.770294427871704,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 16,
+      "name": "Memorial dark green inlay"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 1.3285201787948608,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 17,
+      "name": "Preserved road flagstone"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.570971965789795,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 18,
+      "name": "Preserved grey road cobbles"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.048051357269287,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 19,
+      "name": "Pink veined memorial enclosure jasper"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.0441150665283203,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 20,
+      "name": "Gold mosaic ground"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 57.74551773071289,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 21,
+      "name": "Black iron tracery"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 12.911519050598145,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 22,
+      "name": "Pale daylight glazing"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 12.182141304016113,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 23,
+      "name": "Exterior dark blue glass recess"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 17.80443000793457,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 24,
+      "name": "Wax candle light"
+    },
+    {
+      "extras": {
+        "roofHeightfieldNormalsVerified": true,
+        "roofHeightfieldFacesChecked": 58218,
+        "bakedLightScale": 3.088979721069336,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 25,
+      "name": "Oxidized green roof"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.601047992706299,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 26,
+      "name": "Enamel blue"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.5362279415130615,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 27,
+      "name": "Enamel green"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.420896053314209,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 28,
+      "name": "Enamel yellow"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.2084696292877197,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 29,
+      "name": "Enamel white"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.160639762878418,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 30,
+      "name": "Photographic memorial-vault-continuous"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 5.822938919067383,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 31,
+      "name": "Photographic ornament"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 43.07255554199219,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 32,
+      "name": "Photographic ornament-blue"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.697533130645752,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 33,
+      "name": "Photographic east-vault-ornament"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.310151100158691,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 34,
+      "name": "photo-atlas-0.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 11.491327285766602,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 35,
+      "name": "photo-atlas-1.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 1.0266985893249512,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 36,
+      "name": "photo-atlas-10.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 1.6699111461639404,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 37,
+      "name": "photo-atlas-11.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.73748779296875,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 38,
+      "name": "photo-atlas-12.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.9303150177001953,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 39,
+      "name": "photo-atlas-13.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.6148104667663574,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 40,
+      "name": "photo-atlas-14.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.464874505996704,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 41,
+      "name": "photo-atlas-15.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.688127517700195,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 42,
+      "name": "photo-atlas-16.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 6.117549419403076,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 43,
+      "name": "photo-atlas-17.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.252042293548584,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 44,
+      "name": "photo-atlas-18.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.9425721168518066,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 45,
+      "name": "photo-atlas-19.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 1.8903239965438843,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 46,
+      "name": "photo-atlas-2.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.885885000228882,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 47,
+      "name": "photo-atlas-20.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 35.02165985107422,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 48,
+      "name": "photo-atlas-21.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 5.459601402282715,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 49,
+      "name": "photo-atlas-22.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 8.28691291809082,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 50,
+      "name": "photo-atlas-23.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 17.048446655273438,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 51,
+      "name": "photo-atlas-24.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 18.24576187133789,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 52,
+      "name": "photo-atlas-25.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 8.633209228515625,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 53,
+      "name": "photo-atlas-26.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 5.952459812164307,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 54,
+      "name": "photo-atlas-27.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 3.150669574737549,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 55,
+      "name": "photo-atlas-28.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 7.766343116760254,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 56,
+      "name": "photo-atlas-3.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 1.4211227893829346,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 57,
+      "name": "photo-atlas-4.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.277193784713745,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 58,
+      "name": "photo-atlas-5.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.691988468170166,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 59,
+      "name": "photo-atlas-6.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.0365190505981445,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 60,
+      "name": "photo-atlas-7.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.024313926696777,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 61,
+      "name": "photo-atlas-8.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 2.40273380279541,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 62,
+      "name": "photo-atlas-9.jpg"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 7.862412452697754,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 63,
+      "name": "Apse episcopal mosaic diffuse"
+    },
+    {
+      "extras": {
+        "bakedLightScale": 4.022362232208252,
+        "bakedLightEncoding": "linear-diffuse-radiance"
+      },
+      "mesh": 64,
+      "name": "Faceted clear iconostasis crystal"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Limestone white trim",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.4699999988079071,
+          0.44999998807907104,
+          0.38999998569488525,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.6000000238418579
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Red brown brick",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.8500000238418579
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Pink ochre marble",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.30000001192092896
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Grey green revetment marble",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2800000011920929
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Violet grey jasper",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Rhodonite plinth",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.27000001072883606
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Gilded bronze",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7599999904632568,
+          0.4699999988079071,
+          0.11999999731779099,
+          1
+        ],
+        "metallicFactor": 0.7699999809265137,
+        "roughnessFactor": 0.30000001192092896
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Yellow Siena floor inlay",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 5
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2800000011920929
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "White grey floor inlay",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 6
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2800000011920929
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Black green floor inlay",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 7
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.27000001072883606
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Warm honey floor medallion",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 8
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Porphyry red floor medallion",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 9
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Polished veined floor marble",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 10
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.2199999988079071
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Cobalt mosaic ground",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "extensions": {
+            "KHR_texture_transform": {
+              "offset": [
+                0,
+                -20.299999237060547
+              ],
+              "scale": [
+                2,
+                21.299999237060547
+              ]
+            }
+          },
+          "index": 11
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7400000095367432
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Memorial rust red pavement",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 12
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3400000035762787
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Memorial pale green inlay",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 13
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3400000035762787
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Memorial dark green inlay",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 14
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3400000035762787
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Preserved road flagstone",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 15
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7799999713897705
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Preserved grey road cobbles",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 16
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.8299999833106995
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Pink veined memorial enclosure jasper",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 17
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.3400000035762787
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Gold mosaic ground",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 18
+        },
+        "metallicFactor": 0.11999999731779099,
+        "roughnessFactor": 0.75
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Black iron tracery",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.013000000268220901,
+          0.017999999225139618,
+          0.01899999938905239,
+          1
+        ],
+        "metallicFactor": 0.5799999833106995,
+        "roughnessFactor": 0.41999998688697815
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.3410000100135804,
+        0.41800000381469715,
+        0.48400000786781305
+      ],
+      "name": "Pale daylight glazing",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6200000047683716,
+          0.7599999904632568,
+          0.8799999952316284,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Exterior dark blue glass recess",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.017999999225139618,
+          0.03500000014901161,
+          0.054999999701976776,
+          1
+        ],
+        "metallicFactor": 0.3199999928474426,
+        "roughnessFactor": 0.25999999046325684
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        0.6200000047683716,
+        0.20000000298023224
+      ],
+      "extensions": {
+        "KHR_materials_emissive_strength": {
+          "emissiveStrength": 5
+        }
+      },
+      "name": "Wax candle light",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.6200000047683716,
+          0.20000000298023224,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.30000001192092896
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Oxidized green roof",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.03500000014901161,
+          0.1599999964237213,
+          0.14000000059604645,
+          1
+        ],
+        "metallicFactor": 0.36000001430511475,
+        "roughnessFactor": 0.5199999809265137
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Enamel blue",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.014999999664723873,
+          0.17000000178813934,
+          0.3100000023841858,
+          1
+        ],
+        "metallicFactor": 0.2800000011920929,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Enamel green",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.04500000178813934,
+          0.30000001192092896,
+          0.14000000059604645,
+          1
+        ],
+        "metallicFactor": 0.2800000011920929,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Enamel yellow",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8100000023841858,
+          0.6100000143051147,
+          0.1599999964237213,
+          1
+        ],
+        "metallicFactor": 0.2800000011920929,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Enamel white",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8100000023841858,
+          0.7699999809265137,
+          0.6000000238418579,
+          1
+        ],
+        "metallicFactor": 0.2800000011920929,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Photographic memorial-vault-continuous",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 19
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.699999988079071
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Photographic ornament",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 20
+        },
+        "metallicFactor": 0.07000000029802322,
+        "roughnessFactor": 0.699999988079071
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Photographic ornament-blue",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 21
+        },
+        "metallicFactor": 0.07000000029802322,
+        "roughnessFactor": 0.699999988079071
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Photographic east-vault-ornament",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 22
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-0.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 23
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-1.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 24
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-10.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 25
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-11.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 26
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-12.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 27
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-13.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 28
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-14.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 29
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-15.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 30
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-16.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 31
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-17.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 32
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-18.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 33
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-19.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 34
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-2.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 35
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-20.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 36
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-21.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 37
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-22.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 38
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-23.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 39
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-24.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 40
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-25.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 41
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-26.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 42
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-27.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 43
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-28.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 44
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-3.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 45
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-4.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 46
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-5.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 47
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-6.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 48
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-7.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 49
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-8.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 50
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "photo-atlas-9.jpg",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 51
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.7300000190734863
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0
+        }
+      },
+      "name": "Apse episcopal mosaic diffuse",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 52
+        },
+        "metallicFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_transmission": {
+          "transmissionFactor": 0.7799999713897705
+        },
+        "KHR_materials_ior": {
+          "ior": 1.4600000381469727
+        }
+      },
+      "name": "Faceted clear iconostasis crystal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.6399999856948853,
+          0.7200000286102295,
+          0.7900000214576721,
+          1
+        ],
+        "metallicFactor": 0.11999999731779099,
+        "roughnessFactor": 0.07999999821186066
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Limestone white trim",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "COLOR_0": 3
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Red brown brick",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "COLOR_0": 8
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pink ochre marble",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12,
+            "COLOR_0": 13
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Grey green revetment marble",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TEXCOORD_0": 17,
+            "COLOR_0": 18
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Violet grey jasper",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22,
+            "COLOR_0": 23
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 4,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rhodonite plinth",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 25,
+            "NORMAL": 26,
+            "TEXCOORD_0": 27,
+            "COLOR_0": 28
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 5,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 29,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gilded bronze",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 30,
+            "NORMAL": 31,
+            "TEXCOORD_0": 32,
+            "COLOR_0": 33
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 6,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 34,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Yellow Siena floor inlay",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 35,
+            "NORMAL": 36,
+            "TEXCOORD_0": 37,
+            "COLOR_0": 38
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 7,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 39,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "White grey floor inlay",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 40,
+            "NORMAL": 41,
+            "TEXCOORD_0": 42,
+            "COLOR_0": 43
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 8,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 44,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Black green floor inlay",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 45,
+            "NORMAL": 46,
+            "TEXCOORD_0": 47,
+            "COLOR_0": 48
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 9,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 49,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Warm honey floor medallion",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 50,
+            "NORMAL": 51,
+            "TEXCOORD_0": 52,
+            "COLOR_0": 53
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 10,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 54,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Porphyry red floor medallion",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 55,
+            "NORMAL": 56,
+            "TEXCOORD_0": 57,
+            "COLOR_0": 58
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 11,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 54,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Polished veined floor marble",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 59,
+            "NORMAL": 60,
+            "TEXCOORD_0": 61,
+            "COLOR_0": 62
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 12,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 63,
+          "material": 12,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cobalt mosaic ground",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 64,
+            "NORMAL": 65,
+            "TEXCOORD_0": 66,
+            "COLOR_0": 67
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 13,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 68,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Memorial rust red pavement",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 69,
+            "NORMAL": 70,
+            "TEXCOORD_0": 71,
+            "COLOR_0": 72
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 14,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 73,
+          "material": 14,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Memorial pale green inlay",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 74,
+            "NORMAL": 75,
+            "TEXCOORD_0": 76,
+            "COLOR_0": 77
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 15,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 78,
+          "material": 15,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Memorial dark green inlay",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 79,
+            "NORMAL": 80,
+            "TEXCOORD_0": 81,
+            "COLOR_0": 82
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 16,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 83,
+          "material": 16,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Preserved road flagstone",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 84,
+            "NORMAL": 85,
+            "TEXCOORD_0": 86,
+            "COLOR_0": 87
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 17,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 88,
+          "material": 17,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Preserved grey road cobbles",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 89,
+            "NORMAL": 90,
+            "TEXCOORD_0": 91,
+            "COLOR_0": 92
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 18,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 93,
+          "material": 18,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pink veined memorial enclosure jasper",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 94,
+            "NORMAL": 95,
+            "TEXCOORD_0": 96,
+            "COLOR_0": 97
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 19,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 98,
+          "material": 19,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gold mosaic ground",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 99,
+            "NORMAL": 100,
+            "TEXCOORD_0": 101,
+            "COLOR_0": 102
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 20,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 103,
+          "material": 20,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Black iron tracery",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 104,
+            "NORMAL": 105,
+            "TEXCOORD_0": 106,
+            "COLOR_0": 107
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 21,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 108,
+          "material": 21,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pale daylight glazing",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 109,
+            "NORMAL": 110,
+            "TEXCOORD_0": 111,
+            "COLOR_0": 112
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 22,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 113,
+          "material": 22,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Exterior dark blue glass recess",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 114,
+            "NORMAL": 115,
+            "TEXCOORD_0": 116,
+            "COLOR_0": 117
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 23,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 118,
+          "material": 23,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Wax candle light",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 119,
+            "NORMAL": 120,
+            "TEXCOORD_0": 121,
+            "COLOR_0": 122
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 24,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 123,
+          "material": 24,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Oxidized green roof",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 124,
+            "NORMAL": 125,
+            "TEXCOORD_0": 126,
+            "COLOR_0": 127
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 25,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 128,
+          "material": 25,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Enamel blue",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 129,
+            "NORMAL": 130,
+            "TEXCOORD_0": 131,
+            "COLOR_0": 132
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 26,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 133,
+          "material": 26,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Enamel green",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 134,
+            "NORMAL": 135,
+            "TEXCOORD_0": 136,
+            "COLOR_0": 137
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 27,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 138,
+          "material": 27,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Enamel yellow",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 139,
+            "NORMAL": 140,
+            "TEXCOORD_0": 141,
+            "COLOR_0": 142
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 28,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 143,
+          "material": 28,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Enamel white",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 144,
+            "NORMAL": 145,
+            "TEXCOORD_0": 146,
+            "COLOR_0": 147
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 29,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 148,
+          "material": 29,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Photographic memorial-vault-continuous",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 149,
+            "NORMAL": 150,
+            "TEXCOORD_0": 151,
+            "COLOR_0": 152
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 30,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 153,
+          "material": 30,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Photographic ornament",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 154,
+            "NORMAL": 155,
+            "TEXCOORD_0": 156,
+            "COLOR_0": 157
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 31,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 158,
+          "material": 31,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Photographic ornament-blue",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 159,
+            "NORMAL": 160,
+            "TEXCOORD_0": 161,
+            "COLOR_0": 162
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 32,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 163,
+          "material": 32,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Photographic east-vault-ornament",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 164,
+            "NORMAL": 165,
+            "TEXCOORD_0": 166,
+            "COLOR_0": 167
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 33,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 168,
+          "material": 33,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-0.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 169,
+            "NORMAL": 170,
+            "TEXCOORD_0": 171,
+            "COLOR_0": 172
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 34,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 173,
+          "material": 34,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-1.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 174,
+            "NORMAL": 175,
+            "TEXCOORD_0": 176,
+            "COLOR_0": 177
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 35,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 178,
+          "material": 35,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-10.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 179,
+            "NORMAL": 180,
+            "TEXCOORD_0": 181,
+            "COLOR_0": 182
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 36,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 183,
+          "material": 36,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-11.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 184,
+            "NORMAL": 185,
+            "TEXCOORD_0": 186,
+            "COLOR_0": 187
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 37,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 183,
+          "material": 37,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-12.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 188,
+            "NORMAL": 189,
+            "TEXCOORD_0": 190,
+            "COLOR_0": 191
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 38,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 192,
+          "material": 38,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-13.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 193,
+            "NORMAL": 194,
+            "TEXCOORD_0": 195,
+            "COLOR_0": 196
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 39,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 197,
+          "material": 39,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-14.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 198,
+            "NORMAL": 199,
+            "TEXCOORD_0": 200,
+            "COLOR_0": 201
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 40,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 202,
+          "material": 40,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-15.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 203,
+            "NORMAL": 204,
+            "TEXCOORD_0": 205,
+            "COLOR_0": 206
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 41,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 207,
+          "material": 41,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-16.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 208,
+            "NORMAL": 209,
+            "TEXCOORD_0": 210,
+            "COLOR_0": 211
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 42,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 212,
+          "material": 42,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-17.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 213,
+            "NORMAL": 214,
+            "TEXCOORD_0": 215,
+            "COLOR_0": 216
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 43,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 217,
+          "material": 43,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-18.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 218,
+            "NORMAL": 219,
+            "TEXCOORD_0": 220,
+            "COLOR_0": 221
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 44,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 222,
+          "material": 44,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-19.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 223,
+            "NORMAL": 224,
+            "TEXCOORD_0": 225,
+            "COLOR_0": 226
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 45,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 227,
+          "material": 45,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-2.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 228,
+            "NORMAL": 229,
+            "TEXCOORD_0": 230,
+            "COLOR_0": 231
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 46,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 232,
+          "material": 46,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-20.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 233,
+            "NORMAL": 234,
+            "TEXCOORD_0": 235,
+            "COLOR_0": 236
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 47,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 237,
+          "material": 47,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-21.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 238,
+            "NORMAL": 239,
+            "TEXCOORD_0": 240,
+            "COLOR_0": 241
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 48,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 242,
+          "material": 48,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-22.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 243,
+            "NORMAL": 244,
+            "TEXCOORD_0": 245,
+            "COLOR_0": 246
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 49,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 247,
+          "material": 49,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-23.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 248,
+            "NORMAL": 249,
+            "TEXCOORD_0": 250,
+            "COLOR_0": 251
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 50,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 252,
+          "material": 50,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-24.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 253,
+            "NORMAL": 254,
+            "TEXCOORD_0": 255,
+            "COLOR_0": 256
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 51,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 257,
+          "material": 51,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-25.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 258,
+            "NORMAL": 259,
+            "TEXCOORD_0": 260,
+            "COLOR_0": 261
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 52,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 262,
+          "material": 52,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-26.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 263,
+            "NORMAL": 264,
+            "TEXCOORD_0": 265,
+            "COLOR_0": 266
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 53,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 267,
+          "material": 53,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-27.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 268,
+            "NORMAL": 269,
+            "TEXCOORD_0": 270,
+            "COLOR_0": 271
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 54,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 272,
+          "material": 54,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-28.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 273,
+            "NORMAL": 274,
+            "TEXCOORD_0": 275,
+            "COLOR_0": 276
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 55,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 277,
+          "material": 55,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-3.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 278,
+            "NORMAL": 279,
+            "TEXCOORD_0": 280,
+            "COLOR_0": 281
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 56,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 282,
+          "material": 56,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-4.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 283,
+            "NORMAL": 284,
+            "TEXCOORD_0": 285,
+            "COLOR_0": 286
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 57,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 287,
+          "material": 57,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-5.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 288,
+            "NORMAL": 289,
+            "TEXCOORD_0": 290,
+            "COLOR_0": 291
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 58,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 292,
+          "material": 58,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-6.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 293,
+            "NORMAL": 294,
+            "TEXCOORD_0": 295,
+            "COLOR_0": 296
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 59,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 297,
+          "material": 59,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-7.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 298,
+            "NORMAL": 299,
+            "TEXCOORD_0": 300,
+            "COLOR_0": 301
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 60,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 302,
+          "material": 60,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-8.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 303,
+            "NORMAL": 304,
+            "TEXCOORD_0": 305,
+            "COLOR_0": 306
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 61,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 183,
+          "material": 61,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "photo-atlas-9.jpg",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 307,
+            "NORMAL": 308,
+            "TEXCOORD_0": 309,
+            "COLOR_0": 310
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 62,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 183,
+          "material": 62,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Apse episcopal mosaic diffuse",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 311,
+            "NORMAL": 312,
+            "TEXCOORD_0": 313,
+            "COLOR_0": 314
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 63,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 315,
+          "material": 63,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Faceted clear iconostasis crystal",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 316,
+            "NORMAL": 317,
+            "TEXCOORD_0": 318,
+            "COLOR_0": 319
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 64,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 320,
+          "material": 64,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    },
+    {
+      "sampler": 0,
+      "source": 9
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 11
+    },
+    {
+      "sampler": 0,
+      "source": 12
+    },
+    {
+      "sampler": 0,
+      "source": 13
+    },
+    {
+      "sampler": 0,
+      "source": 14
+    },
+    {
+      "sampler": 0,
+      "source": 15
+    },
+    {
+      "sampler": 0,
+      "source": 16
+    },
+    {
+      "sampler": 0,
+      "source": 17
+    },
+    {
+      "sampler": 0,
+      "source": 18
+    },
+    {
+      "sampler": 0,
+      "source": 10
+    },
+    {
+      "sampler": 0,
+      "source": 19
+    },
+    {
+      "sampler": 0,
+      "source": 20
+    },
+    {
+      "sampler": 0,
+      "source": 21
+    },
+    {
+      "sampler": 0,
+      "source": 22
+    },
+    {
+      "sampler": 0,
+      "source": 23
+    },
+    {
+      "sampler": 0,
+      "source": 24
+    },
+    {
+      "sampler": 0,
+      "source": 25
+    },
+    {
+      "sampler": 0,
+      "source": 26
+    },
+    {
+      "sampler": 0,
+      "source": 27
+    },
+    {
+      "sampler": 0,
+      "source": 28
+    },
+    {
+      "sampler": 0,
+      "source": 29
+    },
+    {
+      "sampler": 0,
+      "source": 30
+    },
+    {
+      "sampler": 0,
+      "source": 31
+    },
+    {
+      "sampler": 0,
+      "source": 32
+    },
+    {
+      "sampler": 0,
+      "source": 33
+    },
+    {
+      "sampler": 0,
+      "source": 34
+    },
+    {
+      "sampler": 0,
+      "source": 35
+    },
+    {
+      "sampler": 0,
+      "source": 36
+    },
+    {
+      "sampler": 0,
+      "source": 37
+    },
+    {
+      "sampler": 0,
+      "source": 38
+    },
+    {
+      "sampler": 0,
+      "source": 39
+    },
+    {
+      "sampler": 0,
+      "source": 40
+    },
+    {
+      "sampler": 0,
+      "source": 41
+    },
+    {
+      "sampler": 0,
+      "source": 42
+    },
+    {
+      "sampler": 0,
+      "source": 43
+    },
+    {
+      "sampler": 0,
+      "source": 44
+    },
+    {
+      "sampler": 0,
+      "source": 45
+    },
+    {
+      "sampler": 0,
+      "source": 46
+    },
+    {
+      "sampler": 0,
+      "source": 47
+    },
+    {
+      "sampler": 0,
+      "source": 48
+    },
+    {
+      "sampler": 0,
+      "source": 49
+    },
+    {
+      "sampler": 0,
+      "source": 33
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/jpeg",
+      "name": "exterior-brick",
+      "uri": "model-textures/savior-on-spilled-blood-image-000-exterior-brick.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "cream-marble",
+      "uri": "model-textures/savior-on-spilled-blood-image-001-cream-marble.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "green-marble",
+      "uri": "model-textures/savior-on-spilled-blood-image-002-green-marble.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "ciborium-stone",
+      "uri": "model-textures/savior-on-spilled-blood-image-003-ciborium-stone.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "red-marble",
+      "uri": "model-textures/savior-on-spilled-blood-image-004-red-marble.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "yellow-floor-marble",
+      "uri": "model-textures/savior-on-spilled-blood-image-005-yellow-floor-marble.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "white-floor-marble",
+      "uri": "model-textures/savior-on-spilled-blood-image-006-white-floor-marble.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "floor-honey-medallion",
+      "uri": "model-textures/savior-on-spilled-blood-image-007-floor-honey-medallion.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "floor-porphyry-medallion",
+      "uri": "model-textures/savior-on-spilled-blood-image-008-floor-porphyry-medallion.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "floor-marble-veins",
+      "uri": "model-textures/savior-on-spilled-blood-image-009-floor-marble-veins.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "blue-floral-border",
+      "uri": "model-textures/savior-on-spilled-blood-image-010-blue-floral-border.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-floor-red-stone",
+      "uri": "model-textures/savior-on-spilled-blood-image-011-memorial-floor-red-stone.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-floor-green-stone",
+      "uri": "model-textures/savior-on-spilled-blood-image-012-memorial-floor-green-stone.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-floor-dark-stone",
+      "uri": "model-textures/savior-on-spilled-blood-image-013-memorial-floor-dark-stone.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-flagstone",
+      "uri": "model-textures/savior-on-spilled-blood-image-014-memorial-flagstone.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-cobblestone",
+      "uri": "model-textures/savior-on-spilled-blood-image-015-memorial-cobblestone.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-jasper-grain",
+      "uri": "model-textures/savior-on-spilled-blood-image-016-memorial-jasper-grain.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "gold-mosaic",
+      "uri": "model-textures/savior-on-spilled-blood-image-017-gold-mosaic.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "memorial-vault-continuous",
+      "uri": "model-textures/savior-on-spilled-blood-image-018-memorial-vault-continuous.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "floral-border",
+      "uri": "model-textures/savior-on-spilled-blood-image-019-floral-border.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "east-vault-ornament",
+      "uri": "model-textures/savior-on-spilled-blood-image-020-east-vault-ornament.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-0",
+      "uri": "model-textures/savior-on-spilled-blood-image-021-photo-atlas-0.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-1",
+      "uri": "model-textures/savior-on-spilled-blood-image-022-photo-atlas-1.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-10",
+      "uri": "model-textures/savior-on-spilled-blood-image-023-photo-atlas-10.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-11",
+      "uri": "model-textures/savior-on-spilled-blood-image-024-photo-atlas-11.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-12",
+      "uri": "model-textures/savior-on-spilled-blood-image-025-photo-atlas-12.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-13",
+      "uri": "model-textures/savior-on-spilled-blood-image-026-photo-atlas-13.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-14",
+      "uri": "model-textures/savior-on-spilled-blood-image-027-photo-atlas-14.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-15",
+      "uri": "model-textures/savior-on-spilled-blood-image-028-photo-atlas-15.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-16",
+      "uri": "model-textures/savior-on-spilled-blood-image-029-photo-atlas-16.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-17",
+      "uri": "model-textures/savior-on-spilled-blood-image-030-photo-atlas-17.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-18",
+      "uri": "model-textures/savior-on-spilled-blood-image-031-photo-atlas-18.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-19",
+      "uri": "model-textures/savior-on-spilled-blood-image-032-photo-atlas-19.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-2",
+      "uri": "model-textures/savior-on-spilled-blood-image-033-photo-atlas-2.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-20",
+      "uri": "model-textures/savior-on-spilled-blood-image-034-photo-atlas-20.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-21",
+      "uri": "model-textures/savior-on-spilled-blood-image-035-photo-atlas-21.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-22",
+      "uri": "model-textures/savior-on-spilled-blood-image-036-photo-atlas-22.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-23",
+      "uri": "model-textures/savior-on-spilled-blood-image-037-photo-atlas-23.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-24",
+      "uri": "model-textures/savior-on-spilled-blood-image-038-photo-atlas-24.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-25",
+      "uri": "model-textures/savior-on-spilled-blood-image-039-photo-atlas-25.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-26",
+      "uri": "model-textures/savior-on-spilled-blood-image-040-photo-atlas-26.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-27",
+      "uri": "model-textures/savior-on-spilled-blood-image-041-photo-atlas-27.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-28",
+      "uri": "model-textures/savior-on-spilled-blood-image-042-photo-atlas-28.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-3",
+      "uri": "model-textures/savior-on-spilled-blood-image-043-photo-atlas-3.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-4",
+      "uri": "model-textures/savior-on-spilled-blood-image-044-photo-atlas-4.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-5",
+      "uri": "model-textures/savior-on-spilled-blood-image-045-photo-atlas-5.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-6",
+      "uri": "model-textures/savior-on-spilled-blood-image-046-photo-atlas-6.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-7",
+      "uri": "model-textures/savior-on-spilled-blood-image-047-photo-atlas-7.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-8",
+      "uri": "model-textures/savior-on-spilled-blood-image-048-photo-atlas-8.jpg"
+    },
+    {
+      "mimeType": "image/jpeg",
+      "name": "photo-atlas-9",
+      "uri": "model-textures/savior-on-spilled-blood-image-049-photo-atlas-9.jpg"
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5126,
+      "count": 687184,
+      "max": [
+        18.665000915527344,
+        71.63999938964844,
+        28.46500015258789
+      ],
+      "min": [
+        -18.665000915527344,
+        0,
+        -25.24689483642578
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 687184,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 687184,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 687184,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 1265586,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 97064,
+      "max": [
+        16.5,
+        71.5,
+        26.299999237060547
+      ],
+      "min": [
+        -16.5,
+        0,
+        -25.09000015258789
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 97064,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 97064,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 97064,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 318072,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 66202,
+      "max": [
+        12.350000381469727,
+        18.799999237060547,
+        6.53000020980835
+      ],
+      "min": [
+        -12.350000381469727,
+        0,
+        -18.299999237060547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 66202,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 66202,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 66202,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 214002,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8268,
+      "max": [
+        17.299999237060547,
+        24.295000076293945,
+        27.100000381469727
+      ],
+      "min": [
+        -17.299999237060547,
+        -0.5099999904632568,
+        -25.190000534057617
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 8268,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 8268,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 8268,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 25326,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 26323,
+      "max": [
+        16.639999389648438,
+        38.95000076293945,
+        26.440000534057617
+      ],
+      "min": [
+        -16.639999389648438,
+        0.10300000011920929,
+        -15.324999809265137
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 26323,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 26323,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 26323,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 140424,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 3364,
+      "max": [
+        12.569999694824219,
+        8.119999885559082,
+        19.84000015258789
+      ],
+      "min": [
+        -12.569999694824219,
+        0,
+        -18.770000457763672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3364,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3364,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 3364,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 8664,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 465189,
+      "max": [
+        17.16499900817871,
+        81,
+        27.081998825073242
+      ],
+      "min": [
+        -17.16499900817871,
+        0.20000000298023224,
+        -24.707000732421875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 465189,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 465189,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 465189,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 2225538,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1982,
+      "max": [
+        11.690918922424316,
+        0.07050000131130219,
+        20.05500030517578
+      ],
+      "min": [
+        -11.690918922424316,
+        0.007089999970048666,
+        -12.890918731689453
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1982,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1982,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1982,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 5184,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 3322,
+      "max": [
+        10.960000038146973,
+        0.018549999222159386,
+        11.859999656677246
+      ],
+      "min": [
+        -10.960000038146973,
+        0.007060000207275152,
+        -11.859999656677246
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3322,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3322,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 3322,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 9552,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2658,
+      "max": [
+        12,
+        0.023000001907348633,
+        19.78499984741211
+      ],
+      "min": [
+        -12,
+        0.0010000000474974513,
+        -13.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2658,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2658,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 2658,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 7596,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 260,
+      "max": [
+        3.010939836502075,
+        0.008290000259876251,
+        3.010939836502075
+      ],
+      "min": [
+        -3.010939836502075,
+        0.0073899999260902405,
+        -3.010939836502075
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 260,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 768,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 260,
+      "max": [
+        4.079999923706055,
+        0.008139999583363533,
+        4.079999923706055
+      ],
+      "min": [
+        -4.079999923706055,
+        0.007240000180900097,
+        -4.079999923706055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 260,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 260,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5126,
+      "count": 5001,
+      "max": [
+        12.800000190734863,
+        0.3100000023841858,
+        20.025001525878906
+      ],
+      "min": [
+        -12.800000190734863,
+        -0.06499999761581421,
+        -24.25
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5001,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5001,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 5001,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 26760,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 143738,
+      "max": [
+        15.05000114440918,
+        27.43000030517578,
+        13.694999694824219
+      ],
+      "min": [
+        -15.05000114440918,
+        0,
+        -24.25
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 143738,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 143738,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 143738,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 383700,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 132,
+      "max": [
+        6.099999904632568,
+        0.06000000238418579,
+        19.989999771118164
+      ],
+      "min": [
+        -6.099999904632568,
+        0.029999999329447746,
+        13.010000228881836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 132,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 132,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 132,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 468,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2020,
+      "max": [
+        5.768958568572998,
+        0.07400000095367432,
+        19.72106170654297
+      ],
+      "min": [
+        -5.768958568572998,
+        0.07400000095367432,
+        13.278937339782715
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2020,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2020,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 2020,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 6036,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1008,
+      "max": [
+        5.768958568572998,
+        0.07500000298023224,
+        19.703125
+      ],
+      "min": [
+        -5.768958568572998,
+        0.07500000298023224,
+        13.296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1008,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 2904,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 232,
+      "max": [
+        1.8600000143051147,
+        0.36000001430511475,
+        18.7549991607666
+      ],
+      "min": [
+        -1.6399999856948853,
+        0.05999999865889549,
+        14.03499984741211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 232,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 232,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 232,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 372,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 17550,
+      "max": [
+        0.8741728067398071,
+        0.1883687973022461,
+        18.375789642333984
+      ],
+      "min": [
+        -0.84349524974823,
+        0.14300000667572021,
+        14.045796394348145
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 17550,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 17550,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 17550,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 89856,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 552,
+      "max": [
+        2.759999990463257,
+        1.4800000190734863,
+        19.65999984741211
+      ],
+      "min": [
+        -2.759999990463257,
+        0.2199999988079071,
+        13.34000015258789
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 552,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 552,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 552,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 1116,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 12416,
+      "max": [
+        6.560000419616699,
+        27.5,
+        20.10000228881836
+      ],
+      "min": [
+        -6.560000419616699,
+        0,
+        -4.550000190734863
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 12416,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 12416,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 12416,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 43296,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 39096,
+      "max": [
+        15.164999961853027,
+        71.22859954833984,
+        25.395000457763672
+      ],
+      "min": [
+        -15.164999961853027,
+        0.5400000214576721,
+        -25.16499900817871
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 39096,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 39096,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 39096,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 58644,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 9179,
+      "max": [
+        13.220000267028809,
+        26.951650619506836,
+        20.760000228881836
+      ],
+      "min": [
+        -13.220000267028809,
+        8.111100196838379,
+        -25.190000534057617
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 9179,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 9179,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 9179,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 37422,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 34361,
+      "max": [
+        15.09000015258789,
+        71.36625671386719,
+        25.31999969482422
+      ],
+      "min": [
+        -15.09000015258789,
+        8.111100196838379,
+        -25.1200008392334
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 34361,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 34361,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 34361,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 137646,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 22502,
+      "max": [
+        9.927610397338867,
+        14.0600004196167,
+        11.343460083007812
+      ],
+      "min": [
+        -9.927610397338867,
+        5.847499847412109,
+        -18.277999877929688
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 22502,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 22502,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 22502,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 36864,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 165218,
+      "max": [
+        15.794340133666992,
+        64.1500015258789,
+        25.649999618530273
+      ],
+      "min": [
+        -15.794340133666992,
+        9.119999885559082,
+        -16.600000381469727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 165218,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 165218,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 165218,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 385050,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 24944,
+      "max": [
+        15.369999885559082,
+        76.5,
+        24.899999618530273
+      ],
+      "min": [
+        -15.369999885559082,
+        2.630000114440918,
+        -27.049999237060547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 24944,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 24944,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 24944,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 41178,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 15674,
+      "max": [
+        13.980245590209961,
+        76.5,
+        14.274787902832031
+      ],
+      "min": [
+        -13.980245590209961,
+        21,
+        -27.049999237060547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15674,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15674,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 15674,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 23130,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 11134,
+      "max": [
+        15.055806159973145,
+        69.5,
+        24.855806350708008
+      ],
+      "min": [
+        -15.055806159973145,
+        19,
+        -14.34511947631836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 11134,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 11134,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 11134,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 16584,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 12510,
+      "max": [
+        15.055806159973145,
+        76.5,
+        24.855806350708008
+      ],
+      "min": [
+        -15.055806159973145,
+        19,
+        -14.430245399475098
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 12510,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 12510,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 12510,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 18384,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 7848,
+      "max": [
+        6.400000095367432,
+        23.167999267578125,
+        20
+      ],
+      "min": [
+        -6.400000095367432,
+        18.468000411987305,
+        13.649999618530273
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 7848,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 7848,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 7848,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 23040,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 26087,
+      "max": [
+        13.220000267028809,
+        27.6200008392334,
+        20.760000228881836
+      ],
+      "min": [
+        -13.220000267028809,
+        2.424999952316284,
+        -25.190000534057617
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 26087,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 26087,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 26087,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 69810,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 19914,
+      "max": [
+        13.220000267028809,
+        26.264999389648438,
+        20.760000228881836
+      ],
+      "min": [
+        -13.220000267028809,
+        1.25,
+        -25.19000244140625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 19914,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 19914,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 19914,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 93024,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8364,
+      "max": [
+        4.650000095367432,
+        25.329999923706055,
+        -12.949999809265137
+      ],
+      "min": [
+        -4.650000095367432,
+        22.829999923706055,
+        -18.75
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 8364,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 8364,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 8364,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 23040,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 6440,
+      "max": [
+        6.75,
+        22.399999618530273,
+        -13.039999961853027
+      ],
+      "min": [
+        -6.75,
+        2.5,
+        -18.25
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6440,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6440,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 6440,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 19356,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 627556,
+      "max": [
+        12.199999809265137,
+        18.799999237060547,
+        19.649999618530273
+      ],
+      "min": [
+        -12.199999809265137,
+        1.6101502180099487,
+        -19.899999618530273
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 627556,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 627556,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 627556,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 1008954,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "max": [
+        7.650000095367432,
+        24.104999542236328,
+        25.275314331054688
+      ],
+      "min": [
+        -6.8163533210754395,
+        17.895000457763672,
+        21.19872283935547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 784,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 3456,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "max": [
+        7.650000095367432,
+        24.104999542236328,
+        21.967945098876953
+      ],
+      "min": [
+        7.650000095367432,
+        17.895000457763672,
+        15.83205509185791
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 784,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5126,
+      "count": 1141,
+      "max": [
+        11.17199993133545,
+        24.104999542236328,
+        24.516353607177734
+      ],
+      "min": [
+        -11.17199993133545,
+        1.2678180932998657,
+        -18.225000381469727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1141,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1141,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1141,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 5040,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 65752,
+      "max": [
+        11.06350040435791,
+        23.149999618530273,
+        19.799999237060547
+      ],
+      "min": [
+        -12.449999809265137,
+        0.34296876192092896,
+        -15.8100004196167
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 65752,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 65752,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 65752,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 108186,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 116747,
+      "max": [
+        12.449999809265137,
+        26.638811111450195,
+        14.869999885559082
+      ],
+      "min": [
+        -12.449999809265137,
+        2.5350000858306885,
+        -13.649999618530273
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 116747,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 116747,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 116747,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 204339,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 15757,
+      "max": [
+        -6.588433265686035,
+        21.434999465942383,
+        10.220000267028809
+      ],
+      "min": [
+        -13.220000267028809,
+        2.6700000762939453,
+        -12.225000381469727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15757,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15757,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 15757,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 27849,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 8776,
+      "max": [
+        -10.113814353942871,
+        16.424999237060547,
+        12.324999809265137
+      ],
+      "min": [
+        -12.359999656677246,
+        2.690000057220459,
+        -19.463550567626953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 8776,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 8776,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 8776,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 26046,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 15915,
+      "max": [
+        4.550000190734863,
+        31.5,
+        4.550000190734863
+      ],
+      "min": [
+        -6.560999870300293,
+        2.6600000858306885,
+        -6.361000061035156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15915,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 15915,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 15915,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 25776,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1008,
+      "max": [
+        6.560999870300293,
+        24.18000030517578,
+        6.361000061035156
+      ],
+      "min": [
+        -6.264999866485596,
+        2.6600000858306885,
+        -6.361000061035156
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1008,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1008,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 4680,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1782,
+      "max": [
+        6.560999870300293,
+        24.18000030517578,
+        25.43454360961914
+      ],
+      "min": [
+        -16.850000381469727,
+        2.6600000858306885,
+        -3.8389999866485596
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1782,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1782,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1782,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 8880,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 4870,
+      "max": [
+        12.359999656677246,
+        20.5,
+        11.739999771118164
+      ],
+      "min": [
+        -11.000499725341797,
+        1.2678180932998657,
+        -24.25
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 4870,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 4870,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 4870,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 8190,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 3686,
+      "max": [
+        16.899999618530273,
+        23.229999542236328,
+        26.700000762939453
+      ],
+      "min": [
+        -16.899999618530273,
+        0.2779659628868103,
+        -15.720000267028809
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3686,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 3686,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 3686,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 17472,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 31789,
+      "max": [
+        12.359999656677246,
+        26.49896240234375,
+        6.349999904632568
+      ],
+      "min": [
+        -12.225000381469727,
+        0.41999998688697815,
+        -18.25
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 31789,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 31789,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 31789,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 163722,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 37669,
+      "max": [
+        13.220000267028809,
+        23.200000762939453,
+        10.220000267028809
+      ],
+      "min": [
+        6.565000057220459,
+        2.6700000762939453,
+        -10.120000839233398
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 37669,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 37669,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 37669,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 111798,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 111165,
+      "max": [
+        12.449999809265137,
+        23.035709381103516,
+        4.920000076293945
+      ],
+      "min": [
+        4.096153736114502,
+        2.6700000762939453,
+        -19.463550567626953
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 111165,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 111165,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 111165,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 130476,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 5901,
+      "max": [
+        12.359999656677246,
+        24.18000030517578,
+        14.869999885559082
+      ],
+      "min": [
+        -6.264999866485596,
+        1.2678180932998657,
+        -16.108665466308594
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5901,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5901,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 5901,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 23787,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 54468,
+      "max": [
+        13.920000076293945,
+        27.43000030517578,
+        19.84000015258789
+      ],
+      "min": [
+        -13.920000076293945,
+        2.5,
+        -12.883000373840332
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 54468,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 54468,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 54468,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 130692,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 76676,
+      "max": [
+        11.960000038146973,
+        23.94499969482422,
+        19.905000686645508
+      ],
+      "min": [
+        -11.960000038146973,
+        2.505000114440918,
+        -6.639999866485596
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 76676,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 76676,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 76676,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 290160,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 41715,
+      "max": [
+        12.359999656677246,
+        24.799999237060547,
+        19.879722595214844
+      ],
+      "min": [
+        -12.359999656677246,
+        2.505000114440918,
+        13.414999961853027
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 41715,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 41715,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 41715,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 242112,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 6078,
+      "max": [
+        9.277999877929688,
+        23.200000762939453,
+        19.899999618530273
+      ],
+      "min": [
+        -6.4070000648498535,
+        2.5350000858306885,
+        13.414999961853027
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6078,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6078,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 6078,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 34584,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 76462,
+      "max": [
+        5.300000190734863,
+        24.100000381469727,
+        5.099999904632568
+      ],
+      "min": [
+        -5.300000190734863,
+        3.699202299118042,
+        -15.670000076293945
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 76462,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 76462,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 76462,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5125,
+      "count": 118476,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 325,
+      "max": [
+        4.875173091888428,
+        31.319629669189453,
+        23.35808753967285
+      ],
+      "min": [
+        -6.262687683105469,
+        0.8673924803733826,
+        -15.630000114440918
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 325,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 325,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 325,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 1356,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1920,
+      "max": [
+        15.656538009643555,
+        31.112401962280273,
+        24.47231674194336
+      ],
+      "min": [
+        -15.25,
+        13.815702438354492,
+        -12.361736297607422
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1920,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1920,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 1920,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 9945,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 6246,
+      "max": [
+        15.609999656677246,
+        29.99615478515625,
+        25.739999771118164
+      ],
+      "min": [
+        -15.609999656677246,
+        0.7200000286102295,
+        -15.03499984741211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6246,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6246,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 6246,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 28110,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 4230,
+      "max": [
+        15.470000267028809,
+        24.104999542236328,
+        17.4957218170166
+      ],
+      "min": [
+        -15.470000267028809,
+        7.889999866485596,
+        -10.645000457763672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 4230,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 4230,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 4230,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 20136,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "max": [
+        -7.650000095367432,
+        24.104999542236328,
+        21.967945098876953
+      ],
+      "min": [
+        -7.650000095367432,
+        17.895000457763672,
+        16.726499557495117
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 784,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "max": [
+        -6.163646697998047,
+        24.104999542236328,
+        24.516353607177734
+      ],
+      "min": [
+        -7.650000095367432,
+        17.895000457763672,
+        21.19872283935547
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 784,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 784,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5126,
+      "count": 23580,
+      "max": [
+        4.502170085906982,
+        14.100000381469727,
+        -21.86370277404785
+      ],
+      "min": [
+        -4.502170085906982,
+        10.25,
+        -24.14943504333496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 23580,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 23580,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 23580,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 49152,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 29700,
+      "max": [
+        9.775620460510254,
+        9.412420272827148,
+        -15.543999671936035
+      ],
+      "min": [
+        -9.775620460510254,
+        6.436880111694336,
+        -15.600000381469727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 29700,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 29700,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5123,
+      "count": 29700,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "componentType": 5123,
+      "count": 40500,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6122116,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 666436,
+      "byteOffset": 6122116
+    },
+    {
+      "buffer": 0,
+      "byteLength": 622278,
+      "byteOffset": 6788552
+    },
+    {
+      "buffer": 0,
+      "byteLength": 53242,
+      "byteOffset": 7410832
+    },
+    {
+      "buffer": 0,
+      "byteLength": 233646,
+      "byteOffset": 7464076
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34516,
+      "byteOffset": 7697724
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4694081,
+      "byteOffset": 7732240
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20365,
+      "byteOffset": 12426324
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38489,
+      "byteOffset": 12446692
+    },
+    {
+      "buffer": 0,
+      "byteLength": 26219,
+      "byteOffset": 12485184
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3173,
+      "byteOffset": 12511404
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3326,
+      "byteOffset": 12514580
+    },
+    {
+      "buffer": 0,
+      "byteLength": 42281,
+      "byteOffset": 12517908
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1025091,
+      "byteOffset": 12560192
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1057,
+      "byteOffset": 13585284
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20182,
+      "byteOffset": 13586344
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10774,
+      "byteOffset": 13606528
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2239,
+      "byteOffset": 13617304
+    },
+    {
+      "buffer": 0,
+      "byteLength": 200725,
+      "byteOffset": 13619544
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4620,
+      "byteOffset": 13820272
+    },
+    {
+      "buffer": 0,
+      "byteLength": 74288,
+      "byteOffset": 13824892
+    },
+    {
+      "buffer": 0,
+      "byteLength": 326844,
+      "byteOffset": 13899180
+    },
+    {
+      "buffer": 0,
+      "byteLength": 93758,
+      "byteOffset": 14226024
+    },
+    {
+      "buffer": 0,
+      "byteLength": 323318,
+      "byteOffset": 14319784
+    },
+    {
+      "buffer": 0,
+      "byteLength": 218970,
+      "byteOffset": 14643104
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1705156,
+      "byteOffset": 14862076
+    },
+    {
+      "buffer": 0,
+      "byteLength": 270431,
+      "byteOffset": 16567232
+    },
+    {
+      "buffer": 0,
+      "byteLength": 172024,
+      "byteOffset": 16837664
+    },
+    {
+      "buffer": 0,
+      "byteLength": 123453,
+      "byteOffset": 17009688
+    },
+    {
+      "buffer": 0,
+      "byteLength": 139421,
+      "byteOffset": 17133144
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67958,
+      "byteOffset": 17272568
+    },
+    {
+      "buffer": 0,
+      "byteLength": 234847,
+      "byteOffset": 17340528
+    },
+    {
+      "buffer": 0,
+      "byteLength": 138382,
+      "byteOffset": 17575376
+    },
+    {
+      "buffer": 0,
+      "byteLength": 84468,
+      "byteOffset": 17713760
+    },
+    {
+      "buffer": 0,
+      "byteLength": 60466,
+      "byteOffset": 17798228
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6065367,
+      "byteOffset": 17858696
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7470,
+      "byteOffset": 23924064
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7318,
+      "byteOffset": 23931536
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10959,
+      "byteOffset": 23938856
+    },
+    {
+      "buffer": 0,
+      "byteLength": 635824,
+      "byteOffset": 23949816
+    },
+    {
+      "buffer": 1,
+      "byteLength": 1153261,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 1,
+      "byteLength": 174380,
+      "byteOffset": 1153264
+    },
+    {
+      "buffer": 1,
+      "byteLength": 83008,
+      "byteOffset": 1327644
+    },
+    {
+      "buffer": 1,
+      "byteLength": 191475,
+      "byteOffset": 1410652
+    },
+    {
+      "buffer": 1,
+      "byteLength": 9546,
+      "byteOffset": 1602128
+    },
+    {
+      "buffer": 1,
+      "byteLength": 16287,
+      "byteOffset": 1611676
+    },
+    {
+      "buffer": 1,
+      "byteLength": 59778,
+      "byteOffset": 1627964
+    },
+    {
+      "buffer": 1,
+      "byteLength": 32002,
+      "byteOffset": 1687744
+    },
+    {
+      "buffer": 1,
+      "byteLength": 215473,
+      "byteOffset": 1719748
+    },
+    {
+      "buffer": 1,
+      "byteLength": 339524,
+      "byteOffset": 1935224
+    },
+    {
+      "buffer": 1,
+      "byteLength": 1115440,
+      "byteOffset": 2274748
+    },
+    {
+      "buffer": 1,
+      "byteLength": 53256,
+      "byteOffset": 3390188
+    },
+    {
+      "buffer": 1,
+      "byteLength": 474699,
+      "byteOffset": 3443444
+    },
+    {
+      "buffer": 1,
+      "byteLength": 659904,
+      "byteOffset": 3918144
+    },
+    {
+      "buffer": 1,
+      "byteLength": 324074,
+      "byteOffset": 4578048
+    },
+    {
+      "buffer": 1,
+      "byteLength": 55735,
+      "byteOffset": 4902124
+    },
+    {
+      "buffer": 1,
+      "byteLength": 622359,
+      "byteOffset": 4957860
+    },
+    {
+      "buffer": 1,
+      "byteLength": 4003,
+      "byteOffset": 5580220
+    },
+    {
+      "buffer": 1,
+      "byteLength": 17707,
+      "byteOffset": 5584224
+    },
+    {
+      "buffer": 1,
+      "byteLength": 46078,
+      "byteOffset": 5601932
+    },
+    {
+      "buffer": 1,
+      "byteLength": 33966,
+      "byteOffset": 5648012
+    },
+    {
+      "buffer": 1,
+      "byteLength": 6603,
+      "byteOffset": 5681980
+    },
+    {
+      "buffer": 1,
+      "byteLength": 7015,
+      "byteOffset": 5688584
+    },
+    {
+      "buffer": 1,
+      "byteLength": 241448,
+      "byteOffset": 5695600
+    },
+    {
+      "buffer": 1,
+      "byteLength": 276610,
+      "byteOffset": 5937048
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 24585640,
+      "uri": "geometry.bin"
+    },
+    {
+      "byteLength": 6213658,
+      "uri": "geometry-001.bin"
+    }
+  ]
+}

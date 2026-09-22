@@ -1,0 +1,1174 @@
+{
+  "formatVersion": 1,
+  "generator": "church-lossless-gltf-packager",
+  "model": "sign-of-the-theotokos-dubrovitsy",
+  "source": {
+    "file": "sign-of-the-theotokos-dubrovitsy.glb",
+    "byteLength": 103957220,
+    "sha256": "6642d5bbdf3985ab1388c8d7768e34d1306e9e5ee7d6cf555ce1b4b5fb10d8f7"
+  },
+  "maxFileBytes": 25000000,
+  "gltf": "sign-of-the-theotokos-dubrovitsy.gltf",
+  "validation": {
+    "bufferViewsCompared": 127,
+    "imagesCompared": 34,
+    "documentRoundTripEqual": true,
+    "compressedBytesPreserved": true
+  },
+  "bufferViews": [
+    {
+      "originalIndex": 0,
+      "packagedIndex": 0,
+      "uri": "geometry.bin",
+      "byteOffset": 0,
+      "byteLength": 767700,
+      "sha256": "9749adc6395236ef403e78c2346aa2cc84bf65d2278612362fbb057e5221906c"
+    },
+    {
+      "originalIndex": 1,
+      "packagedIndex": 1,
+      "uri": "geometry.bin",
+      "byteOffset": 767700,
+      "byteLength": 1891019,
+      "sha256": "13591ba39abe35cbc5c537abfdc7734f2dbc0d43d94dde0fce4d0c22cf423b3b"
+    },
+    {
+      "originalIndex": 2,
+      "packagedIndex": 2,
+      "uri": "geometry.bin",
+      "byteOffset": 2658720,
+      "byteLength": 1557803,
+      "sha256": "6d5bbb15898907044f2aeebe3ee9fb10590992d84dc2aa9e7be5b825721a9800"
+    },
+    {
+      "originalIndex": 3,
+      "packagedIndex": 3,
+      "uri": "geometry.bin",
+      "byteOffset": 4216524,
+      "byteLength": 192719,
+      "sha256": "3ae04cf37f3e228a87d5a1699b105054e1b7922e35e4ae40c511ac4f6b623569"
+    },
+    {
+      "originalIndex": 4,
+      "packagedIndex": 4,
+      "uri": "geometry.bin",
+      "byteOffset": 4409244,
+      "byteLength": 596391,
+      "sha256": "fcf7315c11622d3f4992af2e37e70d455f2ae5586efbf4bffc3143008a2229f4"
+    },
+    {
+      "originalIndex": 5,
+      "packagedIndex": 5,
+      "uri": "geometry.bin",
+      "byteOffset": 5005636,
+      "byteLength": 69720,
+      "sha256": "716858fee9a01fb9d04d442e635aed02111f1cea42f13f4fe86b008ddd8d722d"
+    },
+    {
+      "originalIndex": 6,
+      "packagedIndex": 6,
+      "uri": "geometry.bin",
+      "byteOffset": 5075356,
+      "byteLength": 196044,
+      "sha256": "eb4b6e7c264f65b52eb7c22253f418e962edf54bfbda492a80578d70d7afc001"
+    },
+    {
+      "originalIndex": 7,
+      "packagedIndex": 7,
+      "uri": "geometry.bin",
+      "byteOffset": 5271400,
+      "byteLength": 24369,
+      "sha256": "b9ebf2f380cc726435859eccb172a254a1f253689ae11d787f0d2651adf2fed6"
+    },
+    {
+      "originalIndex": 8,
+      "packagedIndex": 8,
+      "uri": "geometry.bin",
+      "byteOffset": 5295772,
+      "byteLength": 4983,
+      "sha256": "ad4d0779d4f7ab1c489a72f9f55987a4dd3df0ddfc4dd341afcf0a1ce414281a"
+    },
+    {
+      "originalIndex": 9,
+      "packagedIndex": 9,
+      "uri": "geometry.bin",
+      "byteOffset": 5300756,
+      "byteLength": 23152,
+      "sha256": "865f9577780023fef7cb4643ba428aca7d0bb4ff6fd558013bf906de9cd0425e"
+    },
+    {
+      "originalIndex": 10,
+      "packagedIndex": 10,
+      "uri": "geometry.bin",
+      "byteOffset": 5323908,
+      "byteLength": 7972,
+      "sha256": "f280ac89254012e4bc7b73ab4efe8fd2c0d87ce058ac15da4adf55e562224198"
+    },
+    {
+      "originalIndex": 11,
+      "packagedIndex": 11,
+      "uri": "geometry.bin",
+      "byteOffset": 5331880,
+      "byteLength": 5821,
+      "sha256": "01795430fa6a47b3a3b9d306d972625d4d253aec3245bc48902908d299b95afb"
+    },
+    {
+      "originalIndex": 12,
+      "packagedIndex": 12,
+      "uri": "geometry.bin",
+      "byteOffset": 5337704,
+      "byteLength": 1816874,
+      "sha256": "9e7a02f194a9f4f8c48797092760b90728548c2c12f0d67db21bde2d44a4a9be"
+    },
+    {
+      "originalIndex": 13,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-000-white-plaster-02-nor-gl-1k.jpg",
+      "byteOffset": 0,
+      "byteLength": 652310,
+      "sha256": "eb572ca3630d5bfde72e2601b1f02412da23ca005cd19384dced8690be4cb783"
+    },
+    {
+      "originalIndex": 14,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-001-white-plaster-02-arm-1k.jpg",
+      "byteOffset": 0,
+      "byteLength": 191017,
+      "sha256": "2bb1115821715dfd8bbd1c5a294a5bb43b97d5c46b1aa8aa8f744bcaf5eeeb10"
+    },
+    {
+      "originalIndex": 15,
+      "packagedIndex": 13,
+      "uri": "geometry.bin",
+      "byteOffset": 7154580,
+      "byteLength": 856,
+      "sha256": "f85c26320c41ff322ed6f2465f9bdc52ff73c3becdad8ac583a7562846eefe86"
+    },
+    {
+      "originalIndex": 16,
+      "packagedIndex": 14,
+      "uri": "geometry.bin",
+      "byteOffset": 7155436,
+      "byteLength": 15061,
+      "sha256": "aa4534c1cbd8e6443cc388fd6f22e4b00ecceaa09616d09d435b2b3b1c1eaf3d"
+    },
+    {
+      "originalIndex": 17,
+      "packagedIndex": 15,
+      "uri": "geometry.bin",
+      "byteOffset": 7170500,
+      "byteLength": 831036,
+      "sha256": "eb53c0ef1182418fcbc23ae147045802a4f1585aabc78b7399a4e210a72f4159"
+    },
+    {
+      "originalIndex": 18,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-002-lobe-facade.jpg",
+      "byteOffset": 0,
+      "byteLength": 583871,
+      "sha256": "572f3d32a398f4ba023244c2f275602d7481cdc5cfd2e395eabf7cbd65e1b63d"
+    },
+    {
+      "originalIndex": 19,
+      "packagedIndex": 16,
+      "uri": "geometry.bin",
+      "byteOffset": 8001536,
+      "byteLength": 1848,
+      "sha256": "f7345745b5f3a4f006fa82d68fea74b7cbea873b5ba9b30946e40febab4d0f1d"
+    },
+    {
+      "originalIndex": 20,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-003-rustication.jpg",
+      "byteOffset": 0,
+      "byteLength": 328818,
+      "sha256": "bb2369209ef6d742e1369b02b0910981ada7ce93dcc7fbaa7fae33231e840fae"
+    },
+    {
+      "originalIndex": 21,
+      "packagedIndex": 17,
+      "uri": "geometry.bin",
+      "byteOffset": 8003384,
+      "byteLength": 8105,
+      "sha256": "442cb1cdaf31ba7b4580c89f99f3dfb7e5f0d530c2e76134593508771fc283ec"
+    },
+    {
+      "originalIndex": 22,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-004-statue-apostle.jpg",
+      "byteOffset": 0,
+      "byteLength": 416887,
+      "sha256": "a406141424fffb6d80681e140712d2291bd81dd06520eb1f847efe8ee264cce6"
+    },
+    {
+      "originalIndex": 23,
+      "packagedIndex": 18,
+      "uri": "geometry.bin",
+      "byteOffset": 8011492,
+      "byteLength": 8084,
+      "sha256": "6f8f54ec2dae4b1aa1694df98277206eef309713d30ab6c3ddc2f9f32fc5cac6"
+    },
+    {
+      "originalIndex": 24,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-005-statue-evangelist.jpg",
+      "byteOffset": 0,
+      "byteLength": 323318,
+      "sha256": "369a194070c579c5122ed0d4872a077290527c8d753e53e39252ac016e637257"
+    },
+    {
+      "originalIndex": 25,
+      "packagedIndex": 19,
+      "uri": "geometry.bin",
+      "byteOffset": 8019576,
+      "byteLength": 1313,
+      "sha256": "305141bf1fbbd5350db0666d9b30920f01a9a77036b63856d285766b7cbb403c"
+    },
+    {
+      "originalIndex": 26,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-006-door-wood.jpg",
+      "byteOffset": 0,
+      "byteLength": 238477,
+      "sha256": "23c290e8930df456e1ee6775cdb054a6f43a6a2e3179b3d3ae65d5d6ba0a5312"
+    },
+    {
+      "originalIndex": 27,
+      "packagedIndex": 20,
+      "uri": "geometry.bin",
+      "byteOffset": 8020892,
+      "byteLength": 68598,
+      "sha256": "575324626875880c9eb374f96c25f784e70ede7162760b70970bae7946f5c4d3"
+    },
+    {
+      "originalIndex": 28,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-007-dubrovitsy-church-of-sign-02.jpg",
+      "byteOffset": 0,
+      "byteLength": 533816,
+      "sha256": "bbf4bcea427cf7dc35ba708da592897138c2d5d296c81548d68bb551514e653d"
+    },
+    {
+      "originalIndex": 29,
+      "packagedIndex": 21,
+      "uri": "geometry.bin",
+      "byteOffset": 8089492,
+      "byteLength": 141770,
+      "sha256": "73a18f8f1a9c0289288982c77023889a61a16e492006497baf391afb0a5b1ed3"
+    },
+    {
+      "originalIndex": 30,
+      "packagedIndex": null,
+      "uri": "photos/tower-upper-2024.jpg",
+      "byteOffset": 0,
+      "byteLength": 9630040,
+      "sha256": "a2aed964c3d25aaf2d079de6518197e2ba67ff7d2968e1eebaedbc4aa19bb121"
+    },
+    {
+      "originalIndex": 31,
+      "packagedIndex": 22,
+      "uri": "geometry.bin",
+      "byteOffset": 8231264,
+      "byteLength": 132573,
+      "sha256": "b3530da7ff71b93cea94ea00c0b85df13cb302fc807e9bb2b33fdff378ddca7a"
+    },
+    {
+      "originalIndex": 32,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-009-park-leaf-spray-1.png",
+      "byteOffset": 0,
+      "byteLength": 56890,
+      "sha256": "ef800feb0841c26686c217802639bb6c3a48dafdc41acef4bea00debf49390dc"
+    },
+    {
+      "originalIndex": 33,
+      "packagedIndex": 23,
+      "uri": "geometry.bin",
+      "byteOffset": 8363840,
+      "byteLength": 124969,
+      "sha256": "db5a24ca6eb0dd99ac4c35af30561e640b6fe56bcb3c45542bcab0286b8cf4b8"
+    },
+    {
+      "originalIndex": 34,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-010-park-leaf-spray-2.png",
+      "byteOffset": 0,
+      "byteLength": 54196,
+      "sha256": "1ab46e4d210e398b7fc52460e4d051ee2e5fec56bbafb74d25196864c82da6b6"
+    },
+    {
+      "originalIndex": 35,
+      "packagedIndex": 24,
+      "uri": "geometry.bin",
+      "byteOffset": 8488812,
+      "byteLength": 119644,
+      "sha256": "d2a3ff2a401e32023d385dde71df20e924770a4cb779e28cb54bf81ab6024de5"
+    },
+    {
+      "originalIndex": 36,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-011-park-leaf-spray-3.png",
+      "byteOffset": 0,
+      "byteLength": 54175,
+      "sha256": "417d8ad9f93764b1be09bd8580ad88ffa4f16a6b2df4226ffc0fa1f2ffefe48d"
+    },
+    {
+      "originalIndex": 37,
+      "packagedIndex": 25,
+      "uri": "geometry.bin",
+      "byteOffset": 8608456,
+      "byteLength": 137357,
+      "sha256": "aef8c55a303bba551a33c364cf81d3851fa1f7837213f60a0d2feda625411ec7"
+    },
+    {
+      "originalIndex": 38,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-012-park-leaf-spray-4.png",
+      "byteOffset": 0,
+      "byteLength": 49733,
+      "sha256": "16d82214646c8b31fd61dc5b0457f81d611d2b80353906c4243ab9fb0a2b0629"
+    },
+    {
+      "originalIndex": 39,
+      "packagedIndex": 26,
+      "uri": "geometry.bin",
+      "byteOffset": 8745816,
+      "byteLength": 138150,
+      "sha256": "d873eaab2d3fb99b0ee63edc9c1664e758a959ed9acc628c13232da755b22966"
+    },
+    {
+      "originalIndex": 40,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-013-park-leaf-spray-5.png",
+      "byteOffset": 0,
+      "byteLength": 49635,
+      "sha256": "d3c1ea90a87a43a138e5718a89123d454210e443f1efdfdab9179c479028b56e"
+    },
+    {
+      "originalIndex": 41,
+      "packagedIndex": 27,
+      "uri": "geometry.bin",
+      "byteOffset": 8883968,
+      "byteLength": 129311,
+      "sha256": "3d5e30ba37a6946ed0ab8bfd978fd5b32869abc604e26a407479783313c857d8"
+    },
+    {
+      "originalIndex": 42,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-014-park-leaf-spray-6.png",
+      "byteOffset": 0,
+      "byteLength": 53894,
+      "sha256": "32968ea14bf6776142fcf891d11b9cbc07900963f2323e743e01cb37f68fd8b0"
+    },
+    {
+      "originalIndex": 43,
+      "packagedIndex": 28,
+      "uri": "geometry.bin",
+      "byteOffset": 9013280,
+      "byteLength": 146125,
+      "sha256": "564c3995429fa4e270fdfc77f503aa2983317f837f844a10fe85a3d52db25583"
+    },
+    {
+      "originalIndex": 44,
+      "packagedIndex": 29,
+      "uri": "geometry.bin",
+      "byteOffset": 9159408,
+      "byteLength": 121666,
+      "sha256": "46839976256024d407915a5d890bde575b67079dc10e3f2f972fe4eeb56d0784"
+    },
+    {
+      "originalIndex": 45,
+      "packagedIndex": 30,
+      "uri": "geometry.bin",
+      "byteOffset": 9281076,
+      "byteLength": 47344,
+      "sha256": "e730ae44e46034fd2b7bc4adc09492abcc2cacbb6513ac2091a4f35007ccdec7"
+    },
+    {
+      "originalIndex": 46,
+      "packagedIndex": 31,
+      "uri": "geometry.bin",
+      "byteOffset": 9328420,
+      "byteLength": 93777,
+      "sha256": "38ca9f505f1c27375f16eda607def620286cbce891371030c85768359298057e"
+    },
+    {
+      "originalIndex": 47,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-015-park-meadow-grass-1-normal-3m.png",
+      "byteOffset": 0,
+      "byteLength": 306338,
+      "sha256": "1d16296309f770fdbbae8e7010c43bdd160cd3690198a7ce1e29ea84c0896ebe"
+    },
+    {
+      "originalIndex": 48,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-016-park-meadow-grass-1-albedo-3m.png",
+      "byteOffset": 0,
+      "byteLength": 174779,
+      "sha256": "2ccc432e3bb6c4a726cfb97abdbb1fc3be4d981945ee5bc4d7f4feb0fedf01ef"
+    },
+    {
+      "originalIndex": 49,
+      "packagedIndex": 32,
+      "uri": "geometry.bin",
+      "byteOffset": 9422200,
+      "byteLength": 450428,
+      "sha256": "69104175e88fd01b632f808af11728abe6e76a132bdf5c58788cfa004aa9b9ea"
+    },
+    {
+      "originalIndex": 50,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-015-park-meadow-grass-1-normal-3m.png",
+      "byteOffset": 0,
+      "byteLength": 306338,
+      "sha256": "1d16296309f770fdbbae8e7010c43bdd160cd3690198a7ce1e29ea84c0896ebe"
+    },
+    {
+      "originalIndex": 51,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-018-park-meadow-grass-2-albedo-3m.png",
+      "byteOffset": 0,
+      "byteLength": 173746,
+      "sha256": "b40431170111683ee885a9a2e92d46502b68d1cba18e82c1887b8ee61731fa57"
+    },
+    {
+      "originalIndex": 52,
+      "packagedIndex": 33,
+      "uri": "geometry.bin",
+      "byteOffset": 9872628,
+      "byteLength": 101091,
+      "sha256": "e463b1b39ff85b40fedda87cc537392c5c0b9e961a0d8e72b117c1d21341c97c"
+    },
+    {
+      "originalIndex": 53,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-015-park-meadow-grass-1-normal-3m.png",
+      "byteOffset": 0,
+      "byteLength": 306338,
+      "sha256": "1d16296309f770fdbbae8e7010c43bdd160cd3690198a7ce1e29ea84c0896ebe"
+    },
+    {
+      "originalIndex": 54,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-020-park-meadow-grass-3-albedo-3m.png",
+      "byteOffset": 0,
+      "byteLength": 177905,
+      "sha256": "0086236f7b89243f0969f43ea4cd4f587a469cac68fb33cbdaf1e60cf19fba33"
+    },
+    {
+      "originalIndex": 55,
+      "packagedIndex": 34,
+      "uri": "geometry.bin",
+      "byteOffset": 9973720,
+      "byteLength": 71862,
+      "sha256": "73ca9ef28644627453306fc2d1beebe729390f7d48a1daf7065c4f697de01e2f"
+    },
+    {
+      "originalIndex": 56,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-021-park-reddish-gravel-apron-normal-3m.png",
+      "byteOffset": 0,
+      "byteLength": 278635,
+      "sha256": "dd167097e633bbf352a66b7e47a721a02c6b10f87242169e397fe75b1176b93b"
+    },
+    {
+      "originalIndex": 57,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-022-park-reddish-gravel-apron-albedo-3m.png",
+      "byteOffset": 0,
+      "byteLength": 229030,
+      "sha256": "5d06966504be561f612b7d3ed8791f9a8d7beaa31c119c553796b3c0421dcd87"
+    },
+    {
+      "originalIndex": 58,
+      "packagedIndex": 35,
+      "uri": "geometry.bin",
+      "byteOffset": 10045584,
+      "byteLength": 13306,
+      "sha256": "205ddc76d5865f73c9970fee114eded829857cd9492d3a5634fd26b4d4b7f5ac"
+    },
+    {
+      "originalIndex": 59,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-021-park-reddish-gravel-apron-normal-3m.png",
+      "byteOffset": 0,
+      "byteLength": 278635,
+      "sha256": "dd167097e633bbf352a66b7e47a721a02c6b10f87242169e397fe75b1176b93b"
+    },
+    {
+      "originalIndex": 60,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-024-park-worn-gravel-walks-albedo-3m.png",
+      "byteOffset": 0,
+      "byteLength": 232377,
+      "sha256": "d8df0cd2050f0f7e490d90d5b7eeea2106a436c3517e3aa63b5ab1825e60e23b"
+    },
+    {
+      "originalIndex": 61,
+      "packagedIndex": 36,
+      "uri": "geometry.bin",
+      "byteOffset": 10058892,
+      "byteLength": 15102,
+      "sha256": "18d792569cd633e297f9e98f12b69f66c92d470a5fbffa84b0822074609405e7"
+    },
+    {
+      "originalIndex": 62,
+      "packagedIndex": 37,
+      "uri": "geometry.bin",
+      "byteOffset": 10073996,
+      "byteLength": 13265,
+      "sha256": "1682c20d565f70f137b713cbbd218c9698c9755990df17169ff07cd9bc2e3665"
+    },
+    {
+      "originalIndex": 63,
+      "packagedIndex": 38,
+      "uri": "geometry.bin",
+      "byteOffset": 10087264,
+      "byteLength": 64407,
+      "sha256": "52043f586fbbce674efad73143eb0e551cf44c9777ee09349ef42ba68a3fd0d0"
+    },
+    {
+      "originalIndex": 64,
+      "packagedIndex": 39,
+      "uri": "geometry.bin",
+      "byteOffset": 10151672,
+      "byteLength": 2088263,
+      "sha256": "2a960b7ff887f904791e4a69b3a5609fe368ecff07f1da6965b9325115814797"
+    },
+    {
+      "originalIndex": 65,
+      "packagedIndex": 40,
+      "uri": "geometry.bin",
+      "byteOffset": 12239936,
+      "byteLength": 404097,
+      "sha256": "8c59351dccafe733d7a1e4a3ba4c540ce44b66ea24b63a407588ba0cc403d363"
+    },
+    {
+      "originalIndex": 66,
+      "packagedIndex": 41,
+      "uri": "geometry.bin",
+      "byteOffset": 12644036,
+      "byteLength": 3928758,
+      "sha256": "80f7ca5933c65571743ea38ec68d120d88d9a7ba5dc5d12f14334747b3ee4fd0"
+    },
+    {
+      "originalIndex": 67,
+      "packagedIndex": 42,
+      "uri": "geometry.bin",
+      "byteOffset": 16572796,
+      "byteLength": 6746982,
+      "sha256": "f3ee45ae627d55f1c17fccb38d54faabafd99a65c594d30ddacdcb17ca60e7fd"
+    },
+    {
+      "originalIndex": 68,
+      "packagedIndex": 43,
+      "uri": "geometry.bin",
+      "byteOffset": 23319780,
+      "byteLength": 162584,
+      "sha256": "e9c5e7a8ce4b6d2289499de997fac77f25f5766219b1f4d45aad612fb8fdcda4"
+    },
+    {
+      "originalIndex": 69,
+      "packagedIndex": 44,
+      "uri": "geometry.bin",
+      "byteOffset": 23482364,
+      "byteLength": 16203,
+      "sha256": "d49b8f53da657ea432761252fd57989770af9da32364e2e1025b7c8d4ea3e940"
+    },
+    {
+      "originalIndex": 70,
+      "packagedIndex": 45,
+      "uri": "geometry.bin",
+      "byteOffset": 23498568,
+      "byteLength": 829622,
+      "sha256": "8106791948a9a91d47de16a080ce5b6a15c9093336d6ffb41fcee37be690327d"
+    },
+    {
+      "originalIndex": 71,
+      "packagedIndex": 46,
+      "uri": "geometry.bin",
+      "byteOffset": 24328192,
+      "byteLength": 13946,
+      "sha256": "b6201a8e640a9f35a4c6438719fb5c8f80c7da338eb4459ea6ae2bd80e30ec61"
+    },
+    {
+      "originalIndex": 72,
+      "packagedIndex": 47,
+      "uri": "geometry.bin",
+      "byteOffset": 24342140,
+      "byteLength": 12723,
+      "sha256": "441e37943296821960d3048c589ea04340bceefbc3de7a45c957108439511832"
+    },
+    {
+      "originalIndex": 73,
+      "packagedIndex": 48,
+      "uri": "geometry.bin",
+      "byteOffset": 24354864,
+      "byteLength": 447775,
+      "sha256": "a8ff19221f37c722c29923c576547877a8b01df7b941f5b06ebd4fec4dffe6de"
+    },
+    {
+      "originalIndex": 74,
+      "packagedIndex": 49,
+      "uri": "geometry-001.bin",
+      "byteOffset": 0,
+      "byteLength": 3988979,
+      "sha256": "7a7ae5d8cc39abc171196f4bb0c2dd75d69925a23bf3b523edff653ecace2f5d"
+    },
+    {
+      "originalIndex": 75,
+      "packagedIndex": null,
+      "uri": "photos/interior-entry-2018.jpg",
+      "byteOffset": 0,
+      "byteLength": 12189018,
+      "sha256": "d17062761b87e6fcb3a10a313d43b6a9e766a186ebfa65c072eaccebdb0f2fae"
+    },
+    {
+      "originalIndex": 76,
+      "packagedIndex": 50,
+      "uri": "geometry-001.bin",
+      "byteOffset": 3988980,
+      "byteLength": 141952,
+      "sha256": "cfab2596d98cd133820daa43c76b9d0bf23b95e7014fd70864890eb93e42406c"
+    },
+    {
+      "originalIndex": 77,
+      "packagedIndex": null,
+      "uri": "photos/interior-crucifixion-2023.jpg",
+      "byteOffset": 0,
+      "byteLength": 13709567,
+      "sha256": "875f5ec02f10a6cc57be83923e8d7c6290b82fdb28a116259b478e2da19eaacc"
+    },
+    {
+      "originalIndex": 78,
+      "packagedIndex": 51,
+      "uri": "geometry-001.bin",
+      "byteOffset": 4130932,
+      "byteLength": 328210,
+      "sha256": "05413526eed46d86335e627190c34160f8b6c3429b673f614d269ac689e99d23"
+    },
+    {
+      "originalIndex": 79,
+      "packagedIndex": 52,
+      "uri": "geometry-001.bin",
+      "byteOffset": 4459144,
+      "byteLength": 1404440,
+      "sha256": "2c92cdb69b8135304ce0e2bb3e939d391f0ddf58e83b66aaa1b8bed0392e68d2"
+    },
+    {
+      "originalIndex": 80,
+      "packagedIndex": 53,
+      "uri": "geometry-001.bin",
+      "byteOffset": 5863584,
+      "byteLength": 270277,
+      "sha256": "558afc30b37d005e91a3d32ecd9f8cdd0bca6c75ff2f27c1ad4a49ca3d3e4a6e"
+    },
+    {
+      "originalIndex": 81,
+      "packagedIndex": 54,
+      "uri": "geometry-001.bin",
+      "byteOffset": 6133864,
+      "byteLength": 1985240,
+      "sha256": "e0ef05c08036d57f6b48bd67f9158cab1a9bc4978de24fff49ca6fbd9778d349"
+    },
+    {
+      "originalIndex": 82,
+      "packagedIndex": null,
+      "uri": "photos/interior-yoslash-2019.jpg",
+      "byteOffset": 0,
+      "byteLength": 5084602,
+      "sha256": "b109853b270f1c182a9d0b2d2a4759ca476eab83bda16eddcef832cc66afd289"
+    },
+    {
+      "originalIndex": 83,
+      "packagedIndex": 55,
+      "uri": "geometry-001.bin",
+      "byteOffset": 8119104,
+      "byteLength": 719614,
+      "sha256": "d7f4b4c174e3fd3d45e31fbefc7146cb2ccea6887a30b028def441add4e98436"
+    },
+    {
+      "originalIndex": 84,
+      "packagedIndex": 56,
+      "uri": "geometry-001.bin",
+      "byteOffset": 8838720,
+      "byteLength": 104460,
+      "sha256": "2f60eb2a30645822dda393fd4315f6ebb75199cbbb4cdfb1823e79c079e9ad0c"
+    },
+    {
+      "originalIndex": 85,
+      "packagedIndex": 57,
+      "uri": "geometry-001.bin",
+      "byteOffset": 8943180,
+      "byteLength": 131862,
+      "sha256": "e6d53462c4d2f3fc45eb3be511873c21a3c952144a4f8cc7e365151087b83931"
+    },
+    {
+      "originalIndex": 86,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-028-interior-crucifixion.jpg",
+      "byteOffset": 0,
+      "byteLength": 435922,
+      "sha256": "7837f94f0acc8e82821f31109dbedb6debf418c29594a8e73fc1bd8ca76dbf87"
+    },
+    {
+      "originalIndex": 87,
+      "packagedIndex": 58,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9075044,
+      "byteLength": 60551,
+      "sha256": "565cba8be3fbf7e983adcaca6658b57d48b0f2cbdbbc9ccb2706951d19d2e55e"
+    },
+    {
+      "originalIndex": 88,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-029-marble-01-nor-gl-4k.jpg",
+      "byteOffset": 0,
+      "byteLength": 1274528,
+      "sha256": "ca7efbe72f13bf156545485762307e91d6077b06746dc7cc1742908cf9873cbd"
+    },
+    {
+      "originalIndex": 89,
+      "packagedIndex": null,
+      "uri": "model-textures/sign-of-the-theotokos-dubrovitsy-image-030-marble-01-diff-4k.jpg",
+      "byteOffset": 0,
+      "byteLength": 5013465,
+      "sha256": "3c7805a8988323b46d45d747530b659b4aa46e5bfa0b57c3d21083a403de229d"
+    },
+    {
+      "originalIndex": 90,
+      "packagedIndex": 59,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9135596,
+      "byteLength": 50825,
+      "sha256": "f5e26f31a17d1042d957c9c8e6424239ef1c21e31d37cae54d87c37fbd4cc124"
+    },
+    {
+      "originalIndex": 91,
+      "packagedIndex": 60,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9186424,
+      "byteLength": 2028,
+      "sha256": "65cc343fb81467f8ab187fc9a3b21fa418aaeca68bf3aa40cf17913b47f2d002"
+    },
+    {
+      "originalIndex": 92,
+      "packagedIndex": 61,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9188452,
+      "byteLength": 47820,
+      "sha256": "2b6ee8bc3c121b80eb775adbe1dd4af49af5c2c1b9c994b0143eb85e3d264071"
+    },
+    {
+      "originalIndex": 93,
+      "packagedIndex": 62,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9236272,
+      "byteLength": 51376,
+      "sha256": "9ceb09e030aeba6f510c343898e8025f9b295bc13791c093e336004fed2022d0"
+    },
+    {
+      "originalIndex": 94,
+      "packagedIndex": 63,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9287648,
+      "byteLength": 18356,
+      "sha256": "c9f69fe6fde807d5889528217be8ac0c60e73831cfd870caaf105068f7ee5572"
+    },
+    {
+      "originalIndex": 95,
+      "packagedIndex": 64,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9306004,
+      "byteLength": 265460,
+      "sha256": "1e8a22e9d1dbadc07ac03ed514e4698dc9aef3eed34a353f1131b8ded2cb7829"
+    },
+    {
+      "originalIndex": 96,
+      "packagedIndex": 65,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9571464,
+      "byteLength": 146188,
+      "sha256": "8248012d42b8f710b76d492f64bc6e194d4ea4f2b0ea2b6bd7da3269d71b4d97"
+    },
+    {
+      "originalIndex": 97,
+      "packagedIndex": null,
+      "uri": "photos/interior-iconostasis-2015.jpg",
+      "byteOffset": 0,
+      "byteLength": 1176743,
+      "sha256": "2a6589fbf805c7ae4689af0e7ec8a805a31d3dd8d8ea50308bc5376c66856ea0"
+    },
+    {
+      "originalIndex": 98,
+      "packagedIndex": 66,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9717652,
+      "byteLength": 28815,
+      "sha256": "f889459b58c3c5b5cb9fa9ce4ccc6bfda3d5ecd986a30c5300e2a4e5efe8dd06"
+    },
+    {
+      "originalIndex": 99,
+      "packagedIndex": null,
+      "uri": "photos/interior-detail-2015.jpg",
+      "byteOffset": 0,
+      "byteLength": 1429786,
+      "sha256": "75d3c99e7a9ef3444ad0f2f65a1a4424ffe8015af1b474e6895ced8dfdba7cd5"
+    },
+    {
+      "originalIndex": 100,
+      "packagedIndex": 67,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9746468,
+      "byteLength": 41815,
+      "sha256": "96a50c3573cc1ecededc101bfa07e728cf767f1ed39b00b479e27a2f1223b026"
+    },
+    {
+      "originalIndex": 101,
+      "packagedIndex": 68,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9788284,
+      "byteLength": 118087,
+      "sha256": "b50dd6152d678b8d83b20dff2a5a47dc8569760413f05e3aa0911a881037a9f9"
+    },
+    {
+      "originalIndex": 102,
+      "packagedIndex": null,
+      "uri": "photos/interior-alexrubi-2017.jpg",
+      "byteOffset": 0,
+      "byteLength": 4208299,
+      "sha256": "f15127ac36803de29db00f29837346ef9bc2c65be46092480c52294d424868fb"
+    },
+    {
+      "originalIndex": 103,
+      "packagedIndex": 69,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9906372,
+      "byteLength": 725963,
+      "sha256": "779e97ed6fc36690d4899d6d3540e1689731e863615187f8b9dd1af5fb2a4247"
+    },
+    {
+      "originalIndex": 104,
+      "packagedIndex": 70,
+      "uri": "geometry-001.bin",
+      "byteOffset": 10632336,
+      "byteLength": 148305,
+      "sha256": "15b480738f3864d50e1e30402778e573b5e4637ac40b39f4923864cdfaf1eb51"
+    },
+    {
+      "originalIndex": 105,
+      "packagedIndex": 71,
+      "uri": "geometry-001.bin",
+      "byteOffset": 10780644,
+      "byteLength": 3413836,
+      "sha256": "672ba28e00bacae69586606dfd0cec233e83b2dc41777cadba80f59e23f92d33"
+    },
+    {
+      "originalIndex": 106,
+      "packagedIndex": 72,
+      "uri": "geometry-001.bin",
+      "byteOffset": 14194480,
+      "byteLength": 1304551,
+      "sha256": "cad6447038a08d2ef381d2681b52c092e14371dd330f515ff3bdb2eae383a4bc"
+    },
+    {
+      "originalIndex": 107,
+      "packagedIndex": 73,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15499032,
+      "byteLength": 1345343,
+      "sha256": "44d19ed35eb6dd422af36aba6e72bc2b606dba089f9dbbfe19bca436721ed217"
+    },
+    {
+      "originalIndex": 108,
+      "packagedIndex": 74,
+      "uri": "geometry-001.bin",
+      "byteOffset": 16844376,
+      "byteLength": 327069,
+      "sha256": "152e08ee12e91c1c299815810b9afb0acc171e1f5ab870d786c0500ae441d664"
+    },
+    {
+      "originalIndex": 109,
+      "packagedIndex": 75,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17171448,
+      "byteLength": 9350,
+      "sha256": "f0836c98a499f83362f9bef6718ddacbec3e4cc53c928a44b26eb2a180fdd018"
+    },
+    {
+      "originalIndex": 110,
+      "packagedIndex": 76,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17180800,
+      "byteLength": 27907,
+      "sha256": "c5171e1ba39f52a27eacdcf468ed0a758495eca8662724ee3c655107e55f9fb8"
+    },
+    {
+      "originalIndex": 111,
+      "packagedIndex": 77,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17208708,
+      "byteLength": 2216,
+      "sha256": "5e4901b63d5facc70dc54a183bf0497da576ab24da55801ff632b583ef0a5e25"
+    },
+    {
+      "originalIndex": 112,
+      "packagedIndex": 78,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17210924,
+      "byteLength": 17251,
+      "sha256": "780a7c1a2a24e294ef643e3ff0d3a26ccf19b2a92da832d2e2964e6361ce6ad7"
+    },
+    {
+      "originalIndex": 113,
+      "packagedIndex": 79,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17228176,
+      "byteLength": 964,
+      "sha256": "fc2fd4c2b5ee7e63b8fa795c4602fbcb704957ab504e6e8d6b563650d017c52c"
+    },
+    {
+      "originalIndex": 114,
+      "packagedIndex": 80,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17229140,
+      "byteLength": 341164,
+      "sha256": "eaff0dee9256c6e77c96019a8733fb00c3fdfb1c88dcb65d236fb621d914716d"
+    },
+    {
+      "originalIndex": 115,
+      "packagedIndex": 81,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17570304,
+      "byteLength": 30175,
+      "sha256": "f4ca91efa2d9eddd984e2a42dd4dcf60b5b86ec152a0e30212922b26f1590bd5"
+    },
+    {
+      "originalIndex": 116,
+      "packagedIndex": 82,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17600480,
+      "byteLength": 1805,
+      "sha256": "4076c48f4f8a2e05c3ad6dc1f71b331ee68ed1de083bff632f5504249a5aca3e"
+    },
+    {
+      "originalIndex": 117,
+      "packagedIndex": 83,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17602288,
+      "byteLength": 158111,
+      "sha256": "5eb1955a41f3b8e428100d3c7469919f752866ba9d190175d40b7c0dd3060a10"
+    },
+    {
+      "originalIndex": 118,
+      "packagedIndex": 84,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17760400,
+      "byteLength": 94964,
+      "sha256": "f59f7239b9f73ebef7cffc5ba253b937f3939dc07486324fc868d474eee8ed44"
+    },
+    {
+      "originalIndex": 119,
+      "packagedIndex": 85,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17855364,
+      "byteLength": 34986,
+      "sha256": "7ed5467f40686fc860623b5cc429cb60a2ce390e50132698442b5a8e11b56a30"
+    },
+    {
+      "originalIndex": 120,
+      "packagedIndex": 86,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17890352,
+      "byteLength": 35573,
+      "sha256": "5ba36c7815105cf0e828f71b820a87545a1a5a624769c8bb0e5bd20bbb4f198b"
+    },
+    {
+      "originalIndex": 121,
+      "packagedIndex": 87,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17925928,
+      "byteLength": 57444,
+      "sha256": "ae511ccfba86287bba2bb77afc2d54551942469a6f4059d3f6c4354d29d2b4c9"
+    },
+    {
+      "originalIndex": 122,
+      "packagedIndex": 88,
+      "uri": "geometry-001.bin",
+      "byteOffset": 17983372,
+      "byteLength": 119267,
+      "sha256": "433fbce118a8494a74a6b31089b6303d272d6746736fb4395f9dde8ab698c450"
+    },
+    {
+      "originalIndex": 123,
+      "packagedIndex": 89,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18102640,
+      "byteLength": 329746,
+      "sha256": "e785b78032f8db429c817e5b02bf371c164d284f94635272b9c4e5ce6dbefbda"
+    },
+    {
+      "originalIndex": 124,
+      "packagedIndex": 90,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18432388,
+      "byteLength": 316283,
+      "sha256": "80be19eea73325ab43ef621bd870fb0b5c730fdf5f6f1a128cde6f543d1a2f03"
+    },
+    {
+      "originalIndex": 125,
+      "packagedIndex": 91,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18748672,
+      "byteLength": 76559,
+      "sha256": "336cf28383e95648414e0b27ad75633814cb1ae123e81a2db0afd4e2852575ad"
+    },
+    {
+      "originalIndex": 126,
+      "packagedIndex": 92,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18825232,
+      "byteLength": 13874,
+      "sha256": "11c87ea94347f9c70fd21e06e172be389d458a423a28aa129d2558b3700b8e10"
+    }
+  ],
+  "files": {
+    "geometry-001.bin": {
+      "byteLength": 18839106,
+      "sha256": "662e3d7e999f0732b0b41f801efbc334508981e9a025303bbad6e7efa855f271"
+    },
+    "geometry.bin": {
+      "byteLength": 24802639,
+      "sha256": "589486edd0b1e71570b3e58462006b5ace60edf1b4b284e302998a8a7a8a4d85"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-000-white-plaster-02-nor-gl-1k.jpg": {
+      "byteLength": 652310,
+      "sha256": "eb572ca3630d5bfde72e2601b1f02412da23ca005cd19384dced8690be4cb783"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-001-white-plaster-02-arm-1k.jpg": {
+      "byteLength": 191017,
+      "sha256": "2bb1115821715dfd8bbd1c5a294a5bb43b97d5c46b1aa8aa8f744bcaf5eeeb10"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-002-lobe-facade.jpg": {
+      "byteLength": 583871,
+      "sha256": "572f3d32a398f4ba023244c2f275602d7481cdc5cfd2e395eabf7cbd65e1b63d"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-003-rustication.jpg": {
+      "byteLength": 328818,
+      "sha256": "bb2369209ef6d742e1369b02b0910981ada7ce93dcc7fbaa7fae33231e840fae"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-004-statue-apostle.jpg": {
+      "byteLength": 416887,
+      "sha256": "a406141424fffb6d80681e140712d2291bd81dd06520eb1f847efe8ee264cce6"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-005-statue-evangelist.jpg": {
+      "byteLength": 323318,
+      "sha256": "369a194070c579c5122ed0d4872a077290527c8d753e53e39252ac016e637257"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-006-door-wood.jpg": {
+      "byteLength": 238477,
+      "sha256": "23c290e8930df456e1ee6775cdb054a6f43a6a2e3179b3d3ae65d5d6ba0a5312"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-007-dubrovitsy-church-of-sign-02.jpg": {
+      "byteLength": 533816,
+      "sha256": "bbf4bcea427cf7dc35ba708da592897138c2d5d296c81548d68bb551514e653d"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-009-park-leaf-spray-1.png": {
+      "byteLength": 56890,
+      "sha256": "ef800feb0841c26686c217802639bb6c3a48dafdc41acef4bea00debf49390dc"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-010-park-leaf-spray-2.png": {
+      "byteLength": 54196,
+      "sha256": "1ab46e4d210e398b7fc52460e4d051ee2e5fec56bbafb74d25196864c82da6b6"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-011-park-leaf-spray-3.png": {
+      "byteLength": 54175,
+      "sha256": "417d8ad9f93764b1be09bd8580ad88ffa4f16a6b2df4226ffc0fa1f2ffefe48d"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-012-park-leaf-spray-4.png": {
+      "byteLength": 49733,
+      "sha256": "16d82214646c8b31fd61dc5b0457f81d611d2b80353906c4243ab9fb0a2b0629"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-013-park-leaf-spray-5.png": {
+      "byteLength": 49635,
+      "sha256": "d3c1ea90a87a43a138e5718a89123d454210e443f1efdfdab9179c479028b56e"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-014-park-leaf-spray-6.png": {
+      "byteLength": 53894,
+      "sha256": "32968ea14bf6776142fcf891d11b9cbc07900963f2323e743e01cb37f68fd8b0"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-015-park-meadow-grass-1-normal-3m.png": {
+      "byteLength": 306338,
+      "sha256": "1d16296309f770fdbbae8e7010c43bdd160cd3690198a7ce1e29ea84c0896ebe"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-016-park-meadow-grass-1-albedo-3m.png": {
+      "byteLength": 174779,
+      "sha256": "2ccc432e3bb6c4a726cfb97abdbb1fc3be4d981945ee5bc4d7f4feb0fedf01ef"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-018-park-meadow-grass-2-albedo-3m.png": {
+      "byteLength": 173746,
+      "sha256": "b40431170111683ee885a9a2e92d46502b68d1cba18e82c1887b8ee61731fa57"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-020-park-meadow-grass-3-albedo-3m.png": {
+      "byteLength": 177905,
+      "sha256": "0086236f7b89243f0969f43ea4cd4f587a469cac68fb33cbdaf1e60cf19fba33"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-021-park-reddish-gravel-apron-normal-3m.png": {
+      "byteLength": 278635,
+      "sha256": "dd167097e633bbf352a66b7e47a721a02c6b10f87242169e397fe75b1176b93b"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-022-park-reddish-gravel-apron-albedo-3m.png": {
+      "byteLength": 229030,
+      "sha256": "5d06966504be561f612b7d3ed8791f9a8d7beaa31c119c553796b3c0421dcd87"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-024-park-worn-gravel-walks-albedo-3m.png": {
+      "byteLength": 232377,
+      "sha256": "d8df0cd2050f0f7e490d90d5b7eeea2106a436c3517e3aa63b5ab1825e60e23b"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-028-interior-crucifixion.jpg": {
+      "byteLength": 435922,
+      "sha256": "7837f94f0acc8e82821f31109dbedb6debf418c29594a8e73fc1bd8ca76dbf87"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-029-marble-01-nor-gl-4k.jpg": {
+      "byteLength": 1274528,
+      "sha256": "ca7efbe72f13bf156545485762307e91d6077b06746dc7cc1742908cf9873cbd"
+    },
+    "model-textures/sign-of-the-theotokos-dubrovitsy-image-030-marble-01-diff-4k.jpg": {
+      "byteLength": 5013465,
+      "sha256": "3c7805a8988323b46d45d747530b659b4aa46e5bfa0b57c3d21083a403de229d"
+    },
+    "photos/interior-alexrubi-2017.jpg": {
+      "byteLength": 4208299,
+      "sha256": "f15127ac36803de29db00f29837346ef9bc2c65be46092480c52294d424868fb"
+    },
+    "photos/interior-crucifixion-2023.jpg": {
+      "byteLength": 13709567,
+      "sha256": "875f5ec02f10a6cc57be83923e8d7c6290b82fdb28a116259b478e2da19eaacc"
+    },
+    "photos/interior-detail-2015.jpg": {
+      "byteLength": 1429786,
+      "sha256": "75d3c99e7a9ef3444ad0f2f65a1a4424ffe8015af1b474e6895ced8dfdba7cd5"
+    },
+    "photos/interior-entry-2018.jpg": {
+      "byteLength": 12189018,
+      "sha256": "d17062761b87e6fcb3a10a313d43b6a9e766a186ebfa65c072eaccebdb0f2fae"
+    },
+    "photos/interior-iconostasis-2015.jpg": {
+      "byteLength": 1176743,
+      "sha256": "2a6589fbf805c7ae4689af0e7ec8a805a31d3dd8d8ea50308bc5376c66856ea0"
+    },
+    "photos/interior-yoslash-2019.jpg": {
+      "byteLength": 5084602,
+      "sha256": "b109853b270f1c182a9d0b2d2a4759ca476eab83bda16eddcef832cc66afd289"
+    },
+    "photos/tower-upper-2024.jpg": {
+      "byteLength": 9630040,
+      "sha256": "a2aed964c3d25aaf2d079de6518197e2ba67ff7d2968e1eebaedbc4aa19bb121"
+    },
+    "sign-of-the-theotokos-dubrovitsy.gltf": {
+      "byteLength": 192924,
+      "sha256": "74bff52eade24099b54fd0463067ba7c4fa56af746ffbd21ed86af47b22fdca6"
+    }
+  }
+}

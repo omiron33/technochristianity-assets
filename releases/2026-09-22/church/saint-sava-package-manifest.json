@@ -1,0 +1,1874 @@
+{
+  "formatVersion": 1,
+  "generator": "church-lossless-gltf-packager",
+  "model": "saint-sava",
+  "source": {
+    "file": "saint-sava.glb",
+    "byteLength": 118967540,
+    "sha256": "45ada58eeed662f7db5479bdaf2f9b63582968f5feb0a971889ee89d2241eda5"
+  },
+  "maxFileBytes": 25000000,
+  "gltf": "saint-sava.gltf",
+  "validation": {
+    "bufferViewsCompared": 187,
+    "imagesCompared": 86,
+    "documentRoundTripEqual": true,
+    "compressedBytesPreserved": true
+  },
+  "bufferViews": [
+    {
+      "originalIndex": 0,
+      "packagedIndex": 0,
+      "uri": "geometry.bin",
+      "byteOffset": 0,
+      "byteLength": 14852,
+      "sha256": "93b828561ce96dca087fb14cf93fabdb56305c6facfc0756d9ba8eb98ccf98f4"
+    },
+    {
+      "originalIndex": 1,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-000-stone-nor-gl.jpg",
+      "byteOffset": 0,
+      "byteLength": 35915,
+      "sha256": "0e61700d980c751d5c5070fd5e0992aa0d8468857db55719336f27c3e2c5e27c"
+    },
+    {
+      "originalIndex": 2,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-001-stone-diff.jpg",
+      "byteOffset": 0,
+      "byteLength": 219367,
+      "sha256": "78265c6fedc05746644245b1557cb766666fb1b4ed2dfb3bfdffc7d0b8900941"
+    },
+    {
+      "originalIndex": 3,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-002-stone-rough.png",
+      "byteOffset": 0,
+      "byteLength": 128065,
+      "sha256": "5d9ed20420313575938c9bec18f085a4ec925a46d7ba50bcf35494a1525a0ded"
+    },
+    {
+      "originalIndex": 4,
+      "packagedIndex": 1,
+      "uri": "geometry.bin",
+      "byteOffset": 14852,
+      "byteLength": 14375296,
+      "sha256": "18bc8f476eb36758697238ccd986b3b623e3120eee3e6adbb4fa54cc7c15e2ec"
+    },
+    {
+      "originalIndex": 5,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-003-marble.jpg",
+      "byteOffset": 0,
+      "byteLength": 134659,
+      "sha256": "d99cce7a327982058a4e81dd6fa025ace2d1283a363e8ca84aafd88eb8057950"
+    },
+    {
+      "originalIndex": 6,
+      "packagedIndex": 2,
+      "uri": "geometry.bin",
+      "byteOffset": 14390148,
+      "byteLength": 48069,
+      "sha256": "6d939682ed0c5cefb80e8a271a3756af563bf39d93affc9669a0fc22b2cd7eb2"
+    },
+    {
+      "originalIndex": 7,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-004-repair-green-continuous.jpg",
+      "byteOffset": 0,
+      "byteLength": 649730,
+      "sha256": "f6103b37c63a1517cd33d558222f0ce2aea4624e60698ad4e87d66750f6429f6"
+    },
+    {
+      "originalIndex": 8,
+      "packagedIndex": 3,
+      "uri": "geometry.bin",
+      "byteOffset": 14438220,
+      "byteLength": 126398,
+      "sha256": "a7d544df724598708ca69f84ae08deb7848e044fd45cdb3b0cf4b70f9d6a4841"
+    },
+    {
+      "originalIndex": 9,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-005-repair-gallery-shafts.jpg",
+      "byteOffset": 0,
+      "byteLength": 1477812,
+      "sha256": "9851b6d1c39861d24d58983203969ec09ec776290979f51352ac47bd6e96bd24"
+    },
+    {
+      "originalIndex": 10,
+      "packagedIndex": 4,
+      "uri": "geometry.bin",
+      "byteOffset": 14564620,
+      "byteLength": 4744331,
+      "sha256": "1f809f13446e03a3f2a4dafc2541cb9779cf5fab74d97d0320de5d9a9b0207f3"
+    },
+    {
+      "originalIndex": 11,
+      "packagedIndex": 5,
+      "uri": "geometry.bin",
+      "byteOffset": 19308952,
+      "byteLength": 3616369,
+      "sha256": "758deb42b8ac794046386b33bb3e6d84cdc081de13940182a8af7606b6fb668b"
+    },
+    {
+      "originalIndex": 12,
+      "packagedIndex": 6,
+      "uri": "geometry.bin",
+      "byteOffset": 22925324,
+      "byteLength": 331395,
+      "sha256": "a07526cb52fa140b1c74d5fb63705361f37d7ea8a7854e06744e7f9713576584"
+    },
+    {
+      "originalIndex": 13,
+      "packagedIndex": 7,
+      "uri": "geometry.bin",
+      "byteOffset": 23256720,
+      "byteLength": 36922,
+      "sha256": "2344286105361b3e03c8aefe7c7befe1151d8a4841d954bc31f6d00d6d63c1f3"
+    },
+    {
+      "originalIndex": 14,
+      "packagedIndex": 8,
+      "uri": "geometry.bin",
+      "byteOffset": 23293644,
+      "byteLength": 93964,
+      "sha256": "bebf4bd7ff2ce0daee84f2ed6569327753cdb2cba6f98b7a0e20793eb9f330fa"
+    },
+    {
+      "originalIndex": 15,
+      "packagedIndex": 9,
+      "uri": "geometry.bin",
+      "byteOffset": 23387608,
+      "byteLength": 267660,
+      "sha256": "8275da46b7e3556083a8c4cfdeef35fd80081448c2f2f4e0566b13a891dc499d"
+    },
+    {
+      "originalIndex": 16,
+      "packagedIndex": 10,
+      "uri": "geometry-001.bin",
+      "byteOffset": 0,
+      "byteLength": 1513121,
+      "sha256": "f881b31cc487ae146f2e8e01187115642e88a50ddfee63957bbbdbc618386849"
+    },
+    {
+      "originalIndex": 17,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-006-mosaic-normal.png",
+      "byteOffset": 0,
+      "byteLength": 190011,
+      "sha256": "3f2b740d8977e7fc97e1c925e5a4253430e258ad07b9a099f31fd4dd9268b44c"
+    },
+    {
+      "originalIndex": 18,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-007-gold.jpg",
+      "byteOffset": 0,
+      "byteLength": 8384,
+      "sha256": "73573067d0f01a2df0a306f694fb29181fce8a3eab3f0cd99c09280ebab79e39"
+    },
+    {
+      "originalIndex": 19,
+      "packagedIndex": 11,
+      "uri": "geometry-001.bin",
+      "byteOffset": 1513124,
+      "byteLength": 3188515,
+      "sha256": "a9dc49d35384175f21d6dd684021ac1ad01db605297596905377598cc8b1ba78"
+    },
+    {
+      "originalIndex": 20,
+      "packagedIndex": 12,
+      "uri": "geometry-001.bin",
+      "byteOffset": 4701640,
+      "byteLength": 125145,
+      "sha256": "ff5b6da5774ac560d6dd6febf83adac339a0a997bee2292cabf07f9dffd548ff"
+    },
+    {
+      "originalIndex": 21,
+      "packagedIndex": 13,
+      "uri": "geometry-001.bin",
+      "byteOffset": 4826788,
+      "byteLength": 1155605,
+      "sha256": "1522682c1d97d82307549a42b18959008dc733010448c0bb17e251c12219a1da"
+    },
+    {
+      "originalIndex": 22,
+      "packagedIndex": 14,
+      "uri": "geometry-001.bin",
+      "byteOffset": 5982396,
+      "byteLength": 383512,
+      "sha256": "c92bfcd43b74faaa90ebc1110e53e9474f9f834d826940058f3ccf7533dd4319"
+    },
+    {
+      "originalIndex": 23,
+      "packagedIndex": 15,
+      "uri": "geometry-001.bin",
+      "byteOffset": 6365908,
+      "byteLength": 172603,
+      "sha256": "209e3e51c68f5ec389a3c0fcd4dbb27c65921e7a8e556518ca3d8f53f221a227"
+    },
+    {
+      "originalIndex": 24,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-008-east-christ.jpg",
+      "byteOffset": 0,
+      "byteLength": 472606,
+      "sha256": "ec77c9a1b5b57924782be54b212f8bd8ebea11b2f0f6ea179afc2c4ba98f76f8"
+    },
+    {
+      "originalIndex": 25,
+      "packagedIndex": 16,
+      "uri": "geometry-001.bin",
+      "byteOffset": 6538512,
+      "byteLength": 103778,
+      "sha256": "4290b0e5db0ccbf3e89966baefce206aa449720e6a71eee125e16f4df4c938a6"
+    },
+    {
+      "originalIndex": 26,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-009-theotokos.jpg",
+      "byteOffset": 0,
+      "byteLength": 641096,
+      "sha256": "dcd8eb39193eca998f4fa00f6846126b012b086332edc16ae57b3e5b13ce526b"
+    },
+    {
+      "originalIndex": 27,
+      "packagedIndex": 17,
+      "uri": "geometry-001.bin",
+      "byteOffset": 6642292,
+      "byteLength": 186136,
+      "sha256": "1f6f9329818069f986062ee719de4901cba260c807f2bab6c93ab4c8126d3805"
+    },
+    {
+      "originalIndex": 28,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-010-resurrection.jpg",
+      "byteOffset": 0,
+      "byteLength": 974113,
+      "sha256": "112c60c4b1fa4800a374180ebadcd04e74c90274a172251138d099d244416c75"
+    },
+    {
+      "originalIndex": 29,
+      "packagedIndex": 18,
+      "uri": "geometry-001.bin",
+      "byteOffset": 6828428,
+      "byteLength": 188461,
+      "sha256": "7b9287e6a4374f0d913ada7602742d18abcf3cebd8efb905a3b1e0b261ec0561"
+    },
+    {
+      "originalIndex": 30,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-011-nativity.jpg",
+      "byteOffset": 0,
+      "byteLength": 894835,
+      "sha256": "80dfa84379ba6b37bd76bfcb941ee642950105b1a7c5a7e6ff7909fed983db64"
+    },
+    {
+      "originalIndex": 31,
+      "packagedIndex": 19,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7016892,
+      "byteLength": 8371,
+      "sha256": "28176cf281cbed984c064a1f7b75d7baf9a8420360c3d66618e5244684f08c1e"
+    },
+    {
+      "originalIndex": 32,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-012-east-arch.jpg",
+      "byteOffset": 0,
+      "byteLength": 1164882,
+      "sha256": "97afb96289002bb0303c2f1bf9cecade99ae38ab108b08cf4ec3ecc0a022c7c9"
+    },
+    {
+      "originalIndex": 33,
+      "packagedIndex": 20,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7025264,
+      "byteLength": 20760,
+      "sha256": "0406044cb8ef9c9310131bfe70af2eb9211b075a16a44c80eb92f05f549d9272"
+    },
+    {
+      "originalIndex": 34,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-013-south-arch.jpg",
+      "byteOffset": 0,
+      "byteLength": 1778160,
+      "sha256": "6a04c288c99195cef40d7fd16dbdacf961331d6b97851a36e14e5265c23ee900"
+    },
+    {
+      "originalIndex": 35,
+      "packagedIndex": 21,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7046024,
+      "byteLength": 20583,
+      "sha256": "90e57379e39535e9b1533c8a3751a56c78abd567b90d232535e990ea4bbcd3cb"
+    },
+    {
+      "originalIndex": 36,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-014-north-arch.jpg",
+      "byteOffset": 0,
+      "byteLength": 1553880,
+      "sha256": "fc0c1f13053d843cb0750fd1690f04ce5135322edb51f60317f60107b89feef0"
+    },
+    {
+      "originalIndex": 37,
+      "packagedIndex": 22,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7066608,
+      "byteLength": 72848,
+      "sha256": "feecb19af744199ee967dd0fbec347347e3f567b0ffa6be152834fac332b90f3"
+    },
+    {
+      "originalIndex": 38,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-015-ascension.jpg",
+      "byteOffset": 0,
+      "byteLength": 1666151,
+      "sha256": "bda79b3f7001b8c043a48e8bbb2b57e222e008cc1f4cb3fd6a49417da1c9a7f9"
+    },
+    {
+      "originalIndex": 39,
+      "packagedIndex": 23,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7139456,
+      "byteLength": 15999,
+      "sha256": "f5cd7587bd02412a51fd1f4635b8667de858d95b52800787b245a680b28ae1d3"
+    },
+    {
+      "originalIndex": 40,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-016-drum-frieze.jpg",
+      "byteOffset": 0,
+      "byteLength": 170804,
+      "sha256": "33eb5f306e61fa981730e732a16f8c6dfafb16734e95d73496d83481dd2b2b17"
+    },
+    {
+      "originalIndex": 41,
+      "packagedIndex": 24,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7155456,
+      "byteLength": 4420,
+      "sha256": "7ecf98c838a09e151c97e70ab25233d15d7fa1dc6305edec304386bb5690b8eb"
+    },
+    {
+      "originalIndex": 42,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-017-annunciation-left.jpg",
+      "byteOffset": 0,
+      "byteLength": 607147,
+      "sha256": "67b30beff13d3a39be579253013dae326aca5f0f93cf8871e3c45b39ce7344c0"
+    },
+    {
+      "originalIndex": 43,
+      "packagedIndex": 25,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7159876,
+      "byteLength": 4403,
+      "sha256": "887292cdf27eed75c91ad0e8a8e970752bcc0e990b07d88b91242e8b9a143577"
+    },
+    {
+      "originalIndex": 44,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-018-annunciation-right.jpg",
+      "byteOffset": 0,
+      "byteLength": 541572,
+      "sha256": "1e898546ef78709dfaf27b8fcb1f66aadd172f6badf3a93ee6eb19ed2c1c7afb"
+    },
+    {
+      "originalIndex": 45,
+      "packagedIndex": 26,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7164280,
+      "byteLength": 319,
+      "sha256": "b4ed9575e6ecac2a7ded9b93093db933cc0ea1e48028432500b5349951bac4bf"
+    },
+    {
+      "originalIndex": 46,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-019-icon-0.jpg",
+      "byteOffset": 0,
+      "byteLength": 130727,
+      "sha256": "6bebce47ac6b8778089d27497de1f501e9b5bf739e91721b8ce8feeffa2871e5"
+    },
+    {
+      "originalIndex": 47,
+      "packagedIndex": 27,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7164600,
+      "byteLength": 254,
+      "sha256": "c16b18d723ec9503c92ea6d4669bb8ba38201c70a99ddb08f9ec5612a8d13e89"
+    },
+    {
+      "originalIndex": 48,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-020-icon-1.jpg",
+      "byteOffset": 0,
+      "byteLength": 130802,
+      "sha256": "64fb69dc91981d5fc24db504c677f79fd45af420f33f580606ac61fd477b2b23"
+    },
+    {
+      "originalIndex": 49,
+      "packagedIndex": 28,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7164856,
+      "byteLength": 254,
+      "sha256": "e8c46726cd3c25b3a2cd84636dbeaeedd6c20d6929ecd8ed4ad33b46ddaf09ac"
+    },
+    {
+      "originalIndex": 50,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-021-icon-2.jpg",
+      "byteOffset": 0,
+      "byteLength": 143019,
+      "sha256": "e41402ec682bd31c0251134b4215b58197738164d1657d91de0709b182f7393d"
+    },
+    {
+      "originalIndex": 51,
+      "packagedIndex": 29,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7165112,
+      "byteLength": 253,
+      "sha256": "9ed1eb83a1f3b3107649d56727bc66de3ccfdae24f3cfc100246b8e2eec44c91"
+    },
+    {
+      "originalIndex": 52,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-022-icon-3.jpg",
+      "byteOffset": 0,
+      "byteLength": 132908,
+      "sha256": "84d64ace721215edf328bc8c29a8112999cd844db5b30dd5bb34d722560939b1"
+    },
+    {
+      "originalIndex": 53,
+      "packagedIndex": 30,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7165368,
+      "byteLength": 255,
+      "sha256": "c9dd56a389ca1f3d1621a8de00ecb881b983e560b93afaf8abd1410a283456e2"
+    },
+    {
+      "originalIndex": 54,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-023-icon-4.jpg",
+      "byteOffset": 0,
+      "byteLength": 149990,
+      "sha256": "51639bd428044402e2ffe2429c0f00b5bbe0f4ef6356f48ea36462cf299faeec"
+    },
+    {
+      "originalIndex": 55,
+      "packagedIndex": 31,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7165624,
+      "byteLength": 318,
+      "sha256": "b253690f6dfc2f733355e90b098fc9f3aea774124e4c04835766d79b40e62083"
+    },
+    {
+      "originalIndex": 56,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-024-icon-5.jpg",
+      "byteOffset": 0,
+      "byteLength": 141635,
+      "sha256": "d0b16d8d1353e8c3505db84aab86d134a34f010bf6f82144fb32123d7608936a"
+    },
+    {
+      "originalIndex": 57,
+      "packagedIndex": 32,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7165944,
+      "byteLength": 17338,
+      "sha256": "207c5ea2d431c08720447b2965bcfe7b1633467965d15acfebbb3b5e1a1d69e8"
+    },
+    {
+      "originalIndex": 58,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-025-royal-doors.jpg",
+      "byteOffset": 0,
+      "byteLength": 328070,
+      "sha256": "4ffbe58bf40f75420e2274effb64d4f36fccb2dfe8fd376db262d6de3f1319c3"
+    },
+    {
+      "originalIndex": 59,
+      "packagedIndex": 33,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7183284,
+      "byteLength": 16959,
+      "sha256": "b2794eba3af56e2239f97aec13e7829ab958c952580f4029c93fdb2ac1d4eefe"
+    },
+    {
+      "originalIndex": 60,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-026-trinity-feast.jpg",
+      "byteOffset": 0,
+      "byteLength": 224586,
+      "sha256": "3f11ceb1c573fee300353c79e3b2d3fee24b685a443846e375852c1c5604b716"
+    },
+    {
+      "originalIndex": 61,
+      "packagedIndex": 34,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7200244,
+      "byteLength": 117759,
+      "sha256": "7a8b3115132406a2f31f95d36006cef477194394c40429d036e003a10dbfef78"
+    },
+    {
+      "originalIndex": 62,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-027-observed-feast-atlas.jpg",
+      "byteOffset": 0,
+      "byteLength": 499299,
+      "sha256": "c9592313572af77e8e78074ca36e5ab7d2836acaa6375a02325956c63beb08b2"
+    },
+    {
+      "originalIndex": 63,
+      "packagedIndex": 35,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7318004,
+      "byteLength": 275025,
+      "sha256": "b1f01ee250c048406221fe9aef82c8c8f84e6194304647fb51619fb1e633ad10"
+    },
+    {
+      "originalIndex": 64,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-028-capital.jpg",
+      "byteOffset": 0,
+      "byteLength": 42171,
+      "sha256": "2de3d9a3f1494c4de7422c712169557543f212675d072e23f580c48fa67e9068"
+    },
+    {
+      "originalIndex": 65,
+      "packagedIndex": 36,
+      "uri": "geometry-001.bin",
+      "byteOffset": 7593032,
+      "byteLength": 590617,
+      "sha256": "b6406d90f1d29bb434cd2447e810b247ae54b3a2b3c088cef525540200b663a2"
+    },
+    {
+      "originalIndex": 66,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-029-carving.jpg",
+      "byteOffset": 0,
+      "byteLength": 84677,
+      "sha256": "c6ec554d6cf43849d8313445e084376318c210f373372b585e19f4252ccfa1ef"
+    },
+    {
+      "originalIndex": 67,
+      "packagedIndex": 37,
+      "uri": "geometry-001.bin",
+      "byteOffset": 8183652,
+      "byteLength": 339576,
+      "sha256": "81579d0031176e9a74389cd2354c7150d35237709b6b6e5e9f7c1375b27ce48a"
+    },
+    {
+      "originalIndex": 68,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-030-iconostasis-facade.jpg",
+      "byteOffset": 0,
+      "byteLength": 1279677,
+      "sha256": "a73f4033254693558749de616a4a3f3ec04413476869e57940e15e7a7d534b89"
+    },
+    {
+      "originalIndex": 69,
+      "packagedIndex": 38,
+      "uri": "geometry-001.bin",
+      "byteOffset": 8523228,
+      "byteLength": 333,
+      "sha256": "86343be6fe31baa6ac3587c2045d5d80de1ac4a20eff8de9c438550a5757eb9f"
+    },
+    {
+      "originalIndex": 70,
+      "packagedIndex": 39,
+      "uri": "geometry-001.bin",
+      "byteOffset": 8523564,
+      "byteLength": 747155,
+      "sha256": "e3f4b3318d725604ce559db2ac9fc682cbdb48e617c40449eb9c26ea0bdbec3a"
+    },
+    {
+      "originalIndex": 71,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-031-corona-fret.jpg",
+      "byteOffset": 0,
+      "byteLength": 6176,
+      "sha256": "de32d066b998403ab5bb2029a23f1b92f2f80f8397950f93ae33a75f93da957a"
+    },
+    {
+      "originalIndex": 72,
+      "packagedIndex": 40,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9270720,
+      "byteLength": 691674,
+      "sha256": "8ab7d6d46eafa3887c0edac3f955a3a95668252855c0e17cac3eb359be3ab200"
+    },
+    {
+      "originalIndex": 73,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-032-corona-cherub.jpg",
+      "byteOffset": 0,
+      "byteLength": 7516,
+      "sha256": "b5fe83be63b0f1a71819fbb0f3f9fa58373d0d0f243304446e711d54872fe2ee"
+    },
+    {
+      "originalIndex": 74,
+      "packagedIndex": 41,
+      "uri": "geometry-001.bin",
+      "byteOffset": 9962396,
+      "byteLength": 5168820,
+      "sha256": "6174e31bc41e36fca3ab6bb49bd7deaf1a2587e78f88aee199460cf83b8ec90f"
+    },
+    {
+      "originalIndex": 75,
+      "packagedIndex": 42,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15131216,
+      "byteLength": 186813,
+      "sha256": "37422fc4262252da725780f75070bd168bcf91658ae27b3f56a1605b96f4619d"
+    },
+    {
+      "originalIndex": 76,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-033-dormition.jpg",
+      "byteOffset": 0,
+      "byteLength": 957016,
+      "sha256": "bf33aea43db360213513203021fa4c09118c5223a35140bcdad828325420832e"
+    },
+    {
+      "originalIndex": 77,
+      "packagedIndex": 43,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15318032,
+      "byteLength": 12545,
+      "sha256": "8b3580274ec9bc69983b0bd4ae355d5e6a2650ea146b07846cd9e4bd9377b945"
+    },
+    {
+      "originalIndex": 78,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-034-west-arch.jpg",
+      "byteOffset": 0,
+      "byteLength": 640316,
+      "sha256": "fdbd1a3bfa11d6b40ef01b7ea5d8500e62ec2485eb398e64da5d12189d9449cf"
+    },
+    {
+      "originalIndex": 79,
+      "packagedIndex": 44,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15330580,
+      "byteLength": 11396,
+      "sha256": "ba99ce06f8a5a666e96b11b2dfac7345026769d97da71a394daf148e650b04e8"
+    },
+    {
+      "originalIndex": 80,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-035-west-portrait-rim.jpg",
+      "byteOffset": 0,
+      "byteLength": 256833,
+      "sha256": "fda8e702cf81d29b62641a90e21932e1bf517bb69f5a8622ad160090e633098b"
+    },
+    {
+      "originalIndex": 81,
+      "packagedIndex": 45,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15341976,
+      "byteLength": 21360,
+      "sha256": "1451c6dbd5faf0cbaf17c4fe98a24746d5682a8d6b2f4a124f0b023de34c40b7"
+    },
+    {
+      "originalIndex": 82,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-036-north-portrait-rim.jpg",
+      "byteOffset": 0,
+      "byteLength": 763030,
+      "sha256": "7cacbb39812faf0a51c86120344ca5725925a83e80cb9ba2bbe87570fda85d4d"
+    },
+    {
+      "originalIndex": 83,
+      "packagedIndex": 46,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15363336,
+      "byteLength": 21291,
+      "sha256": "b276cee5f31552c4163537fcaced95a6b801fbf6013e0ccb3e57458e0d911f0f"
+    },
+    {
+      "originalIndex": 84,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-037-south-portrait-rim.jpg",
+      "byteOffset": 0,
+      "byteLength": 866802,
+      "sha256": "3805f7c4d6382ea72905df4b466998fd04fb9f62c2a9dce780566b74e620905d"
+    },
+    {
+      "originalIndex": 85,
+      "packagedIndex": 47,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15384628,
+      "byteLength": 10739,
+      "sha256": "b2be5b0db976edabc95992f54d88d33db73fbc806ca3ccb963886210971db34b"
+    },
+    {
+      "originalIndex": 86,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-038-north-stepped-diamond-arch.jpg",
+      "byteOffset": 0,
+      "byteLength": 590301,
+      "sha256": "4cde8faa81af257aa681688365b87ba75d3cc64d7048bde3a897c9dcbb4b455d"
+    },
+    {
+      "originalIndex": 87,
+      "packagedIndex": 48,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15395368,
+      "byteLength": 10603,
+      "sha256": "50d12b5efac638f43e6e18b959ddffc4dc217b1f40b1b797d1c2f02a3910959b"
+    },
+    {
+      "originalIndex": 88,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-039-south-stepped-diamond-arch.jpg",
+      "byteOffset": 0,
+      "byteLength": 648122,
+      "sha256": "435411d2d3213ca067a67571505fac7f5ab3f3e0a5385d038e7cefa4ae99bbda"
+    },
+    {
+      "originalIndex": 89,
+      "packagedIndex": 49,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15405972,
+      "byteLength": 982,
+      "sha256": "4bf4e25d5055c6981dd382e03119605eea7f46aab691efab1ad343c997b59d5e"
+    },
+    {
+      "originalIndex": 90,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-040-west-window-saint-0.jpg",
+      "byteOffset": 0,
+      "byteLength": 77758,
+      "sha256": "42f38413f37e388947eaf36fb74881734344837ec0991d4dc8f6d06c7a1336d5"
+    },
+    {
+      "originalIndex": 91,
+      "packagedIndex": 50,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15406956,
+      "byteLength": 982,
+      "sha256": "13bc9fb10cc536f4452ee39e9b1d13f1b337ebed646c815f39c0ff0b9ae52310"
+    },
+    {
+      "originalIndex": 92,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-041-west-window-saint-1.jpg",
+      "byteOffset": 0,
+      "byteLength": 78453,
+      "sha256": "a1ff0408eb4c0c9c21a7b00a98c6c51828574f7bf28f3edc0a0ce434c12f61a4"
+    },
+    {
+      "originalIndex": 93,
+      "packagedIndex": 51,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15407940,
+      "byteLength": 985,
+      "sha256": "aa9092d6629f12b95d87d2cfaa89ab279d2a152229f98ae2f7de5c90ad92e54b"
+    },
+    {
+      "originalIndex": 94,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-042-west-window-saint-2.jpg",
+      "byteOffset": 0,
+      "byteLength": 83009,
+      "sha256": "4aef39e6964861a848896f78aac1489048a6d6df904e9d2a141ee9dda4c64020"
+    },
+    {
+      "originalIndex": 95,
+      "packagedIndex": 52,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15408928,
+      "byteLength": 984,
+      "sha256": "80f63ea257d5e4c317bcef467d8edf58007beb4f8b6b4cfd3aa6575e566d3706"
+    },
+    {
+      "originalIndex": 96,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-043-west-window-saint-3.jpg",
+      "byteOffset": 0,
+      "byteLength": 93425,
+      "sha256": "92bf4da1281b5c6214b81e770ba3623c1d295d906ef8798a5527d7da19ba96e8"
+    },
+    {
+      "originalIndex": 97,
+      "packagedIndex": 53,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15409912,
+      "byteLength": 992,
+      "sha256": "295ee71060cdba53de6d4d2ae252a93bfc453bc58cedd771da7e85edf5ec42fc"
+    },
+    {
+      "originalIndex": 98,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-044-west-window-saint-4.jpg",
+      "byteOffset": 0,
+      "byteLength": 85832,
+      "sha256": "b5e073b575ad8606a243707a2bdb3346877477a60a5950b3ca3b9cfddd8236ac"
+    },
+    {
+      "originalIndex": 99,
+      "packagedIndex": 54,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15410904,
+      "byteLength": 980,
+      "sha256": "265eb88f59befc4532f847508dbb881ce6571b3da5e09c124deead68ac8f410e"
+    },
+    {
+      "originalIndex": 100,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-045-west-window-saint-5.jpg",
+      "byteOffset": 0,
+      "byteLength": 77860,
+      "sha256": "afdd4d72f00957506c1bddc7eec0cc8d5aef4b4ee3c6abed9c3382840044803a"
+    },
+    {
+      "originalIndex": 101,
+      "packagedIndex": 55,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15411884,
+      "byteLength": 985,
+      "sha256": "41006a0c6a8b1152cd9f4331319ad9ec27cd7d4e1481ebde0d0753eb7c64850a"
+    },
+    {
+      "originalIndex": 102,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-046-west-window-saint-6.jpg",
+      "byteOffset": 0,
+      "byteLength": 75203,
+      "sha256": "cdb939a6b0a43b60742b8e0c95fdca84aba99b774173112af900a8a61f301dbf"
+    },
+    {
+      "originalIndex": 103,
+      "packagedIndex": 56,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15412872,
+      "byteLength": 980,
+      "sha256": "b31601281242372080425ed136ed8edd4ea4d7f5ab14920ef8742f663aea03bf"
+    },
+    {
+      "originalIndex": 104,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-047-west-window-saint-7.jpg",
+      "byteOffset": 0,
+      "byteLength": 69257,
+      "sha256": "53d2854f9db1cf43d05310644580d3f4daec8d54f1184ae3bc8834506861cd0c"
+    },
+    {
+      "originalIndex": 105,
+      "packagedIndex": 57,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15413852,
+      "byteLength": 78706,
+      "sha256": "9ca4c92ce988d6686e8dd3a75ebb1f9c81e8b093842dd2ac5929a64856c72830"
+    },
+    {
+      "originalIndex": 106,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-048-western-blue-reveal.jpg",
+      "byteOffset": 0,
+      "byteLength": 374763,
+      "sha256": "47568cbe6b666ef31934092c6e0435e0e629a7d459828b2884cd6e4663b4e174"
+    },
+    {
+      "originalIndex": 107,
+      "packagedIndex": 58,
+      "uri": "geometry-001.bin",
+      "byteOffset": 15492560,
+      "byteLength": 660447,
+      "sha256": "c28afd406c4f4774f8528f441c175c3215d9a2deaf2dcbca9dffaa9cefcedde0"
+    },
+    {
+      "originalIndex": 108,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-049-gallery-detail-atlas.jpg",
+      "byteOffset": 0,
+      "byteLength": 193880,
+      "sha256": "d97da410dc31f00cad83efbed960f3ee5dc39ccab37f74c64712e8b1eb54f657"
+    },
+    {
+      "originalIndex": 109,
+      "packagedIndex": 59,
+      "uri": "geometry-001.bin",
+      "byteOffset": 16153008,
+      "byteLength": 122836,
+      "sha256": "4cf5bed2d5fd60fd682a9639c6bb80653d1748d735207e836cfb0d175d018f92"
+    },
+    {
+      "originalIndex": 110,
+      "packagedIndex": 60,
+      "uri": "geometry-001.bin",
+      "byteOffset": 16275844,
+      "byteLength": 352432,
+      "sha256": "17ce6714e024f426c3c1e15f5d7dcfc8258fe0c1c0a1c987283cafc624af7c55"
+    },
+    {
+      "originalIndex": 111,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-050-gallery-carved-entablature.jpg",
+      "byteOffset": 0,
+      "byteLength": 37947,
+      "sha256": "b7c374d0a04e54c49d3030b98fbebe00dd175eef698e8f43235c70e14c06a9a1"
+    },
+    {
+      "originalIndex": 112,
+      "packagedIndex": 61,
+      "uri": "geometry-001.bin",
+      "byteOffset": 16628276,
+      "byteLength": 122400,
+      "sha256": "b4031446d20c0b2b517200a6112078a27db868c28cc50bfbf873312eca09ac18"
+    },
+    {
+      "originalIndex": 113,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-051-repair-architecture-atlas.jpg",
+      "byteOffset": 0,
+      "byteLength": 5607739,
+      "sha256": "b4420f79e288c6b402056212e20103e3da530f78d6636b1c8ddcbda369612fc1"
+    },
+    {
+      "originalIndex": 114,
+      "packagedIndex": 62,
+      "uri": "geometry-001.bin",
+      "byteOffset": 16750676,
+      "byteLength": 1718722,
+      "sha256": "f9243f15b6a4642937b571fce8339c2a539bc6cb5ad23c20dedcfddbe8492587"
+    },
+    {
+      "originalIndex": 115,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-052-repair-official-fields.jpg",
+      "byteOffset": 0,
+      "byteLength": 9623046,
+      "sha256": "72e6cc48112b5eb78767bf86c34d220cb8a332999129063d0cb05857274f3dee"
+    },
+    {
+      "originalIndex": 116,
+      "packagedIndex": 63,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18469400,
+      "byteLength": 73252,
+      "sha256": "7ddd921407c8c9cc478a796e0506546ec6371609468d49ec98ef54ffcc5dfb06"
+    },
+    {
+      "originalIndex": 117,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-053-repair-floor-annulus.jpg",
+      "byteOffset": 0,
+      "byteLength": 20833,
+      "sha256": "e4ac5273eb1cabfe06503df15538649748eeb42f4ffc84d5c0b2f7ea0224b05a"
+    },
+    {
+      "originalIndex": 118,
+      "packagedIndex": 64,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18542652,
+      "byteLength": 71377,
+      "sha256": "0aec6972c910b3995d779801ceb6cf3c1a76893f34dcd73a9a8e8965adf10635"
+    },
+    {
+      "originalIndex": 119,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-054-repair-pier-atlas.jpg",
+      "byteOffset": 0,
+      "byteLength": 8402095,
+      "sha256": "919e517cbe026c66cbaafd23d623a4854d4a6f66573c8533a4a75934a2fde737"
+    },
+    {
+      "originalIndex": 120,
+      "packagedIndex": 65,
+      "uri": "geometry-001.bin",
+      "byteOffset": 18614032,
+      "byteLength": 394451,
+      "sha256": "14c080455d42f91097e6347f2fe304715f1da317d2a62b718ea2bab0ab8fc249"
+    },
+    {
+      "originalIndex": 121,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-055-pier-stone-roundel.jpg",
+      "byteOffset": 0,
+      "byteLength": 84281,
+      "sha256": "765abe84061e1e6678297cb214823facecd52fa763434bc6404bdafcc82218f6"
+    },
+    {
+      "originalIndex": 122,
+      "packagedIndex": 66,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19008484,
+      "byteLength": 12587,
+      "sha256": "b76e221ec507b8fa7050ebfc0cf802a47bc7dec184b6bbea39ef21361c4fef84"
+    },
+    {
+      "originalIndex": 123,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-056-pier-upper-interlace.jpg",
+      "byteOffset": 0,
+      "byteLength": 70582,
+      "sha256": "5ac31257959a32e50a0e3127e35df25e2ba4f5abffb24bb8a53bb3e1d8f52c6c"
+    },
+    {
+      "originalIndex": 124,
+      "packagedIndex": 67,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19021072,
+      "byteLength": 30124,
+      "sha256": "662c4a0e09540d08767c4fbe6f37e4cd65d07e60ee2672e10685bfbc7ad8f9aa"
+    },
+    {
+      "originalIndex": 125,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-057-repair-west-devotional.jpg",
+      "byteOffset": 0,
+      "byteLength": 944519,
+      "sha256": "154360b0c3c45dfbab434f2e9b13280bd735fff487b11ddced9a6dbbdcf9c834"
+    },
+    {
+      "originalIndex": 126,
+      "packagedIndex": 68,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19051196,
+      "byteLength": 231900,
+      "sha256": "32dfe5912efbcf72c434a11789f4cdcb1592b7ffbe8b14d3ee354a6063a1971d"
+    },
+    {
+      "originalIndex": 127,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-058-repair-standing-crucifix.jpg",
+      "byteOffset": 0,
+      "byteLength": 1119129,
+      "sha256": "e5061726105520517f37dd374efc5b2a1db14c571866cf21b344527ad07a3680"
+    },
+    {
+      "originalIndex": 128,
+      "packagedIndex": 69,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19283096,
+      "byteLength": 72620,
+      "sha256": "85e683cdae70b64b14e57440e5ba82837690dfe1eccc6d3fe301226e8a1842a6"
+    },
+    {
+      "originalIndex": 129,
+      "packagedIndex": 70,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19355716,
+      "byteLength": 206181,
+      "sha256": "1df672731e9dd61176cc70a030b423a4253eb5b093e35f1045a28febb1eeb864"
+    },
+    {
+      "originalIndex": 130,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-059-repair-concha-carved-crowns.jpg",
+      "byteOffset": 0,
+      "byteLength": 76050,
+      "sha256": "de778c811424773ec9ee3607b938e440a7700fd87d7a59f3b1607239e1835188"
+    },
+    {
+      "originalIndex": 131,
+      "packagedIndex": 71,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19561900,
+      "byteLength": 175236,
+      "sha256": "ef3b9dad92dd6048f8971221a39d87359ee527daa26b0bd8f97472c16b667ac5"
+    },
+    {
+      "originalIndex": 132,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-060-repair-concha-window-heads.jpg",
+      "byteOffset": 0,
+      "byteLength": 585161,
+      "sha256": "5902d8d7a2d31ab58f3b811bffac87c5158b45048901d6e2f6874ac7168df8c2"
+    },
+    {
+      "originalIndex": 133,
+      "packagedIndex": 72,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19737136,
+      "byteLength": 63202,
+      "sha256": "51bb299db54157fca1244642b26ec52c9d3a3b71304c509e041e2dc273381c7f"
+    },
+    {
+      "originalIndex": 134,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-061-repair-evangelist-sw.jpg",
+      "byteOffset": 0,
+      "byteLength": 1607149,
+      "sha256": "50e72bab2d0ad1dcfe0851218b778206b3bb1c20b9d9f11e2ae3779826968245"
+    },
+    {
+      "originalIndex": 135,
+      "packagedIndex": 73,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19800340,
+      "byteLength": 62859,
+      "sha256": "962fe1a7944cd09531ffc422c677dd15df71c8ea1c2985ef33b41dcc21b989b1"
+    },
+    {
+      "originalIndex": 136,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-062-repair-evangelist-nw.jpg",
+      "byteOffset": 0,
+      "byteLength": 1379615,
+      "sha256": "6207e8618188c37171f9bdf7a692a063ad2b1dd47d4aa88926c131af980c66e3"
+    },
+    {
+      "originalIndex": 137,
+      "packagedIndex": 74,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19863200,
+      "byteLength": 63201,
+      "sha256": "18fb88e5c7fa25838f3543df94c0593862051b76e09b430eb60fc27ab966a6f2"
+    },
+    {
+      "originalIndex": 138,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-063-repair-evangelist-ne.jpg",
+      "byteOffset": 0,
+      "byteLength": 1618510,
+      "sha256": "070b91932aeaa33620259e7b1d582f16366b269d2e21981c6ab1d614367dba67"
+    },
+    {
+      "originalIndex": 139,
+      "packagedIndex": 75,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19926404,
+      "byteLength": 64237,
+      "sha256": "e6d61bd288a5bce99036715f62328df632dadb761c25f849e2b589dd42070890"
+    },
+    {
+      "originalIndex": 140,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-064-repair-evangelist-se.jpg",
+      "byteOffset": 0,
+      "byteLength": 1915911,
+      "sha256": "88d99dd008a78264594ac5f3af1201e785c6bb48582d318d4eb9c75717d1e5f1"
+    },
+    {
+      "originalIndex": 141,
+      "packagedIndex": 76,
+      "uri": "geometry-001.bin",
+      "byteOffset": 19990644,
+      "byteLength": 41024,
+      "sha256": "22026be47c17694b2030d7df6db81b8015818019cf91b93a9bc7341e5cac5b78"
+    },
+    {
+      "originalIndex": 142,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-065-repair-drum-circumference.jpg",
+      "byteOffset": 0,
+      "byteLength": 433023,
+      "sha256": "dd4eefd2b93e0266f1a6e6df9bd0b17200d99d9090430187d633e8cca09507e8"
+    },
+    {
+      "originalIndex": 143,
+      "packagedIndex": 77,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20031668,
+      "byteLength": 83931,
+      "sha256": "b92c64351d3f4215dab1ab8381c6a60c1052c09242beb4b37ed0d337b283c957"
+    },
+    {
+      "originalIndex": 144,
+      "packagedIndex": 78,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20115600,
+      "byteLength": 32568,
+      "sha256": "5878d867e74306dc227ffd2b002b7f897d6e775928a9359a7f25ca002b110c95"
+    },
+    {
+      "originalIndex": 145,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-066-repair-theotokos-inscription.jpg",
+      "byteOffset": 0,
+      "byteLength": 679688,
+      "sha256": "855a041fc54934888b58d5f06db7ab9c7f392610a42e53d5758648d6d0210129"
+    },
+    {
+      "originalIndex": 146,
+      "packagedIndex": 79,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20148168,
+      "byteLength": 42602,
+      "sha256": "c83a22fa24665d05f6577bd627cbad436f8ec25feae210b6b5deec0a50dc4991"
+    },
+    {
+      "originalIndex": 147,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-067-repair-niche-peter.jpg",
+      "byteOffset": 0,
+      "byteLength": 472496,
+      "sha256": "513125091917417ea71bbe9d60dfe5de9ff09c654cf9826a0cb9819e00eb9a55"
+    },
+    {
+      "originalIndex": 148,
+      "packagedIndex": 80,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20190772,
+      "byteLength": 14439,
+      "sha256": "d6070d60846febf704509c2d324f5afa18c0bb0f5e0d4ba76d92a71d39f945bc"
+    },
+    {
+      "originalIndex": 149,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-068-repair-niche-north-return.jpg",
+      "byteOffset": 0,
+      "byteLength": 347874,
+      "sha256": "bea6aa6218cffb7e211eda13d9135893624aeb9b6773aebf73d18e260e37c734"
+    },
+    {
+      "originalIndex": 150,
+      "packagedIndex": 81,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20205212,
+      "byteLength": 43188,
+      "sha256": "67f4d8a83636a0fbc27f4d8f80bc94d0a3b657ea9320a1671f51e8b5e86c3883"
+    },
+    {
+      "originalIndex": 151,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-069-repair-niche-paul.jpg",
+      "byteOffset": 0,
+      "byteLength": 458172,
+      "sha256": "53d8d0ce13be59a7fd678986c146474f973d1b95228fbc5482eb0c81373cf5fd"
+    },
+    {
+      "originalIndex": 152,
+      "packagedIndex": 82,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20248400,
+      "byteLength": 14391,
+      "sha256": "691cd7c575d4e83886243b3f9aa2f576c294892cd7294122d0f430ff6de5a42f"
+    },
+    {
+      "originalIndex": 153,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-070-repair-niche-south-return.jpg",
+      "byteOffset": 0,
+      "byteLength": 372354,
+      "sha256": "dd3b4ad4bdb5c2bd270a1e5093b2b12612c70d9d07e57c77207189edb93d7724"
+    },
+    {
+      "originalIndex": 154,
+      "packagedIndex": 83,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20262792,
+      "byteLength": 2801,
+      "sha256": "5d1a190d37cf1dfb61e05425bfb695386498aa428175e78440b20b1d241742e6"
+    },
+    {
+      "originalIndex": 155,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-071-repair-visible-sanctuary.jpg",
+      "byteOffset": 0,
+      "byteLength": 24656,
+      "sha256": "1e0d1518b82005d7d2ced7dd26eb0845e5e4af0ae58ffbf0d267106eb489a414"
+    },
+    {
+      "originalIndex": 156,
+      "packagedIndex": 84,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20265596,
+      "byteLength": 337240,
+      "sha256": "8004c78f417efd0639527cec9320ba8f531e9220d459974694e9756233a0a9da"
+    },
+    {
+      "originalIndex": 157,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-072-repair-west-continuous-cap.jpg",
+      "byteOffset": 0,
+      "byteLength": 4984742,
+      "sha256": "a049bcad427bb32777cfd35e8bcda3278b0fdc740017f97de4936e76affd174f"
+    },
+    {
+      "originalIndex": 158,
+      "packagedIndex": 85,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20602836,
+      "byteLength": 5666,
+      "sha256": "44c8ba07bc3ba3f2edb94e21a9edc7459bc9fd0969e30023693761e1f6f41c83"
+    },
+    {
+      "originalIndex": 159,
+      "packagedIndex": 86,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20608504,
+      "byteLength": 45411,
+      "sha256": "1952bca2180c59b7e91fd9cb9ad2189b027120659f510fea041c9a7c1b3f1e9a"
+    },
+    {
+      "originalIndex": 160,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-073-repair-west-vault-ornament.jpg",
+      "byteOffset": 0,
+      "byteLength": 64650,
+      "sha256": "948ff5e7bb7ad871a57b7762051d11d0afc21fb2ad4e41dcfe9062a0895f35cf"
+    },
+    {
+      "originalIndex": 161,
+      "packagedIndex": 87,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20653916,
+      "byteLength": 21204,
+      "sha256": "6247db0313f9702bf5064fb5e3cd020e1204a7173753c05dacfeac6a68ee23a6"
+    },
+    {
+      "originalIndex": 162,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-074-repair-gallery-soffit-north-right.jpg",
+      "byteOffset": 0,
+      "byteLength": 16318,
+      "sha256": "b182beab375e328a15b84c364f3e673a2eb686990bbdd4bd7f02271f6fd44703"
+    },
+    {
+      "originalIndex": 163,
+      "packagedIndex": 88,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20675120,
+      "byteLength": 22980,
+      "sha256": "89d4e736d9394e7bf069ce983eaafc0959bd6dc22797edfc840a775bde95afb9"
+    },
+    {
+      "originalIndex": 164,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-075-repair-gallery-soffit-north-left.jpg",
+      "byteOffset": 0,
+      "byteLength": 15014,
+      "sha256": "59e3dec94c9db254ef4b3bee03a33f1f13e85c4e32659ea0899f0759fe3f8ee0"
+    },
+    {
+      "originalIndex": 165,
+      "packagedIndex": 89,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20698100,
+      "byteLength": 229518,
+      "sha256": "2f5cfeda24b16ddbedfcf135fde026d242c567c5f578bfb1024ef48b5097c951"
+    },
+    {
+      "originalIndex": 166,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-076-repair-north-left-narrative.jpg",
+      "byteOffset": 0,
+      "byteLength": 24779,
+      "sha256": "49f8aea4ccad0b6db3d41d21fdf5ebc7e3ca236930592d61dda1ea5e315a456f"
+    },
+    {
+      "originalIndex": 167,
+      "packagedIndex": 90,
+      "uri": "geometry-001.bin",
+      "byteOffset": 20927620,
+      "byteLength": 84434,
+      "sha256": "333c76f7b48b42fd4ec74986abc8d2b32d991fb564fc18c31a0308e6109e2040"
+    },
+    {
+      "originalIndex": 168,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-077-repair-north-bronze-ornament.jpg",
+      "byteOffset": 0,
+      "byteLength": 2810,
+      "sha256": "bdcc2d6b06138f1619f5a719caab21f5be56248ac8a3b1baf12db739d9bffcee"
+    },
+    {
+      "originalIndex": 169,
+      "packagedIndex": 91,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21012056,
+      "byteLength": 45452,
+      "sha256": "bc278a77157b344f385db2b61f691eafd1260bb4a23efc644e1da444a4ade0b2"
+    },
+    {
+      "originalIndex": 170,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-078-repair-north-vault-ornament.jpg",
+      "byteOffset": 0,
+      "byteLength": 63722,
+      "sha256": "f82cca6f850a4ccc99dcf9e79a74cb2599cf02dac22b794d020ba95ddf6474f3"
+    },
+    {
+      "originalIndex": 171,
+      "packagedIndex": 92,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21057508,
+      "byteLength": 22822,
+      "sha256": "65d9c09e6e8c373800c8e2a4c7a518e06fc52bb3cb2f43c5dc1e9ca6fc1b7780"
+    },
+    {
+      "originalIndex": 172,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-079-repair-gallery-soffit-south-right.jpg",
+      "byteOffset": 0,
+      "byteLength": 15905,
+      "sha256": "197a33e9b0b5fc3c5b4b9d332c1c9fb4109fc26c2a839d8257ed5ddeb14a34d7"
+    },
+    {
+      "originalIndex": 173,
+      "packagedIndex": 93,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21080332,
+      "byteLength": 22875,
+      "sha256": "3d66f713788fa7b0d0fd2e4676a4389bc0df1d4e093fbf8bb866969dd425ed8f"
+    },
+    {
+      "originalIndex": 174,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-080-repair-gallery-soffit-south-left.jpg",
+      "byteOffset": 0,
+      "byteLength": 14313,
+      "sha256": "d6aaedf59cd48ec247bd4f30b61429517fb9ff357969075b677f5a4bd5b97103"
+    },
+    {
+      "originalIndex": 175,
+      "packagedIndex": 94,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21103208,
+      "byteLength": 59535,
+      "sha256": "c5484292b904f8279d850a7e07a567588de98a3756005c538a7e547f39ccb129"
+    },
+    {
+      "originalIndex": 176,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-081-repair-south-bronze-ornament.jpg",
+      "byteOffset": 0,
+      "byteLength": 1365,
+      "sha256": "aa0bb9903d737d3e34763ee73965af21c3b0a8e1dbdfbc835cb3d23dc88c5726"
+    },
+    {
+      "originalIndex": 177,
+      "packagedIndex": 95,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21162744,
+      "byteLength": 45373,
+      "sha256": "8d763a496739d5c63d93d18e11016e435978c90e36188d71f3633e85c7b27cc9"
+    },
+    {
+      "originalIndex": 178,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-082-repair-south-vault-ornament.jpg",
+      "byteOffset": 0,
+      "byteLength": 67810,
+      "sha256": "cbcf3e74a9d4cf10d1f8a3e982c3e9539ef7f729581592f58f2f89847b0271d6"
+    },
+    {
+      "originalIndex": 179,
+      "packagedIndex": 96,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21208120,
+      "byteLength": 232673,
+      "sha256": "7b748aad39bfc75bbefe47a7f027fb9e777743f61372030d666fb836eeb918ba"
+    },
+    {
+      "originalIndex": 180,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-083-repair-east-crucifixion-complete.jpg",
+      "byteOffset": 0,
+      "byteLength": 3667653,
+      "sha256": "663a03c4c12649737c602f53917da4ef34dce65990cf86a9a0caffd26a233c5e"
+    },
+    {
+      "originalIndex": 181,
+      "packagedIndex": 97,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21440796,
+      "byteLength": 38216,
+      "sha256": "a0765d6b3c1f49d22cfaf6bad3f7da172d522d53fe07d08b38ba19298376e005"
+    },
+    {
+      "originalIndex": 182,
+      "packagedIndex": 98,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21479012,
+      "byteLength": 195128,
+      "sha256": "bc25c2d42f31c9b590df7046965ee51277c3e91bda2dad79894945f8671ff578"
+    },
+    {
+      "originalIndex": 183,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-084-repair-east-myrrhbearers-complete.jpg",
+      "byteOffset": 0,
+      "byteLength": 3927928,
+      "sha256": "e007f71d7eb62af1496ba75f0d9a1443f6eec826e9f7d8a5d9f8c42bb8b05f07"
+    },
+    {
+      "originalIndex": 184,
+      "packagedIndex": 99,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21674140,
+      "byteLength": 87411,
+      "sha256": "5f9a82e4f874f66bfcc217b4a0c61e0bd294deec08fd36394e467354905931d5"
+    },
+    {
+      "originalIndex": 185,
+      "packagedIndex": 100,
+      "uri": "geometry-001.bin",
+      "byteOffset": 21761552,
+      "byteLength": 283072,
+      "sha256": "627c9bf24c59451a9c482d9e0d2955331e3c386cfe5989bc5af193b73e39b737"
+    },
+    {
+      "originalIndex": 186,
+      "packagedIndex": null,
+      "uri": "model-textures/saint-sava-image-085-repair-corona-portraits.jpg",
+      "byteOffset": 0,
+      "byteLength": 1853854,
+      "sha256": "4ab26b8c27a8980c107ada6382f7573e8def0ecf78e2f5d19ded65a78c9bbce6"
+    }
+  ],
+  "files": {
+    "geometry-001.bin": {
+      "byteLength": 22044624,
+      "sha256": "d19568271ec1026ad4572460b2120d8134852dabcd7b759ad76ceaad9ce81321"
+    },
+    "geometry.bin": {
+      "byteLength": 23655268,
+      "sha256": "3d8623a08f982a757a57aa7d8683913ba0007130fc4e39932ec6bb02fc71bd1a"
+    },
+    "model-textures/saint-sava-image-000-stone-nor-gl.jpg": {
+      "byteLength": 35915,
+      "sha256": "0e61700d980c751d5c5070fd5e0992aa0d8468857db55719336f27c3e2c5e27c"
+    },
+    "model-textures/saint-sava-image-001-stone-diff.jpg": {
+      "byteLength": 219367,
+      "sha256": "78265c6fedc05746644245b1557cb766666fb1b4ed2dfb3bfdffc7d0b8900941"
+    },
+    "model-textures/saint-sava-image-002-stone-rough.png": {
+      "byteLength": 128065,
+      "sha256": "5d9ed20420313575938c9bec18f085a4ec925a46d7ba50bcf35494a1525a0ded"
+    },
+    "model-textures/saint-sava-image-003-marble.jpg": {
+      "byteLength": 134659,
+      "sha256": "d99cce7a327982058a4e81dd6fa025ace2d1283a363e8ca84aafd88eb8057950"
+    },
+    "model-textures/saint-sava-image-004-repair-green-continuous.jpg": {
+      "byteLength": 649730,
+      "sha256": "f6103b37c63a1517cd33d558222f0ce2aea4624e60698ad4e87d66750f6429f6"
+    },
+    "model-textures/saint-sava-image-005-repair-gallery-shafts.jpg": {
+      "byteLength": 1477812,
+      "sha256": "9851b6d1c39861d24d58983203969ec09ec776290979f51352ac47bd6e96bd24"
+    },
+    "model-textures/saint-sava-image-006-mosaic-normal.png": {
+      "byteLength": 190011,
+      "sha256": "3f2b740d8977e7fc97e1c925e5a4253430e258ad07b9a099f31fd4dd9268b44c"
+    },
+    "model-textures/saint-sava-image-007-gold.jpg": {
+      "byteLength": 8384,
+      "sha256": "73573067d0f01a2df0a306f694fb29181fce8a3eab3f0cd99c09280ebab79e39"
+    },
+    "model-textures/saint-sava-image-008-east-christ.jpg": {
+      "byteLength": 472606,
+      "sha256": "ec77c9a1b5b57924782be54b212f8bd8ebea11b2f0f6ea179afc2c4ba98f76f8"
+    },
+    "model-textures/saint-sava-image-009-theotokos.jpg": {
+      "byteLength": 641096,
+      "sha256": "dcd8eb39193eca998f4fa00f6846126b012b086332edc16ae57b3e5b13ce526b"
+    },
+    "model-textures/saint-sava-image-010-resurrection.jpg": {
+      "byteLength": 974113,
+      "sha256": "112c60c4b1fa4800a374180ebadcd04e74c90274a172251138d099d244416c75"
+    },
+    "model-textures/saint-sava-image-011-nativity.jpg": {
+      "byteLength": 894835,
+      "sha256": "80dfa84379ba6b37bd76bfcb941ee642950105b1a7c5a7e6ff7909fed983db64"
+    },
+    "model-textures/saint-sava-image-012-east-arch.jpg": {
+      "byteLength": 1164882,
+      "sha256": "97afb96289002bb0303c2f1bf9cecade99ae38ab108b08cf4ec3ecc0a022c7c9"
+    },
+    "model-textures/saint-sava-image-013-south-arch.jpg": {
+      "byteLength": 1778160,
+      "sha256": "6a04c288c99195cef40d7fd16dbdacf961331d6b97851a36e14e5265c23ee900"
+    },
+    "model-textures/saint-sava-image-014-north-arch.jpg": {
+      "byteLength": 1553880,
+      "sha256": "fc0c1f13053d843cb0750fd1690f04ce5135322edb51f60317f60107b89feef0"
+    },
+    "model-textures/saint-sava-image-015-ascension.jpg": {
+      "byteLength": 1666151,
+      "sha256": "bda79b3f7001b8c043a48e8bbb2b57e222e008cc1f4cb3fd6a49417da1c9a7f9"
+    },
+    "model-textures/saint-sava-image-016-drum-frieze.jpg": {
+      "byteLength": 170804,
+      "sha256": "33eb5f306e61fa981730e732a16f8c6dfafb16734e95d73496d83481dd2b2b17"
+    },
+    "model-textures/saint-sava-image-017-annunciation-left.jpg": {
+      "byteLength": 607147,
+      "sha256": "67b30beff13d3a39be579253013dae326aca5f0f93cf8871e3c45b39ce7344c0"
+    },
+    "model-textures/saint-sava-image-018-annunciation-right.jpg": {
+      "byteLength": 541572,
+      "sha256": "1e898546ef78709dfaf27b8fcb1f66aadd172f6badf3a93ee6eb19ed2c1c7afb"
+    },
+    "model-textures/saint-sava-image-019-icon-0.jpg": {
+      "byteLength": 130727,
+      "sha256": "6bebce47ac6b8778089d27497de1f501e9b5bf739e91721b8ce8feeffa2871e5"
+    },
+    "model-textures/saint-sava-image-020-icon-1.jpg": {
+      "byteLength": 130802,
+      "sha256": "64fb69dc91981d5fc24db504c677f79fd45af420f33f580606ac61fd477b2b23"
+    },
+    "model-textures/saint-sava-image-021-icon-2.jpg": {
+      "byteLength": 143019,
+      "sha256": "e41402ec682bd31c0251134b4215b58197738164d1657d91de0709b182f7393d"
+    },
+    "model-textures/saint-sava-image-022-icon-3.jpg": {
+      "byteLength": 132908,
+      "sha256": "84d64ace721215edf328bc8c29a8112999cd844db5b30dd5bb34d722560939b1"
+    },
+    "model-textures/saint-sava-image-023-icon-4.jpg": {
+      "byteLength": 149990,
+      "sha256": "51639bd428044402e2ffe2429c0f00b5bbe0f4ef6356f48ea36462cf299faeec"
+    },
+    "model-textures/saint-sava-image-024-icon-5.jpg": {
+      "byteLength": 141635,
+      "sha256": "d0b16d8d1353e8c3505db84aab86d134a34f010bf6f82144fb32123d7608936a"
+    },
+    "model-textures/saint-sava-image-025-royal-doors.jpg": {
+      "byteLength": 328070,
+      "sha256": "4ffbe58bf40f75420e2274effb64d4f36fccb2dfe8fd376db262d6de3f1319c3"
+    },
+    "model-textures/saint-sava-image-026-trinity-feast.jpg": {
+      "byteLength": 224586,
+      "sha256": "3f11ceb1c573fee300353c79e3b2d3fee24b685a443846e375852c1c5604b716"
+    },
+    "model-textures/saint-sava-image-027-observed-feast-atlas.jpg": {
+      "byteLength": 499299,
+      "sha256": "c9592313572af77e8e78074ca36e5ab7d2836acaa6375a02325956c63beb08b2"
+    },
+    "model-textures/saint-sava-image-028-capital.jpg": {
+      "byteLength": 42171,
+      "sha256": "2de3d9a3f1494c4de7422c712169557543f212675d072e23f580c48fa67e9068"
+    },
+    "model-textures/saint-sava-image-029-carving.jpg": {
+      "byteLength": 84677,
+      "sha256": "c6ec554d6cf43849d8313445e084376318c210f373372b585e19f4252ccfa1ef"
+    },
+    "model-textures/saint-sava-image-030-iconostasis-facade.jpg": {
+      "byteLength": 1279677,
+      "sha256": "a73f4033254693558749de616a4a3f3ec04413476869e57940e15e7a7d534b89"
+    },
+    "model-textures/saint-sava-image-031-corona-fret.jpg": {
+      "byteLength": 6176,
+      "sha256": "de32d066b998403ab5bb2029a23f1b92f2f80f8397950f93ae33a75f93da957a"
+    },
+    "model-textures/saint-sava-image-032-corona-cherub.jpg": {
+      "byteLength": 7516,
+      "sha256": "b5fe83be63b0f1a71819fbb0f3f9fa58373d0d0f243304446e711d54872fe2ee"
+    },
+    "model-textures/saint-sava-image-033-dormition.jpg": {
+      "byteLength": 957016,
+      "sha256": "bf33aea43db360213513203021fa4c09118c5223a35140bcdad828325420832e"
+    },
+    "model-textures/saint-sava-image-034-west-arch.jpg": {
+      "byteLength": 640316,
+      "sha256": "fdbd1a3bfa11d6b40ef01b7ea5d8500e62ec2485eb398e64da5d12189d9449cf"
+    },
+    "model-textures/saint-sava-image-035-west-portrait-rim.jpg": {
+      "byteLength": 256833,
+      "sha256": "fda8e702cf81d29b62641a90e21932e1bf517bb69f5a8622ad160090e633098b"
+    },
+    "model-textures/saint-sava-image-036-north-portrait-rim.jpg": {
+      "byteLength": 763030,
+      "sha256": "7cacbb39812faf0a51c86120344ca5725925a83e80cb9ba2bbe87570fda85d4d"
+    },
+    "model-textures/saint-sava-image-037-south-portrait-rim.jpg": {
+      "byteLength": 866802,
+      "sha256": "3805f7c4d6382ea72905df4b466998fd04fb9f62c2a9dce780566b74e620905d"
+    },
+    "model-textures/saint-sava-image-038-north-stepped-diamond-arch.jpg": {
+      "byteLength": 590301,
+      "sha256": "4cde8faa81af257aa681688365b87ba75d3cc64d7048bde3a897c9dcbb4b455d"
+    },
+    "model-textures/saint-sava-image-039-south-stepped-diamond-arch.jpg": {
+      "byteLength": 648122,
+      "sha256": "435411d2d3213ca067a67571505fac7f5ab3f3e0a5385d038e7cefa4ae99bbda"
+    },
+    "model-textures/saint-sava-image-040-west-window-saint-0.jpg": {
+      "byteLength": 77758,
+      "sha256": "42f38413f37e388947eaf36fb74881734344837ec0991d4dc8f6d06c7a1336d5"
+    },
+    "model-textures/saint-sava-image-041-west-window-saint-1.jpg": {
+      "byteLength": 78453,
+      "sha256": "a1ff0408eb4c0c9c21a7b00a98c6c51828574f7bf28f3edc0a0ce434c12f61a4"
+    },
+    "model-textures/saint-sava-image-042-west-window-saint-2.jpg": {
+      "byteLength": 83009,
+      "sha256": "4aef39e6964861a848896f78aac1489048a6d6df904e9d2a141ee9dda4c64020"
+    },
+    "model-textures/saint-sava-image-043-west-window-saint-3.jpg": {
+      "byteLength": 93425,
+      "sha256": "92bf4da1281b5c6214b81e770ba3623c1d295d906ef8798a5527d7da19ba96e8"
+    },
+    "model-textures/saint-sava-image-044-west-window-saint-4.jpg": {
+      "byteLength": 85832,
+      "sha256": "b5e073b575ad8606a243707a2bdb3346877477a60a5950b3ca3b9cfddd8236ac"
+    },
+    "model-textures/saint-sava-image-045-west-window-saint-5.jpg": {
+      "byteLength": 77860,
+      "sha256": "afdd4d72f00957506c1bddc7eec0cc8d5aef4b4ee3c6abed9c3382840044803a"
+    },
+    "model-textures/saint-sava-image-046-west-window-saint-6.jpg": {
+      "byteLength": 75203,
+      "sha256": "cdb939a6b0a43b60742b8e0c95fdca84aba99b774173112af900a8a61f301dbf"
+    },
+    "model-textures/saint-sava-image-047-west-window-saint-7.jpg": {
+      "byteLength": 69257,
+      "sha256": "53d2854f9db1cf43d05310644580d3f4daec8d54f1184ae3bc8834506861cd0c"
+    },
+    "model-textures/saint-sava-image-048-western-blue-reveal.jpg": {
+      "byteLength": 374763,
+      "sha256": "47568cbe6b666ef31934092c6e0435e0e629a7d459828b2884cd6e4663b4e174"
+    },
+    "model-textures/saint-sava-image-049-gallery-detail-atlas.jpg": {
+      "byteLength": 193880,
+      "sha256": "d97da410dc31f00cad83efbed960f3ee5dc39ccab37f74c64712e8b1eb54f657"
+    },
+    "model-textures/saint-sava-image-050-gallery-carved-entablature.jpg": {
+      "byteLength": 37947,
+      "sha256": "b7c374d0a04e54c49d3030b98fbebe00dd175eef698e8f43235c70e14c06a9a1"
+    },
+    "model-textures/saint-sava-image-051-repair-architecture-atlas.jpg": {
+      "byteLength": 5607739,
+      "sha256": "b4420f79e288c6b402056212e20103e3da530f78d6636b1c8ddcbda369612fc1"
+    },
+    "model-textures/saint-sava-image-052-repair-official-fields.jpg": {
+      "byteLength": 9623046,
+      "sha256": "72e6cc48112b5eb78767bf86c34d220cb8a332999129063d0cb05857274f3dee"
+    },
+    "model-textures/saint-sava-image-053-repair-floor-annulus.jpg": {
+      "byteLength": 20833,
+      "sha256": "e4ac5273eb1cabfe06503df15538649748eeb42f4ffc84d5c0b2f7ea0224b05a"
+    },
+    "model-textures/saint-sava-image-054-repair-pier-atlas.jpg": {
+      "byteLength": 8402095,
+      "sha256": "919e517cbe026c66cbaafd23d623a4854d4a6f66573c8533a4a75934a2fde737"
+    },
+    "model-textures/saint-sava-image-055-pier-stone-roundel.jpg": {
+      "byteLength": 84281,
+      "sha256": "765abe84061e1e6678297cb214823facecd52fa763434bc6404bdafcc82218f6"
+    },
+    "model-textures/saint-sava-image-056-pier-upper-interlace.jpg": {
+      "byteLength": 70582,
+      "sha256": "5ac31257959a32e50a0e3127e35df25e2ba4f5abffb24bb8a53bb3e1d8f52c6c"
+    },
+    "model-textures/saint-sava-image-057-repair-west-devotional.jpg": {
+      "byteLength": 944519,
+      "sha256": "154360b0c3c45dfbab434f2e9b13280bd735fff487b11ddced9a6dbbdcf9c834"
+    },
+    "model-textures/saint-sava-image-058-repair-standing-crucifix.jpg": {
+      "byteLength": 1119129,
+      "sha256": "e5061726105520517f37dd374efc5b2a1db14c571866cf21b344527ad07a3680"
+    },
+    "model-textures/saint-sava-image-059-repair-concha-carved-crowns.jpg": {
+      "byteLength": 76050,
+      "sha256": "de778c811424773ec9ee3607b938e440a7700fd87d7a59f3b1607239e1835188"
+    },
+    "model-textures/saint-sava-image-060-repair-concha-window-heads.jpg": {
+      "byteLength": 585161,
+      "sha256": "5902d8d7a2d31ab58f3b811bffac87c5158b45048901d6e2f6874ac7168df8c2"
+    },
+    "model-textures/saint-sava-image-061-repair-evangelist-sw.jpg": {
+      "byteLength": 1607149,
+      "sha256": "50e72bab2d0ad1dcfe0851218b778206b3bb1c20b9d9f11e2ae3779826968245"
+    },
+    "model-textures/saint-sava-image-062-repair-evangelist-nw.jpg": {
+      "byteLength": 1379615,
+      "sha256": "6207e8618188c37171f9bdf7a692a063ad2b1dd47d4aa88926c131af980c66e3"
+    },
+    "model-textures/saint-sava-image-063-repair-evangelist-ne.jpg": {
+      "byteLength": 1618510,
+      "sha256": "070b91932aeaa33620259e7b1d582f16366b269d2e21981c6ab1d614367dba67"
+    },
+    "model-textures/saint-sava-image-064-repair-evangelist-se.jpg": {
+      "byteLength": 1915911,
+      "sha256": "88d99dd008a78264594ac5f3af1201e785c6bb48582d318d4eb9c75717d1e5f1"
+    },
+    "model-textures/saint-sava-image-065-repair-drum-circumference.jpg": {
+      "byteLength": 433023,
+      "sha256": "dd4eefd2b93e0266f1a6e6df9bd0b17200d99d9090430187d633e8cca09507e8"
+    },
+    "model-textures/saint-sava-image-066-repair-theotokos-inscription.jpg": {
+      "byteLength": 679688,
+      "sha256": "855a041fc54934888b58d5f06db7ab9c7f392610a42e53d5758648d6d0210129"
+    },
+    "model-textures/saint-sava-image-067-repair-niche-peter.jpg": {
+      "byteLength": 472496,
+      "sha256": "513125091917417ea71bbe9d60dfe5de9ff09c654cf9826a0cb9819e00eb9a55"
+    },
+    "model-textures/saint-sava-image-068-repair-niche-north-return.jpg": {
+      "byteLength": 347874,
+      "sha256": "bea6aa6218cffb7e211eda13d9135893624aeb9b6773aebf73d18e260e37c734"
+    },
+    "model-textures/saint-sava-image-069-repair-niche-paul.jpg": {
+      "byteLength": 458172,
+      "sha256": "53d8d0ce13be59a7fd678986c146474f973d1b95228fbc5482eb0c81373cf5fd"
+    },
+    "model-textures/saint-sava-image-070-repair-niche-south-return.jpg": {
+      "byteLength": 372354,
+      "sha256": "dd3b4ad4bdb5c2bd270a1e5093b2b12612c70d9d07e57c77207189edb93d7724"
+    },
+    "model-textures/saint-sava-image-071-repair-visible-sanctuary.jpg": {
+      "byteLength": 24656,
+      "sha256": "1e0d1518b82005d7d2ced7dd26eb0845e5e4af0ae58ffbf0d267106eb489a414"
+    },
+    "model-textures/saint-sava-image-072-repair-west-continuous-cap.jpg": {
+      "byteLength": 4984742,
+      "sha256": "a049bcad427bb32777cfd35e8bcda3278b0fdc740017f97de4936e76affd174f"
+    },
+    "model-textures/saint-sava-image-073-repair-west-vault-ornament.jpg": {
+      "byteLength": 64650,
+      "sha256": "948ff5e7bb7ad871a57b7762051d11d0afc21fb2ad4e41dcfe9062a0895f35cf"
+    },
+    "model-textures/saint-sava-image-074-repair-gallery-soffit-north-right.jpg": {
+      "byteLength": 16318,
+      "sha256": "b182beab375e328a15b84c364f3e673a2eb686990bbdd4bd7f02271f6fd44703"
+    },
+    "model-textures/saint-sava-image-075-repair-gallery-soffit-north-left.jpg": {
+      "byteLength": 15014,
+      "sha256": "59e3dec94c9db254ef4b3bee03a33f1f13e85c4e32659ea0899f0759fe3f8ee0"
+    },
+    "model-textures/saint-sava-image-076-repair-north-left-narrative.jpg": {
+      "byteLength": 24779,
+      "sha256": "49f8aea4ccad0b6db3d41d21fdf5ebc7e3ca236930592d61dda1ea5e315a456f"
+    },
+    "model-textures/saint-sava-image-077-repair-north-bronze-ornament.jpg": {
+      "byteLength": 2810,
+      "sha256": "bdcc2d6b06138f1619f5a719caab21f5be56248ac8a3b1baf12db739d9bffcee"
+    },
+    "model-textures/saint-sava-image-078-repair-north-vault-ornament.jpg": {
+      "byteLength": 63722,
+      "sha256": "f82cca6f850a4ccc99dcf9e79a74cb2599cf02dac22b794d020ba95ddf6474f3"
+    },
+    "model-textures/saint-sava-image-079-repair-gallery-soffit-south-right.jpg": {
+      "byteLength": 15905,
+      "sha256": "197a33e9b0b5fc3c5b4b9d332c1c9fb4109fc26c2a839d8257ed5ddeb14a34d7"
+    },
+    "model-textures/saint-sava-image-080-repair-gallery-soffit-south-left.jpg": {
+      "byteLength": 14313,
+      "sha256": "d6aaedf59cd48ec247bd4f30b61429517fb9ff357969075b677f5a4bd5b97103"
+    },
+    "model-textures/saint-sava-image-081-repair-south-bronze-ornament.jpg": {
+      "byteLength": 1365,
+      "sha256": "aa0bb9903d737d3e34763ee73965af21c3b0a8e1dbdfbc835cb3d23dc88c5726"
+    },
+    "model-textures/saint-sava-image-082-repair-south-vault-ornament.jpg": {
+      "byteLength": 67810,
+      "sha256": "cbcf3e74a9d4cf10d1f8a3e982c3e9539ef7f729581592f58f2f89847b0271d6"
+    },
+    "model-textures/saint-sava-image-083-repair-east-crucifixion-complete.jpg": {
+      "byteLength": 3667653,
+      "sha256": "663a03c4c12649737c602f53917da4ef34dce65990cf86a9a0caffd26a233c5e"
+    },
+    "model-textures/saint-sava-image-084-repair-east-myrrhbearers-complete.jpg": {
+      "byteLength": 3927928,
+      "sha256": "e007f71d7eb62af1496ba75f0d9a1443f6eec826e9f7d8a5d9f8c42bb8b05f07"
+    },
+    "model-textures/saint-sava-image-085-repair-corona-portraits.jpg": {
+      "byteLength": 1853854,
+      "sha256": "4ab26b8c27a8980c107ada6382f7573e8def0ecf78e2f5d19ded65a78c9bbce6"
+    },
+    "saint-sava.gltf": {
+      "byteLength": 211332,
+      "sha256": "ccf547134df34a70ce633012ecacd47d51628d937c6e594b5fdd87a57974a18a"
+    }
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "west-overview",
+    "title": "West facade and principal entrance",
+    "author": "Npps90",
+    "date": "28 August 2023",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHram_svetog_save_beograd_0005_%28edited%29.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "west-overview.jpg",
+    "angle": "The western entrance"
+  },
+  {
+    "id": "northwest-overview",
+    "title": "Northwest facade and domes",
+    "author": "Skelanard (Aleksandr Petukhov)",
+    "date": "13 November 2016, 09:18:22",
+    "url": "https://commons.wikimedia.org/wiki/File%3AThe_Temple_of_Saint_Sava_from_the_North-West.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "northwest-overview.jpg",
+    "angle": "From the northwest"
+  },
+  {
+    "id": "east-apse",
+    "title": "East apse and corner towers",
+    "author": "Orjen",
+    "date": "1 January 2006, 00:03:21",
+    "url": "https://commons.wikimedia.org/wiki/File%3AEast_side_Church_of_Saint_Sava.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "east-apse.jpg",
+    "angle": "The eastern apse"
+  },
+  {
+    "id": "aerial-overview",
+    "title": "Saint Sava above Vračar plateau",
+    "author": "Ivanbuki",
+    "date": "7 January 2023, 08:46:04",
+    "url": "https://commons.wikimedia.org/wiki/File%3AHram_Sv._Save_u_Beogradu_2023-01-07_DJI_0807-12.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "aerial-overview.jpg",
+    "angle": "Above Vračar"
+  },
+  {
+    "id": "west-portals",
+    "title": "Carved west portals and entrance mosaics",
+    "author": "Andrija12345678",
+    "date": "20 December 2022, 14:46:57",
+    "url": "https://commons.wikimedia.org/wiki/File%3A%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B8%D1%85_%D0%B2%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D0%A1%D0%B2._%D0%A1%D0%B0%D0%B2%D0%B5%2C_%D0%92%D1%80%D0%B0%D1%87%D0%B0%D1%80%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "west-portals.jpg",
+    "angle": "The carved west portals"
+  },
+  {
+    "id": "domes-detail",
+    "title": "Copper domes and arched window drums",
+    "author": "Nik",
+    "date": "1 March 2002, 17:44:42",
+    "url": "https://commons.wikimedia.org/wiki/File%3ATemple_of_Saint_Sava_domes.jpg",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "file": "domes-detail.jpg",
+    "angle": "Copper domes and window tracery"
+  }
+]

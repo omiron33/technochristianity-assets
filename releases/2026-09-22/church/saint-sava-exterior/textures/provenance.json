@@ -1,0 +1,1953 @@
+{
+  "schema": "saint-sava.exterior-photographic-fields.v2",
+  "scope": "Nine portal mosaics, nine doors, three rose windows, photographed capitals and distinct curved soffit fields.",
+  "geometry": "Independent approximate architecture; source-visible fields reviewed E01–E13 against photographs. No whole facade or room backdrop.",
+  "rights": "Rights remain with the credited authors. Per-record Wikimedia licenses are retained. Informer, TravelAnswer and forum photographic excerpts have no asserted open license.",
+  "processing": "Bounded native photographic extracts, planar or curved UV placement, source-derived nonfigurative relief geometry. No generated saints, fabricated text or mirrored icons.",
+  "records": [
+    {
+      "texture": "west-christ.jpg",
+      "name": "west-christ",
+      "identity": "Christ Mandylion / image not made by hands",
+      "location": "WEST exterior main central doorway",
+      "sourcePageId": 117620534,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B5%D1%80%D1%83%D0%BA%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0_%D0%98%D1%81%D1%83%D1%81%D0%BE%D0%B2%D0%BE%D0%B3,_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5,%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B5%D1%80%D1%83%D0%BA%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0_%D0%98%D1%81%D1%83%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%BD%D0%B5%D1%80%D1%83%D0%BA%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BE%D0%B3_%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0_%D0%98%D1%81%D1%83%D1%81%D0%BE%D0%B2%D0%BE%D0%B3%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg/3840px-thumbnail.jpg",
+      "download": "117620534.jpg",
+      "sourceOriginalDimensions": [
+        1600,
+        1200
+      ],
+      "rectificationInputDimensions": [
+        1600,
+        1200
+      ],
+      "sourceQuadPixels": [
+        [
+          193.33333333333334,
+          190.66666666666666
+        ],
+        [
+          1348.0,
+          190.66666666666666
+        ],
+        [
+          1502.6666666666667,
+          1013.3333333333334
+        ],
+        [
+          69.33333333333334,
+          1013.3333333333334
+        ]
+      ],
+      "sourceQuadNormalized": [
+        [
+          0.12083333333333333,
+          0.15888888888888889
+        ],
+        [
+          0.8425,
+          0.15888888888888889
+        ],
+        [
+          0.9391666666666667,
+          0.8444444444444444
+        ],
+        [
+          0.04333333333333334,
+          0.8444444444444444
+        ]
+      ],
+      "outputDimensions": [
+        1024,
+        768
+      ],
+      "processing": "Photographic crop and manually estimated planar perspective rectification only. No synthesis, generative fill, repainting, mirroring or inscription changes. Marble outside the arched silhouette is retained in rectangular texture corners and must be masked by arched geometry.",
+      "limitations": "Real hanging-lamp shadows remain in the source photograph. Output proportions estimated from arched borders and circular halos rather than architectural survey.",
+      "author": "Andrija12345678",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "publicTexture": "west-christ.jpg"
+    },
+    {
+      "texture": "west-sava.jpg",
+      "name": "west-sava",
+      "identity": "Saint Sava, first Archbishop of Serbia",
+      "location": "WEST exterior left side doorway when viewed from outside; geographical NORTH side of west entrance",
+      "sourcePageId": 117620538,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5,_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%BB%D0%B8%D1%98%D0%B5%D0%B2%D0%BE%D0%B3_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5,%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%BB%D0%B8%D1%98%D0%B5%D0%B2%D0%BE%D0%B3_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%BB%D0%B8%D1%98%D0%B5%D0%B2%D0%BE%D0%B3_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg/3840px-%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%BB%D0%B8%D1%98%D0%B5%D0%B2%D0%BE%D0%B3_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "download": "117620538.jpg",
+      "sourceOriginalDimensions": [
+        3000,
+        4000
+      ],
+      "rectificationInputDimensions": [
+        3000,
+        4000
+      ],
+      "sourceQuadPixels": [
+        [
+          76.66666666666667,
+          216.66666666666669
+        ],
+        [
+          2910.0,
+          216.66666666666669
+        ],
+        [
+          2996.666666666667,
+          3986.666666666667
+        ],
+        [
+          23.333333333333332,
+          3986.666666666667
+        ]
+      ],
+      "sourceQuadNormalized": [
+        [
+          0.025555555555555557,
+          0.05416666666666667
+        ],
+        [
+          0.97,
+          0.05416666666666667
+        ],
+        [
+          0.9988888888888889,
+          0.9966666666666667
+        ],
+        [
+          0.0077777777777777776,
+          0.9966666666666667
+        ]
+      ],
+      "outputDimensions": [
+        768,
+        1175
+      ],
+      "processing": "Photographic crop and manually estimated planar perspective rectification only. No synthesis, generative fill, repainting, mirroring or inscription changes. Marble outside the arched silhouette is retained in rectangular texture corners and must be masked by arched geometry.",
+      "limitations": "Real hanging-lamp shadows remain in the source photograph. Output proportions estimated from arched borders and circular halos rather than architectural survey.",
+      "author": "Andrija12345678",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "publicTexture": "west-sava.jpg"
+    },
+    {
+      "texture": "west-simeon.jpg",
+      "name": "west-simeon",
+      "identity": "Simeon the Myrrh-streamer",
+      "location": "WEST exterior right side doorway when viewed from outside; geographical SOUTH side of west entrance",
+      "sourcePageId": 117620540,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%BF%D1%80%D0%B5%D0%BF.%D0%A1%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D1%87%D0%B8%D0%B2%D0%BE%D0%B3,_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%B4%D0%B5%D1%81%D0%BD%D0%BE%D0%B3-%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%B0,_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5,%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%BF%D1%80%D0%B5%D0%BF.%D0%A1%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D1%87%D0%B8%D0%B2%D0%BE%D0%B3%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%B4%D0%B5%D1%81%D0%BD%D0%BE%D0%B3-%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%BC%D0%BE%D0%B7%D0%B0%D0%B8%D0%BA%D0%B0_%D0%BF%D1%80%D0%B5%D0%BF.%D0%A1%D0%B8%D0%BC%D0%B5%D0%BE%D0%BD%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D1%82%D0%BE%D1%87%D0%B8%D0%B2%D0%BE%D0%B3%2C_%D0%B8%D0%B7%D0%BD%D0%B0%D0%B4_%D0%B4%D0%B5%D1%81%D0%BD%D0%BE%D0%B3-%D0%B8%D0%B7%D0%B2%D0%B0%D0%BD%D0%B0%2C_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%B3_%D1%83%D0%BB%D0%B0%D0%B7%D0%B0_%D1%83_%D1%85%D1%80%D0%B0%D0%BC_%D0%A1%D0%B2.%D0%A1%D0%B0%D0%B2%D0%B5%2C%D0%91%D0%B8o%D0%B3%D1%80%D0%B0%D0%B4.jpg/3840px-thumbnail.jpg",
+      "download": "117620540.jpg",
+      "sourceOriginalDimensions": [
+        3000,
+        4000
+      ],
+      "rectificationInputDimensions": [
+        3000,
+        4000
+      ],
+      "sourceQuadPixels": [
+        [
+          133.33333333333334,
+          393.3333333333333
+        ],
+        [
+          2876.6666666666665,
+          393.3333333333333
+        ],
+        [
+          3010.0000000000005,
+          4000.0
+        ],
+        [
+          36.66666666666667,
+          4000.0
+        ]
+      ],
+      "sourceQuadNormalized": [
+        [
+          0.044444444444444446,
+          0.09833333333333333
+        ],
+        [
+          0.9588888888888888,
+          0.09833333333333333
+        ],
+        [
+          1.0033333333333334,
+          1.0
+        ],
+        [
+          0.012222222222222225,
+          1.0
+        ]
+      ],
+      "outputDimensions": [
+        768,
+        1175
+      ],
+      "processing": "Photographic crop and manually estimated planar perspective rectification only. No synthesis, generative fill, repainting, mirroring or inscription changes. Marble outside the arched silhouette is retained in rectangular texture corners and must be masked by arched geometry.",
+      "limitations": "Real hanging-lamp shadows remain in the source photograph. Output proportions estimated from arched borders and circular halos rather than architectural survey.",
+      "author": "Andrija12345678",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "publicTexture": "west-simeon.jpg"
+    },
+    {
+      "texture": "north-lazar.jpg",
+      "name": "north-lazar",
+      "identity": "Saint Martyr Prince Lazar",
+      "location": "NORTH exterior side doorway; left/right position still not photographically verified",
+      "sourcePageId": 137589165,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Lazar_Hrebeljanovi%C4%87_22_juli_2023.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Lazar_Hrebeljanovi%C4%87_22_juli_2023.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Lazar_Hrebeljanovi%C4%87_22_juli_2023.jpg/3840px-Lazar_Hrebeljanovi%C4%87_22_juli_2023.jpg",
+      "download": "137589165.jpg",
+      "sourceOriginalDimensions": [
+        2191,
+        3687
+      ],
+      "rectificationInputDimensions": [
+        2191,
+        3687
+      ],
+      "sourceQuadPixels": [
+        [
+          181.30294530154276,
+          881.8075
+        ],
+        [
+          1991.2594670406731,
+          881.8075
+        ],
+        [
+          1991.2594670406731,
+          3435.055
+        ],
+        [
+          172.08415147265077,
+          3435.055
+        ]
+      ],
+      "sourceQuadNormalized": [
+        [
+          0.08274894810659186,
+          0.23916666666666667
+        ],
+        [
+          0.908835904628331,
+          0.23916666666666667
+        ],
+        [
+          0.908835904628331,
+          0.9316666666666666
+        ],
+        [
+          0.0785413744740533,
+          0.9316666666666666
+        ]
+      ],
+      "outputDimensions": [
+        768,
+        1175
+      ],
+      "processing": "Photographic crop and manually estimated planar perspective rectification only. No synthesis, generative fill, repainting, mirroring or inscription changes. Marble outside the arched silhouette is retained in rectangular texture corners and must be masked by arched geometry.",
+      "limitations": "Real hanging lamp overlaps the upper ornamental arch. Both face and inscription remain unobstructed. No fill of hidden mosaic. Left/right position on north facade remains provisional.",
+      "author": "David Castor",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "publicTexture": "north-lazar.jpg"
+    },
+    {
+      "texture": "north-stefan.jpg",
+      "name": "north-stefan",
+      "identity": "Saint Despot Stefan Lazarevic",
+      "location": "NORTH exterior side doorway; left/right position still not photographically verified",
+      "sourcePageId": 137600093,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Stefan_Lazarevi%C4%87_22_juli_2023.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Stefan_Lazarevi%C4%87_22_juli_2023.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Stefan_Lazarevi%C4%87_22_juli_2023.jpg/3840px-Stefan_Lazarevi%C4%87_22_juli_2023.jpg",
+      "download": "137600093.jpg",
+      "sourceOriginalDimensions": [
+        1821,
+        2979
+      ],
+      "rectificationInputDimensions": [
+        1821,
+        2979
+      ],
+      "sourceQuadPixels": [
+        [
+          200.9550408719346,
+          749.7149999999999
+        ],
+        [
+          1654.7779291553134,
+          749.7149999999999
+        ],
+        [
+          1654.7779291553134,
+          2807.7075
+        ],
+        [
+          198.4741144414169,
+          2807.7075
+        ]
+      ],
+      "sourceQuadNormalized": [
+        [
+          0.11035422343324251,
+          0.25166666666666665
+        ],
+        [
+          0.9087193460490464,
+          0.25166666666666665
+        ],
+        [
+          0.9087193460490464,
+          0.9425
+        ],
+        [
+          0.10899182561307902,
+          0.9425
+        ]
+      ],
+      "outputDimensions": [
+        768,
+        1175
+      ],
+      "processing": "Photographic crop and manually estimated planar perspective rectification only. No synthesis, generative fill, repainting, mirroring or inscription changes. Marble outside the arched silhouette is retained in rectangular texture corners and must be masked by arched geometry.",
+      "limitations": "Real hanging lamp overlaps the upper ornamental arch. Both face and inscription remain unobstructed. No fill of hidden mosaic. Left/right position on north facade remains provisional.",
+      "author": "David Castor",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "publicTexture": "north-stefan.jpg"
+    },
+    {
+      "name": "west-left-capital-eagle-front",
+      "file": "west-left-capital-eagle-front.jpg",
+      "sourcePageId": 132360285,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuadPixels": [
+        [
+          901.3157894736842,
+          1250.0
+        ],
+        [
+          1298.2456140350878,
+          1302.6315789473683
+        ],
+        [
+          1291.6666666666667,
+          1543.859649122807
+        ],
+        [
+          982.4561403508771,
+          1535.0877192982457
+        ]
+      ],
+      "outputDimensions": [
+        768,
+        560
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jaba1977",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Front splayed capital face with actual eagle medallion and braided border. Planar crop flattens the photographed trapezoid; restore its true face proportions in geometry. Side faces require separate crops.",
+      "publicTexture": "west-left-capital-eagle-front.jpg"
+    },
+    {
+      "name": "west-right-capital-chirho-front",
+      "file": "west-right-capital-chirho-front.jpg",
+      "sourcePageId": 132360285,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuadPixels": [
+        [
+          2870.6140350877195,
+          1271.9298245614036
+        ],
+        [
+          3230.2631578947367,
+          1267.5438596491229
+        ],
+        [
+          3162.280701754386,
+          1567.982456140351
+        ],
+        [
+          2877.1929824561403,
+          1546.0526315789473
+        ]
+      ],
+      "outputDimensions": [
+        700,
+        640
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jaba1977",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Front splayed capital face with actual Chi-Rho medallion; surrounding stone included only at margins. Restore source trapezoid proportions in geometry. Not interchangeable with left eagle capital.",
+      "publicTexture": "west-right-capital-chirho-front.jpg"
+    },
+    {
+      "name": "west-left-capital-eagle-side",
+      "file": "west-left-capital-eagle-side.jpg",
+      "sourcePageId": 132360285,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuadPixels": [
+        [
+          1302.6315789473683,
+          1289.4736842105262
+        ],
+        [
+          1396.9298245614036,
+          1390.3508771929824
+        ],
+        [
+          1423.2456140350878,
+          1570.1754385964912
+        ],
+        [
+          1293.859649122807,
+          1546.0526315789473
+        ]
+      ],
+      "outputDimensions": [
+        420,
+        720
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jaba1977",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Oblique adjacent capital return. Low native horizontal resolution; do not stretch across broad faces or treat the surface as flat in the finished mesh.",
+      "publicTexture": "west-left-capital-eagle-side.jpg"
+    },
+    {
+      "name": "west-center-soffit-context",
+      "file": "west-center-soffit-context.jpg",
+      "sourcePageId": 132360285,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuadPixels": [
+        [
+          1423.2456140350878,
+          627.1929824561404
+        ],
+        [
+          2668.8596491228072,
+          627.1929824561404
+        ],
+        [
+          2668.8596491228072,
+          1377.1929824561403
+        ],
+        [
+          1423.2456140350878,
+          1377.1929824561403
+        ]
+      ],
+      "outputDimensions": [
+        1246,
+        750
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jaba1977",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Photographic context crop of curved soffit, not a flattened complete texture. Real lamp/adjacent marble may overlap. Trace UVs to source boundaries; do not paste the rectangle over the vault.",
+      "publicTexture": "west-center-soffit-context.jpg"
+    },
+    {
+      "name": "west-left-soffit-context",
+      "file": "west-left-soffit-context.jpg",
+      "sourcePageId": 132360285,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuadPixels": [
+        [
+          184.21052631578948,
+          877.1929824561404
+        ],
+        [
+          975.8771929824561,
+          877.1929824561404
+        ],
+        [
+          975.8771929824561,
+          1434.2105263157894
+        ],
+        [
+          184.21052631578948,
+          1434.2105263157894
+        ]
+      ],
+      "outputDimensions": [
+        792,
+        557
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jaba1977",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Photographic context crop of curved soffit, not a flattened complete texture. Real lamp/adjacent marble may overlap. Trace UVs to source boundaries; do not paste the rectangle over the vault.",
+      "publicTexture": "west-left-soffit-context.jpg"
+    },
+    {
+      "name": "west-right-soffit-context",
+      "file": "west-right-soffit-context.jpg",
+      "sourcePageId": 132360285,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Temple_of_Saint_Sava_front_by_Jaba_12.jpg",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuadPixels": [
+        [
+          3129.3859649122805,
+          973.6842105263158
+        ],
+        [
+          3817.9824561403507,
+          973.6842105263158
+        ],
+        [
+          3817.9824561403507,
+          1537.280701754386
+        ],
+        [
+          3129.3859649122805,
+          1537.280701754386
+        ]
+      ],
+      "outputDimensions": [
+        689,
+        564
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Jaba1977",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Photographic context crop of curved soffit, not a flattened complete texture. Real lamp/adjacent marble may overlap. Trace UVs to source boundaries; do not paste the rectangle over the vault.",
+      "publicTexture": "west-right-soffit-context.jpg"
+    },
+    {
+      "name": "west-central-door-complete",
+      "file": "west-central-door-complete.jpg",
+      "sourcePageId": 129471463,
+      "sourceRecord": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%A6%D0%B0%D1%80%D0%B5_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BA%D0%B8%E2%80%9D.jpg",
+      "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%A6%D0%B0%D1%80%D0%B5_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BA%D0%B8%E2%80%9D.jpg/960px-%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%A6%D0%B0%D1%80%D0%B5_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BA%D0%B8%E2%80%9D.jpg",
+      "sourceDimensions": [
+        960,
+        1280
+      ],
+      "sourceQuadPixels": [
+        [
+          120,
+          60
+        ],
+        [
+          838,
+          60
+        ],
+        [
+          844,
+          1255
+        ],
+        [
+          112,
+          1255
+        ]
+      ],
+      "outputDimensions": [
+        900,
+        1500
+      ],
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "author": "Artemco",
+      "processing": "Manually estimated projective crop only; pixels resampled bicubically. No synthesis, restoration, cloning, repainting, mirroring or inscription changes.",
+      "limitations": "Complete closed WEST CENTRAL door with all eight distinct panels and outer bronze frame. Source is existing960x1280 preview, not1200x1600 original; interpolation adds no detail. Door order corroborated against2025 source175618953. No notices or people overlap.",
+      "publicTexture": "west-central-door-complete.jpg"
+    },
+    {
+      "file": "west-left-door.jpg",
+      "source": "https://commons.wikimedia.org/?curid=126817221",
+      "author": "Andrija12345678",
+      "license": "CC BY-SA 4.0",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuad": [
+        [
+          744,
+          1927
+        ],
+        [
+          1119,
+          1931
+        ],
+        [
+          1087,
+          2666
+        ],
+        [
+          702,
+          2663
+        ]
+      ],
+      "modifications": "Perspective extraction of the actual left/right west door leaves; original surface lighting retained.",
+      "publicTexture": "west-left-door.jpg"
+    },
+    {
+      "file": "west-right-door.jpg",
+      "source": "https://commons.wikimedia.org/?curid=126817221",
+      "author": "Andrija12345678",
+      "license": "CC BY-SA 4.0",
+      "sourceDimensions": [
+        4000,
+        3000
+      ],
+      "sourceQuad": [
+        [
+          2925,
+          1911
+        ],
+        [
+          3296,
+          1904
+        ],
+        [
+          3364,
+          2670
+        ],
+        [
+          2985,
+          2670
+        ]
+      ],
+      "modifications": "Perspective extraction of the actual left/right west door leaves; original surface lighting retained.",
+      "publicTexture": "west-right-door.jpg"
+    },
+    {
+      "file": "rose-window-field.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hram_svetog_save_beograd_0005_(edited).jpg",
+      "author": "Npps90",
+      "license": "CC BY-SA 4.0",
+      "sourceDimensions": [
+        3840,
+        3206
+      ],
+      "sourceRect": [
+        1850,
+        2086,
+        1994,
+        2230
+      ],
+      "modifications": "Circular window decorative field crop; reused only as the matching repeated architectural window ornament.",
+      "publicTexture": "rose-window-field.jpg"
+    },
+    {
+      "name": "north-orans",
+      "rawCrop": "north-orans-native-crop.png",
+      "rectified": "north-orans-rectified.png",
+      "sourceFile": "north-portal-news-reference.jpg",
+      "sourceImageURL": "https://informer.rs/data/images/2021-01-29/412025_hram-256029_f.jpg",
+      "sourceDimensions": [
+        663,
+        390
+      ],
+      "sourceCropBox": [
+        282,
+        61,
+        383,
+        140
+      ],
+      "sourceQuadPixels": [
+        [
+          289,
+          63
+        ],
+        [
+          374,
+          65
+        ],
+        [
+          380,
+          137
+        ],
+        [
+          284,
+          136
+        ]
+      ],
+      "outputDimensions": [
+        96,
+        75
+      ],
+      "location": "NORTH exterior central portal: Virgin Orans / Mother of God of the Sign, with Christ Emmanuel.",
+      "author": "Informer photograph, 29 January 2021; photographer not identified in retained source",
+      "license": "Copyright retained by the source rights holders. No Creative Commons, public-domain, or other reuse-license grant is asserted.",
+      "processing": "Bounded native-size crop plus optional planar rectification. No generated fill, icon substitution, retouching, mirroring, lettering changes, or upscaling.",
+      "limitations": "Small photographed native field. Full subjects are visible; low resolution limits readable inscriptions. White marble in rectangular top corners must be masked by matching arched geometry. Minor source lighting, lamp, or bordering-column occlusion remains wherever present.",
+      "publicTexture": "north-orans.jpg"
+    },
+    {
+      "name": "south-baptist",
+      "rawCrop": "south-baptist-native-crop.png",
+      "rectified": "south-baptist-rectified.png",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceImageURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "sourceCropBox": [
+        656,
+        444,
+        743,
+        519
+      ],
+      "sourceQuadPixels": [
+        [
+          662,
+          447
+        ],
+        [
+          738,
+          449
+        ],
+        [
+          741,
+          515
+        ],
+        [
+          658,
+          514
+        ]
+      ],
+      "outputDimensions": [
+        83,
+        68
+      ],
+      "location": "SOUTH exterior central portal: Saint John the Baptist.",
+      "author": "TravelAnswer photograph; photographer not identified in retained source",
+      "license": "Copyright retained by the source rights holders. No Creative Commons, public-domain, or other reuse-license grant is asserted.",
+      "processing": "Bounded native-size crop plus optional planar rectification. No generated fill, icon substitution, retouching, mirroring, lettering changes, or upscaling.",
+      "limitations": "Small photographed native field. Full subjects are visible; low resolution limits readable inscriptions. White marble in rectangular top corners must be masked by matching arched geometry. Minor source lighting, lamp, or bordering-column occlusion remains wherever present.",
+      "publicTexture": "south-john-baptist.jpg"
+    },
+    {
+      "name": "south-left-martyr",
+      "rawCrop": "south-left-martyr-native-crop.png",
+      "rectified": "south-left-martyr-rectified.png",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceImageURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "sourceCropBox": [
+        515,
+        470,
+        584,
+        558
+      ],
+      "sourceQuadPixels": [
+        [
+          524,
+          473
+        ],
+        [
+          581,
+          475
+        ],
+        [
+          579,
+          555
+        ],
+        [
+          518,
+          552
+        ]
+      ],
+      "outputDimensions": [
+        63,
+        81
+      ],
+      "location": "SOUTH exterior left portal when viewed from outside; western side of south entrance. One of Saints Hermylus and Stratonicus; inscription too small for independent identity verification.",
+      "author": "TravelAnswer photograph; photographer not identified in retained source",
+      "license": "Copyright retained by the source rights holders. No Creative Commons, public-domain, or other reuse-license grant is asserted.",
+      "processing": "Bounded native-size crop plus optional planar rectification. No generated fill, icon substitution, retouching, mirroring, lettering changes, or upscaling.",
+      "limitations": "Small photographed native field. Full subjects are visible; low resolution limits readable inscriptions. White marble in rectangular top corners must be masked by matching arched geometry. Minor source lighting, lamp, or bordering-column occlusion remains wherever present.",
+      "publicTexture": "south-left-martyr.jpg"
+    },
+    {
+      "name": "south-right-martyr",
+      "rawCrop": "south-right-martyr-native-crop.png",
+      "rectified": "south-right-martyr-rectified.png",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceImageURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "sourceCropBox": [
+        813,
+        478,
+        882,
+        567
+      ],
+      "sourceQuadPixels": [
+        [
+          816,
+          481
+        ],
+        [
+          874,
+          484
+        ],
+        [
+          879,
+          564
+        ],
+        [
+          817,
+          561
+        ]
+      ],
+      "outputDimensions": [
+        64,
+        81
+      ],
+      "location": "SOUTH exterior right portal when viewed from outside; eastern side of south entrance. One of Saints Hermylus and Stratonicus; inscription too small for independent identity verification.",
+      "author": "TravelAnswer photograph; photographer not identified in retained source",
+      "license": "Copyright retained by the source rights holders. No Creative Commons, public-domain, or other reuse-license grant is asserted.",
+      "processing": "Bounded native-size crop plus optional planar rectification. No generated fill, icon substitution, retouching, mirroring, lettering changes, or upscaling.",
+      "limitations": "Small photographed native field. Full subjects are visible; low resolution limits readable inscriptions. White marble in rectangular top corners must be masked by matching arched geometry. Minor source lighting, lamp, or bordering-column occlusion remains wherever present.",
+      "publicTexture": "south-right-martyr.jpg"
+    },
+    {
+      "name": "north-left-capital-front",
+      "sourceFile": "north-portal-news-reference.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412025_hram-256029_f.jpg",
+      "author": "Informer, 29 January 2021; photographer not identified",
+      "license": "Copyright retained; no open license asserted.",
+      "description": "North viewer-left capital front; full winged-creature relief and decorative border, with small adjacent-plane margins. This unoccluded small source avoids the street-lamp pole that hides this face in DKjellby 154435541.",
+      "sourceQuadPixels": [
+        [
+          193,
+          124
+        ],
+        [
+          245,
+          125
+        ],
+        [
+          240,
+          166
+        ],
+        [
+          205,
+          166
+        ]
+      ],
+      "sourceCropBox": [
+        193,
+        124,
+        245,
+        166
+      ],
+      "sourceDimensions": [
+        663,
+        390
+      ],
+      "outputDimensions": [
+        52,
+        42
+      ],
+      "nativeCrop": "north-left-capital-front-native-crop.png",
+      "rectified": "north-left-capital-front-rectified.png",
+      "processing": "Native bounded crop and planar resampling only, without generated replacement sculpture, mirroring, retouching or upscaling.",
+      "publicTexture": "north-left-capital-front-rectified.png"
+    },
+    {
+      "name": "north-right-capital-front",
+      "sourceFile": "154435541.jpg",
+      "sourceURL": "https://commons.wikimedia.org/w/index.php?curid=154435541",
+      "author": "DKjellby",
+      "license": "CC0 1.0",
+      "description": "North viewer-right capital front; full winged-creature relief with its surrounding frame. Excludes the adjacent return face. Perspective of the three-dimensional carved face is approximate.",
+      "sourceQuadPixels": [
+        [
+          1427,
+          2199
+        ],
+        [
+          1529,
+          2209
+        ],
+        [
+          1511,
+          2284
+        ],
+        [
+          1444,
+          2289
+        ]
+      ],
+      "sourceCropBox": [
+        1427,
+        2199,
+        1529,
+        2289
+      ],
+      "sourceDimensions": [
+        4032,
+        3024
+      ],
+      "outputDimensions": [
+        103,
+        90
+      ],
+      "nativeCrop": "north-right-capital-front-native-crop.png",
+      "rectified": "north-right-capital-front-rectified.png",
+      "processing": "Native bounded crop and planar resampling only, without generated replacement sculpture, mirroring, retouching or upscaling.",
+      "publicTexture": "north-right-capital-front-rectified.png"
+    },
+    {
+      "name": "south-left-capital-front",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "author": "TravelAnswer; photographer not identified",
+      "license": "Copyright retained; no open license asserted.",
+      "description": "South viewer-left capital front; complete photographed winged-creature relief field and border at small native resolution.",
+      "sourceQuadPixels": [
+        [
+          580,
+          512
+        ],
+        [
+          622,
+          513
+        ],
+        [
+          613,
+          541
+        ],
+        [
+          589,
+          541
+        ]
+      ],
+      "sourceCropBox": [
+        580,
+        512,
+        622,
+        541
+      ],
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "outputDimensions": [
+        42,
+        29
+      ],
+      "nativeCrop": "south-left-capital-front-native-crop.png",
+      "rectified": "south-left-capital-front-rectified.png",
+      "processing": "Native bounded crop and planar resampling only, without generated replacement sculpture, mirroring, retouching or upscaling.",
+      "publicTexture": "south-left-capital-front-rectified.png"
+    },
+    {
+      "name": "south-right-capital-front",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "author": "TravelAnswer; photographer not identified",
+      "license": "Copyright retained; no open license asserted.",
+      "description": "South viewer-right capital front; complete photographed winged-creature relief field and border at small native resolution.",
+      "sourceQuadPixels": [
+        [
+          769,
+          516
+        ],
+        [
+          814,
+          516
+        ],
+        [
+          803,
+          547
+        ],
+        [
+          779,
+          546
+        ]
+      ],
+      "sourceCropBox": [
+        769,
+        516,
+        814,
+        547
+      ],
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "outputDimensions": [
+        45,
+        31
+      ],
+      "nativeCrop": "south-right-capital-front-native-crop.png",
+      "rectified": "south-right-capital-front-rectified.png",
+      "processing": "Native bounded crop and planar resampling only, without generated replacement sculpture, mirroring, retouching or upscaling.",
+      "publicTexture": "south-right-capital-front-rectified.png"
+    },
+    {
+      "name": "south-central-soffit-interlace-strip",
+      "sourceFile": "forum123-door.jpg",
+      "sourceURL": "https://forum.beobuild.rs/attachments/screenshot_20201006_151601-jpg.103410/",
+      "author": "Photograph reposted by Agiorites, Beobuild Forum, 6 October 2020, post 3052; original individual photographer not identified.",
+      "license": "Copyright retained by source rights holders; no open license asserted.",
+      "location": "SOUTH central high curved portal soffit, forward of the rear-plane John the Baptist mosaic. It is not part of the low rectangular door surround.",
+      "limitations": "Partial decorative strip only; interlaced pale tesserae on dark blue/black, with a thin red perimeter visible in source context. Screenshot predates the hanging finished lamp. Preserve source context separately.",
+      "sourceQuadPixels": [
+        [
+          943,
+          14
+        ],
+        [
+          1078,
+          147
+        ],
+        [
+          1028,
+          198
+        ],
+        [
+          891,
+          64
+        ]
+      ],
+      "sourceCropBox": [
+        891,
+        14,
+        1078,
+        198
+      ],
+      "sourceDimensions": [
+        1080,
+        1339
+      ],
+      "outputDimensions": [
+        190,
+        72
+      ],
+      "nativeCrop": "south-central-soffit-interlace-strip-native-crop.png",
+      "rectified": "south-central-soffit-interlace-strip.png",
+      "processing": "Native bounded photographed ornament crop with planar resampling only. No generated fill, subject substitution, or invented lettering.",
+      "publicTexture": "south-central-soffit-interlace-strip.png"
+    },
+    {
+      "name": "north-side-soffit-overlapping-rings",
+      "sourceFile": "129469911.jpg",
+      "sourceURL": "https://commons.wikimedia.org/w/index.php?curid=129469911",
+      "author": "Artemco",
+      "license": "CC BY-SA 4.0",
+      "location": "NORTH viewer-left high portal soffit above Stefan Lazarevic; its gold field has repeating white overlapping rings/small crosses and a jeweled cross medallion at the arch crown.",
+      "limitations": "Only decorative repeating field extracted, excluding lamp. Source 137589165 confirms same family over north right Lazar. No west angel figures occur in these side soffits. The medallion is retained in source context and partly obscured by the real lamp.",
+      "sourceQuadPixels": [
+        [
+          840,
+          516
+        ],
+        [
+          1260,
+          516
+        ],
+        [
+          1260,
+          768
+        ],
+        [
+          840,
+          768
+        ]
+      ],
+      "sourceCropBox": [
+        840,
+        516,
+        1260,
+        768
+      ],
+      "sourceDimensions": [
+        3840,
+        3840
+      ],
+      "outputDimensions": [
+        420,
+        252
+      ],
+      "nativeCrop": "north-side-soffit-overlapping-rings-native-crop.png",
+      "rectified": "north-side-soffit-overlapping-rings.png",
+      "processing": "Native bounded photographed ornament crop with planar resampling only. No generated fill, subject substitution, or invented lettering.",
+      "publicTexture": "north-side-soffit-overlapping-rings.png"
+    },
+    {
+      "name": "north-central-soffit-blue-strip",
+      "sourceFile": "154435541.jpg",
+      "sourceURL": "https://commons.wikimedia.org/w/index.php?curid=154435541",
+      "author": "DKjellby",
+      "license": "CC0 1.0",
+      "location": "NORTH central high curved portal soffit above Orans.",
+      "limitations": "Narrow oblique native field; establishes blue color and visible pale ornament, not a complete proof of all arch-crown motifs. The lower-left end turns gold for a short inscription visible in the context. Do not describe as a complete source-resolved central soffit.",
+      "sourceQuadPixels": [
+        [
+          1190,
+          2037
+        ],
+        [
+          1225,
+          1977
+        ],
+        [
+          1238,
+          1983
+        ],
+        [
+          1200,
+          2043
+        ]
+      ],
+      "sourceCropBox": [
+        1190,
+        1977,
+        1238,
+        2043
+      ],
+      "sourceDimensions": [
+        4032,
+        3024
+      ],
+      "outputDimensions": [
+        70,
+        11
+      ],
+      "nativeCrop": "north-central-soffit-blue-strip-native-crop.png",
+      "rectified": "north-central-soffit-blue-strip.png",
+      "processing": "Native bounded photographed ornament crop with planar resampling only. No generated fill, subject substitution, or invented lettering.",
+      "publicTexture": "north-central-soffit-blue-strip.png"
+    },
+    {
+      "name": "south-right-door",
+      "sourceImageURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "author": "TravelAnswer photograph; individual photographer unidentified",
+      "license": "Copyright retained by the source rights holders. No Creative Commons, public-domain, or other reuse-license grant is asserted.",
+      "location": "South facade, viewer-right / eastern side door",
+      "limitations": "Complete door in the source with eight distinct panel fields; source resolution prevents reading the inscriptions. No neighboring prayer family has been substituted.",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "sourceCropBox": [
+        815,
+        594,
+        889,
+        716
+      ],
+      "sourceQuadPixels": [
+        [
+          815,
+          594
+        ],
+        [
+          882,
+          595
+        ],
+        [
+          889,
+          716
+        ],
+        [
+          815,
+          714
+        ]
+      ],
+      "outputDimensions": [
+        74,
+        121
+      ],
+      "rawCrop": "south-right-door-native-crop.png",
+      "rectified": "south-right-door-rectified.png",
+      "processing": "Bounded native crop and planar resampling only. No generated fill, mirrored subjects, inscription replacement, or retouching.",
+      "publicTexture": "south-right-door-rectified.png"
+    },
+    {
+      "name": "south-rose",
+      "sourceImageURL": "https://s3.travelanswer.ru/uploads/places/serbia/belgrade/chijj44lpwxwwkcrtdtabxo5eb4/5.jpg",
+      "author": "TravelAnswer photograph; individual photographer unidentified",
+      "license": "Copyright retained by the source rights holders. No Creative Commons, public-domain, or other reuse-license grant is asserted.",
+      "location": "South facade central rose: flower center and its actual radial decorative cells",
+      "limitations": "Native small field. The circular border is retained; map the circular field to circular geometry. Source perspective is rectified approximately. Output aspect follows available source pixels; intended physical aspect is 1:1.",
+      "sourceFile": "portal-travel-reference.jpg",
+      "sourceDimensions": [
+        1280,
+        815
+      ],
+      "sourceCropBox": [
+        670,
+        264,
+        739,
+        319
+      ],
+      "sourceQuadPixels": [
+        [
+          671,
+          264
+        ],
+        [
+          738,
+          265
+        ],
+        [
+          739,
+          319
+        ],
+        [
+          670,
+          318
+        ]
+      ],
+      "outputDimensions": [
+        69,
+        54
+      ],
+      "rawCrop": "south-rose-native-crop.png",
+      "rectified": "south-rose-rectified.png",
+      "processing": "Bounded native crop and planar resampling only. No generated fill, mirrored subjects, inscription replacement, or retouching.",
+      "publicTexture": "south-rose-rectified.png"
+    },
+    {
+      "name": "north-rose",
+      "sourceImageURL": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Church_of_Saint_Sava%2C_Belgrade_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "DKjellby",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourcePage": "https://commons.wikimedia.org/w/index.php?curid=154435541",
+      "location": "North facade central rose: cross center and its actual radial decorative cells",
+      "limitations": "Oblique north photograph; affine/projective approximation uses facade directions to restore the circular field. Full decorative subject visible without the adjacent lamp. Output aspect follows available pixels; intended physical aspect is 1:1.",
+      "sourceFile": "154435541.jpg",
+      "sourceDimensions": [
+        4032,
+        3024
+      ],
+      "sourceCropBox": [
+        1252,
+        1518,
+        1418,
+        1700
+      ],
+      "sourceQuadPixels": [
+        [
+          1278,
+          1550
+        ],
+        [
+          1418,
+          1518
+        ],
+        [
+          1392,
+          1668
+        ],
+        [
+          1252,
+          1700
+        ]
+      ],
+      "outputDimensions": [
+        144,
+        152
+      ],
+      "rawCrop": "north-rose-native-crop.png",
+      "rectified": "north-rose-rectified.png",
+      "processing": "Bounded native crop and planar resampling only. No generated fill, mirrored subjects, inscription replacement, or retouching.",
+      "publicTexture": "north-rose-rectified.png"
+    },
+    {
+      "name": "north-left-door",
+      "sourceImageURL": "https://upload.wikimedia.org/wikipedia/commons/1/18/%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D_3.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D_3.jpg",
+      "author": "Artemco",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "location": "North facade, viewer-left / eastern side door. English/French at top; Spanish/Chinese, Romanian/Polish, Hungarian/Slovak below.",
+      "limitations": "Complete native photographed leaves; a small temporary construction notice remains between rows 3 and 4 without obscuring inscriptions. Source date 19 May 2021. Side-door placement is inferred from the upper-panel layouts in the DKjellby north facade overview and capture coordinates; the far overview is too soft to re-read every inscription.",
+      "placementEvidence": "North overview 154435541 has the Church Slavonic/Greek central door. Side assignment English-left and German-right follows visible lettering arrangement and westernmost GPS of German photo; confidence medium for sides, high for central.",
+      "languagesTopRow": [
+        "English",
+        "French"
+      ],
+      "sourceFile": "129471465-original.jpg",
+      "sourceDimensions": [
+        1200,
+        1600
+      ],
+      "sourceCropBox": [
+        241,
+        201,
+        962,
+        1548
+      ],
+      "sourceQuadPixels": [
+        [
+          252.5,
+          201.25
+        ],
+        [
+          955.0,
+          206.25
+        ],
+        [
+          961.25,
+          1547.5
+        ],
+        [
+          241.25,
+          1545.0
+        ]
+      ],
+      "outputDimensions": [
+        720,
+        1344
+      ],
+      "rawCrop": "north-left-door-native-crop.png",
+      "rectified": "north-left-door-rectified.png",
+      "processing": "Bounded native crop and planar resampling only. No generated fill, mirrored subjects, inscription replacement, or retouching.",
+      "publicTexture": "north-left-door-rectified.png"
+    },
+    {
+      "name": "north-center-door",
+      "sourceImageURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D_2.jpg/960px-%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D_2.jpg",
+      "author": "Artemco",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "location": "North facade central door. Church Slavonic/Greek at top; Serbian/Russian, Latin/Arabic, Hebrew/Armenian below.",
+      "limitations": "Complete native photographed leaves; a small temporary construction notice remains between rows 3 and 4 without obscuring inscriptions. Source date 19 May 2021. Side-door placement is inferred from the upper-panel layouts in the DKjellby north facade overview and capture coordinates; the far overview is too soft to re-read every inscription.",
+      "placementEvidence": "North overview 154435541 has the Church Slavonic/Greek central door. Side assignment English-left and German-right follows visible lettering arrangement and westernmost GPS of German photo; confidence medium for sides, high for central.",
+      "languagesTopRow": [
+        "Church Slavonic",
+        "Greek"
+      ],
+      "sourceFile": "129471481.jpg",
+      "sourceDimensions": [
+        960,
+        1280
+      ],
+      "sourceCropBox": [
+        149,
+        139,
+        780,
+        1231
+      ],
+      "sourceQuadPixels": [
+        [
+          166,
+          139
+        ],
+        [
+          754,
+          144
+        ],
+        [
+          780,
+          1228
+        ],
+        [
+          149,
+          1231
+        ]
+      ],
+      "outputDimensions": [
+        631,
+        1092
+      ],
+      "rawCrop": "north-center-door-native-crop.png",
+      "rectified": "north-center-door-rectified.png",
+      "processing": "Bounded native crop and planar resampling only. No generated fill, mirrored subjects, inscription replacement, or retouching.",
+      "publicTexture": "north-center-door-rectified.png"
+    },
+    {
+      "name": "north-right-door",
+      "sourceImageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%92%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%B2%D0%B5%D1%82%D0%BE%D0%B3_%D0%A1%D0%B0%D0%B2%D0%B5_%D1%81%D0%B0_%D0%BC%D0%BE%D0%BB%D0%B8%D1%82%D0%B2%D0%BE%D0%BC_%E2%80%9E%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D0%B5_%D0%B4%D1%98%D0%B5%D0%B2%D0%BE%E2%80%9D.jpg",
+      "author": "Artemco",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "location": "North facade, viewer-right / western side door. German/Italian at top; Bulgarian/Japanese, Georgian/Romani, Albanian/Czech below.",
+      "limitations": "Complete native photographed leaves; a small temporary construction notice remains between rows 3 and 4 without obscuring inscriptions. Source date 19 May 2021. Side-door placement is inferred from the upper-panel layouts in the DKjellby north facade overview and capture coordinates; the far overview is too soft to re-read every inscription.",
+      "placementEvidence": "North overview 154435541 has the Church Slavonic/Greek central door. Side assignment English-left and German-right follows visible lettering arrangement and westernmost GPS of German photo; confidence medium for sides, high for central.",
+      "languagesTopRow": [
+        "German",
+        "Italian"
+      ],
+      "sourceFile": "129471464-original.jpg",
+      "sourceDimensions": [
+        1200,
+        1600
+      ],
+      "sourceCropBox": [
+        247,
+        208,
+        955,
+        1545
+      ],
+      "sourceQuadPixels": [
+        [
+          247.5,
+          210.0
+        ],
+        [
+          951.25,
+          208.75
+        ],
+        [
+          955.0,
+          1543.75
+        ],
+        [
+          255.0,
+          1545.0
+        ]
+      ],
+      "outputDimensions": [
+        708,
+        1337
+      ],
+      "rawCrop": "north-right-door-native-crop.png",
+      "rectified": "north-right-door-rectified.png",
+      "processing": "Bounded native crop and planar resampling only. No generated fill, mirrored subjects, inscription replacement, or retouching.",
+      "publicTexture": "north-right-door-rectified.png"
+    },
+    {
+      "name": "north-center-soffit-crown",
+      "sourceFile": "north-portal-news-reference.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412025_hram-256029_f.jpg",
+      "sourcePage": "https://informer.rs/drustvo/srbija/582443/znate-li-sta-pise-na-vratima-hrama-svetog-save-i-to-na-24-jezika-foto",
+      "author": "Informer photograph; article dated 31 January 2021; individual photographer not identified",
+      "license": "Copyright retained by source rights holders; no open license asserted.",
+      "description": "North central high curved portal soffit: the actual crown field photographed before lamp installation, within the blue/pale patterned band. A central pale and warm-colored medallion field is visible; the native resolution is inadequate to independently identify every inner motif. Use the photographed crop without substituting a named icon.",
+      "sourceDimensions": [
+        663,
+        390
+      ],
+      "sourceQuadPixels": [
+        [
+          327,
+          18
+        ],
+        [
+          340,
+          18
+        ],
+        [
+          340,
+          26
+        ],
+        [
+          327,
+          26
+        ]
+      ],
+      "sourceCropBox": [
+        327,
+        18,
+        340,
+        26
+      ],
+      "outputDimensions": [
+        13,
+        8
+      ],
+      "nativeCrop": "north-center-soffit-crown-native-crop.png",
+      "rectified": "north-center-soffit-crown-rectified.png",
+      "processing": "Bounded native photograph crop only. No upscaling, generated fill, or invented motif.",
+      "limitations": "Very low native detail; authoritative motif taxonomy cannot be inferred from 13 x 8 pixels. Later full-resolution Commons photograph has its physical lamp over this crown, so cannot replace this field. Alternate publisher m/kf/ig variants crop away the crown.",
+      "publicTexture": "north-center-soffit-crown-rectified.png"
+    },
+    {
+      "name": "south-left-door-complete",
+      "sourceFile": "412028.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412028_hram-256039_iff.jpg?1611953144=",
+      "sourcePage": "https://informer.rs/drustvo/srbija/582443/znate-li-sta-pise-na-vratima-hrama-svetog-save-i-to-na-24-jezika-foto",
+      "author": "Informer photograph, article dated 31 January 2021; individual photographer not identified",
+      "license": "Copyright retained by the source rights holders; no open license asserted.",
+      "description": "Complete unobscured south viewer-left closed door leaves with all eight distinct Lord Prayer fields; it supersedes the construction-covered travel crop. The upper decorative door header is outside this leaf-only crop.",
+      "sourceDimensions": [
+        4000,
+        2666
+      ],
+      "photographicContentBounds": [
+        0,
+        0,
+        1024,
+        682
+      ],
+      "sourceQuadPixels": [
+        [
+          225,
+          423
+        ],
+        [
+          319,
+          426
+        ],
+        [
+          307,
+          600
+        ],
+        [
+          211,
+          596
+        ]
+      ],
+      "sourceCropBox": [
+        211,
+        423,
+        319,
+        600
+      ],
+      "outputDimensions": [
+        97,
+        177
+      ],
+      "nativeCrop": "south-left-door-complete-native-crop.png",
+      "rectified": "south-left-door-complete-rectified.png",
+      "processing": "Native bounded crop and planar resampling only. The source JPEG contains a large black padding area outside the actual photograph. No generated fill or substituted inscription was used.",
+      "publicTexture": "south-left-door-complete-rectified.png"
+    },
+    {
+      "name": "south-center-door-closed",
+      "sourceFile": "412028.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412028_hram-256039_iff.jpg?1611953144=",
+      "sourcePage": "https://informer.rs/drustvo/srbija/582443/znate-li-sta-pise-na-vratima-hrama-svetog-save-i-to-na-24-jezika-foto",
+      "author": "Informer photograph, article dated 31 January 2021; individual photographer not identified",
+      "license": "Copyright retained by the source rights holders; no open license asserted.",
+      "description": "Complete unobscured south central CLOSED bronze door leaves with all eight distinct Lord Prayer fields. The outer header/frame is outside this leaf-only crop. Side scaffolding is excluded.",
+      "sourceDimensions": [
+        4000,
+        2666
+      ],
+      "photographicContentBounds": [
+        0,
+        0,
+        1024,
+        682
+      ],
+      "sourceQuadPixels": [
+        [
+          452,
+          373
+        ],
+        [
+          578,
+          375
+        ],
+        [
+          573,
+          604
+        ],
+        [
+          443,
+          600
+        ]
+      ],
+      "sourceCropBox": [
+        443,
+        373,
+        578,
+        604
+      ],
+      "outputDimensions": [
+        135,
+        231
+      ],
+      "nativeCrop": "south-center-door-closed-native-crop.png",
+      "rectified": "south-center-door-closed-rectified.png",
+      "processing": "Native bounded crop and planar resampling only. The source JPEG contains a large black padding area outside the actual photograph. No generated fill or substituted inscription was used.",
+      "publicTexture": "south-center-door-closed-rectified.png"
+    },
+    {
+      "name": "south-side-soffit-gold-strip",
+      "sourceFile": "412028.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412028_hram-256039_iff.jpg?1611953144=",
+      "sourcePage": "https://informer.rs/drustvo/srbija/582443/znate-li-sta-pise-na-vratima-hrama-svetog-save-i-to-na-24-jezika-foto",
+      "author": "Informer photograph, article dated 31 January 2021; individual photographer not identified",
+      "license": "Copyright retained by the source rights holders; no open license asserted.",
+      "description": "South viewer-left high curved soffit: actual gold decorative strip, with fine pale geometry. Both southern side soffits are gold with a crown roundel, not the central black/white interlace. Right side is partially hidden by scaffolding in the source, so only the gold family and crown are established there; exact tiny repeat need not be inferred from it.",
+      "sourceDimensions": [
+        4000,
+        2666
+      ],
+      "photographicContentBounds": [
+        0,
+        0,
+        1024,
+        682
+      ],
+      "sourceQuadPixels": [
+        [
+          215,
+          241
+        ],
+        [
+          247,
+          212
+        ],
+        [
+          254,
+          220
+        ],
+        [
+          224,
+          249
+        ]
+      ],
+      "sourceCropBox": [
+        215,
+        212,
+        254,
+        249
+      ],
+      "outputDimensions": [
+        43,
+        12
+      ],
+      "nativeCrop": "south-side-soffit-gold-strip-native-crop.png",
+      "rectified": "south-side-soffit-gold-strip-rectified.png",
+      "processing": "Native bounded crop and planar resampling only. The source JPEG contains a large black padding area outside the actual photograph. No generated fill or substituted inscription was used.",
+      "publicTexture": "south-side-soffit-gold-strip-rectified.png"
+    },
+    {
+      "name": "south-center-soffit-crown",
+      "sourceFile": "412028.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412028_hram-256039_iff.jpg?1611953144=",
+      "sourcePage": "https://informer.rs/drustvo/srbija/582443/znate-li-sta-pise-na-vratima-hrama-svetog-save-i-to-na-24-jezika-foto",
+      "author": "Informer photograph, article dated 31 January 2021; individual photographer not identified",
+      "license": "Copyright retained by the source rights holders; no open license asserted.",
+      "description": "Actual central crown in the black/white south soffit. Small native photographed field shows cross-like gold/red circle design. This is a surface-decoration extract, not an invented icon.",
+      "sourceDimensions": [
+        4000,
+        2666
+      ],
+      "photographicContentBounds": [
+        0,
+        0,
+        1024,
+        682
+      ],
+      "sourceQuadPixels": [
+        [
+          498,
+          131
+        ],
+        [
+          524,
+          131
+        ],
+        [
+          523,
+          139
+        ],
+        [
+          499,
+          139
+        ]
+      ],
+      "sourceCropBox": [
+        498,
+        131,
+        524,
+        139
+      ],
+      "outputDimensions": [
+        26,
+        8
+      ],
+      "nativeCrop": "south-center-soffit-crown-native-crop.png",
+      "rectified": "south-center-soffit-crown-rectified.png",
+      "processing": "Native bounded crop and planar resampling only. The source JPEG contains a large black padding area outside the actual photograph. No generated fill or substituted inscription was used.",
+      "publicTexture": "south-center-soffit-crown-rectified.png"
+    },
+    {
+      "name": "south-side-soffit-crown",
+      "sourceFile": "412028.jpg",
+      "sourceURL": "https://informer.rs/data/images/2021-01-29/412028_hram-256039_iff.jpg?1611953144=",
+      "sourcePage": "https://informer.rs/drustvo/srbija/582443/znate-li-sta-pise-na-vratima-hrama-svetog-save-i-to-na-24-jezika-foto",
+      "author": "Informer photograph; article dated 31 January 2021; individual photographer not identified",
+      "license": "Copyright retained by source rights holders; no open license asserted.",
+      "description": "Actual crown field of SOUTH viewer-left gold curved portal soffit, photographed before the lamp was installed. A pale-rimmed dark and warm medallion is present. Use the bounded photographic material without assigning a named subject to its tiny inner details.",
+      "sourceDimensions": [
+        4000,
+        2666
+      ],
+      "photographicContentBounds": [
+        0,
+        0,
+        1024,
+        682
+      ],
+      "sourceQuadPixels": [
+        [
+          273,
+          196
+        ],
+        [
+          296,
+          197
+        ],
+        [
+          297,
+          205
+        ],
+        [
+          273,
+          204
+        ]
+      ],
+      "sourceCropBox": [
+        273,
+        196,
+        297,
+        205
+      ],
+      "outputDimensions": [
+        24,
+        9
+      ],
+      "nativeCrop": "south-side-soffit-crown-native-crop.png",
+      "rectified": "south-side-soffit-crown-rectified.png",
+      "processing": "Native bounded photograph crop and planar rectification only. No generated fill or substituted icon.",
+      "limitations": "24 x 9 native field. The right side crown is visibly present behind construction scaffolding in the source but is not independently extractable; left extract represents the observed side motif family, with exact paired identity unverified at this resolution.",
+      "publicTexture": "south-side-soffit-crown-rectified.png"
+    },
+    {
+      "id": "west-portals",
+      "title": "Carved west portals and entrance mosaics",
+      "author": "Andrija12345678",
+      "date": "20 December 2022, 14:46:57",
+      "url": "https://commons.wikimedia.org/wiki/File%3A%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B8%D1%85_%D0%B2%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D0%A1%D0%B2._%D0%A1%D0%B0%D0%B2%D0%B5%2C_%D0%92%D1%80%D0%B0%D1%87%D0%B0%D1%80%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "file": "west-portals.jpg",
+      "angle": "Close frontal detail of the three west entrances",
+      "publicTexture": "west-portals.jpg",
+      "processing": "Original retained as builder input; separately bounded west mosaic and soffit fields are mapped in the current model."
+    }
+  ],
+  "legacySource": {
+    "id": "west-portals",
+    "title": "Carved west portals and entrance mosaics",
+    "author": "Andrija12345678",
+    "date": "20 December 2022, 14:46:57",
+    "url": "https://commons.wikimedia.org/wiki/File%3A%D0%A1%D0%B2%D1%98%D0%B5%D1%82%D0%BB%D0%BE%D0%BF%D0%B8%D1%81_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%B8%D1%85_%D0%B2%D1%80%D0%B0%D1%82%D0%B0_%D1%85%D1%80%D0%B0%D0%BC%D0%B0_%D0%A1%D0%B2._%D0%A1%D0%B0%D0%B2%D0%B5%2C_%D0%92%D1%80%D0%B0%D1%87%D0%B0%D1%80%2C_%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D0%B4.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "file": "west-portals.jpg",
+    "angle": "Close frontal detail of the three west entrances"
+  },
+  "textureFiles": {
+    "north-rose-rectified.png": {
+      "byteLength": 42590,
+      "sha256": "a358708429e286ab0342cb53c9a6c75f614c05de3eb6af2a5449c8905d672aa0"
+    },
+    "west-left-capital-eagle-side.jpg": {
+      "byteLength": 72681,
+      "sha256": "e91b3d985254aff84da44c5c68119ce5be542f9e2690f298f876b7099f3281ba"
+    },
+    "south-right-door-rectified.png": {
+      "byteLength": 16867,
+      "sha256": "f5fa6b172384af892cfbea936e48d925c59cca890ac14b3910cd9f51e5b59309"
+    },
+    "west-right-soffit-context.jpg": {
+      "byteLength": 172981,
+      "sha256": "e144c0655877f463fd8110ab8744bdff3f8fabc0d89f9950a86a5a3d3b5e4798"
+    },
+    "west-left-soffit-context.jpg": {
+      "byteLength": 171600,
+      "sha256": "a610915186cd24facb9cf9703dff966f01824f55eee4c429baca155e9e5e1c9e"
+    },
+    "south-rose-rectified.png": {
+      "byteLength": 9973,
+      "sha256": "4876b7ef3573828cc66c06e3fc3110ad28ff656162537c167f0e58a6244ebad0"
+    },
+    "west-center-soffit-context.jpg": {
+      "byteLength": 431216,
+      "sha256": "8b10e062eb027a33a5b83e29c534ebcb1ac322e1a0439481b3b8d56f3ee6599e"
+    },
+    "south-left-martyr.jpg": {
+      "byteLength": 4278,
+      "sha256": "b4dc0ad8241b16131707b42900fef14ee1ed2ba16af8c79ba7528763971cc48f"
+    },
+    "north-side-soffit-overlapping-rings.png": {
+      "byteLength": 127905,
+      "sha256": "db9a1c027a8209161eb8b7c905f383123a3df2517eea7fcf9933dbb45192c1b9"
+    },
+    "south-side-soffit-gold-strip-rectified.png": {
+      "byteLength": 948,
+      "sha256": "c7ff357dd4b1c42664ad46f6bca6b034ffcfc50ff2b7d694137ec640eba28f64"
+    },
+    "west-simeon.jpg": {
+      "byteLength": 552119,
+      "sha256": "9b7d44081bb0d7bc4b1662b86b96edd50bbfe0012f01471e7c2713621c2db385"
+    },
+    "south-left-capital-front-rectified.png": {
+      "byteLength": 3156,
+      "sha256": "a326037cabf9ee2bfe028f7ebdc9dbed8616d4e4ac6189b219f5d5cc5f3bac29"
+    },
+    "north-center-soffit-crown-rectified.png": {
+      "byteLength": 295,
+      "sha256": "9eb3faca204ec38f27a79f9bd85151cc5595d03cb9c554236addb1dd59e71f7a"
+    },
+    "south-right-capital-front-rectified.png": {
+      "byteLength": 3390,
+      "sha256": "f9bc5e0f98a9661577e39e5802dec46eeffe874f7934bcd757355ff6780ebe7d"
+    },
+    "west-right-capital-chirho-front.jpg": {
+      "byteLength": 138178,
+      "sha256": "ef441b5acf870ec4b4c06b1a3aa85be169757b96e86758428240907549c028fa"
+    },
+    "north-left-capital-front-rectified.png": {
+      "byteLength": 3921,
+      "sha256": "060f3964704a364b275f4d27392f73cea2cd9afe7ed658fe582e5a748dcd0241"
+    },
+    "west-left-capital-eagle-front.jpg": {
+      "byteLength": 138701,
+      "sha256": "336afcd67143385f7445150ad7cbd9286c6b79564dc73553b1c2ec14bae575b6"
+    },
+    "west-portals.jpg": {
+      "byteLength": 1595545,
+      "sha256": "058505b5a26076fb90c03e1807410a3c23ff5aa94a607f78e4c4ab22b1062134"
+    },
+    "west-left-door.jpg": {
+      "byteLength": 81622,
+      "sha256": "73848354b68d965e79ab6f637b9fe835d54cb5e3dc7ca2abf8c1ee0dd187076b"
+    },
+    "north-central-soffit-blue-strip.png": {
+      "byteLength": 1894,
+      "sha256": "921f547881367c1914ee13f6dc97d0bb608320c7ac6285c716395fe25487005d"
+    },
+    "south-john-baptist.jpg": {
+      "byteLength": 4833,
+      "sha256": "ec71c49c6e0f9ea8669a8e7821166106a9cb57ba60daac28905a3314b5eb6aa7"
+    },
+    "north-stefan.jpg": {
+      "byteLength": 979992,
+      "sha256": "54625fe42e69bc0494f35cfa0b4e33805397be3b707c1f2019d29bc1fd02ddc8"
+    },
+    "south-left-door-complete-rectified.png": {
+      "byteLength": 30338,
+      "sha256": "43fcc246a06f3f82968ae2473fb13a21043bc8b11f7962cca21514188641a9c7"
+    },
+    "south-center-soffit-crown-rectified.png": {
+      "byteLength": 528,
+      "sha256": "7a94b259b902920b580efa31acd80e1b012fb806be3ffeac334341e24a921882"
+    },
+    "rose-window-field.jpg": {
+      "byteLength": 12550,
+      "sha256": "04f9b989bed199679b778bc00224472a6c579536cf712aec1320af863e4910fe"
+    },
+    "north-right-capital-front-rectified.png": {
+      "byteLength": 16637,
+      "sha256": "4a4e36ed6b9baa7aa83218a15174d54227cbfd100262f4909e2a4f8c2772e1da"
+    },
+    "north-left-door-rectified.png": {
+      "byteLength": 1899574,
+      "sha256": "da936c7033fedff479b15a80ded47d59c194655319066fd81c0e0d510b5c2103"
+    },
+    "north-center-door-rectified.png": {
+      "byteLength": 1457445,
+      "sha256": "5bae84208ba489c665e17afdad52f2e0375b37a76ed418c32c4a5f611dcebd8a"
+    },
+    "west-sava.jpg": {
+      "byteLength": 511427,
+      "sha256": "b42c98d2256fbc8e6c4a0925fb57f6f46507260ba222ce366cbf44294a71060c"
+    },
+    "south-center-door-closed-rectified.png": {
+      "byteLength": 56684,
+      "sha256": "7744589fbc1e04d656473e47ace23fca807760b75c3c304ab7f3048ff46ff849"
+    },
+    "north-lazar.jpg": {
+      "byteLength": 1029195,
+      "sha256": "9c7dbfa256f4401758833f76bd6e743302eb861c7e6f62a2acf2d431a3071c45"
+    },
+    "north-orans.jpg": {
+      "byteLength": 4710,
+      "sha256": "25821a97a7f515574d7452df93aebb5b6b01e2e6c4595e1c61294f5525386605"
+    },
+    "south-right-martyr.jpg": {
+      "byteLength": 4307,
+      "sha256": "0bf8c4c32715e5c361ba86755d018233aaf20172f395d44244231b1d5f3b81df"
+    },
+    "north-right-door-rectified.png": {
+      "byteLength": 1830760,
+      "sha256": "ea436c40ec59e07e76831f827ff671349967260a29bb35223a6f6f447e2db41d"
+    },
+    "west-right-door.jpg": {
+      "byteLength": 74765,
+      "sha256": "974aa64c461975d3ac3e575d3fd35cf7546041c22188a383b2cb8124e8e41e18"
+    },
+    "south-central-soffit-interlace-strip.png": {
+      "byteLength": 33120,
+      "sha256": "1acb3076b63c6a0ad5e29a2684ad5f4006cbc37f248051655e7809421c9d646b"
+    },
+    "west-christ.jpg": {
+      "byteLength": 605747,
+      "sha256": "981791146ab9aee365b82b1e47694b79b9b1fd5f0d5fd039f29d0783213d7688"
+    },
+    "south-side-soffit-crown-rectified.png": {
+      "byteLength": 496,
+      "sha256": "0c8eaa841b8eda4f046bb70e083810382ed3c9f498e78538ea2211296cac99da"
+    },
+    "west-central-door-complete.jpg": {
+      "byteLength": 798597,
+      "sha256": "e3037b3b6425ed4d57437169f4ce8d86c59e8f6eea5865799b751a07e405dc18"
+    }
+  }
+}

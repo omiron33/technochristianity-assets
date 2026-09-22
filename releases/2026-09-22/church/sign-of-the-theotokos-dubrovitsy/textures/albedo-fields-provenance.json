@@ -1,0 +1,358 @@
+{
+  "church": "Church of the Sign of the Theotokos (Znamenie), Dubrovitsy",
+  "note": "Photographic albedo fields cropped from credited photographs. No synthesis.",
+  "textures": [
+    {
+      "id": "lobe-facade",
+      "file": "lobe-facade.jpg",
+      "localPath": "textures/lobe-facade.jpg",
+      "width": 1536,
+      "height": 2048,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Wall-only crop of the central tetraconch lobe (rustication and door). Tower, sky, and neighbouring lobes masked out of the box. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.41,
+          0.5,
+          0.59,
+          0.78
+        ]
+      }
+    },
+    {
+      "id": "tower-bay",
+      "file": "tower-bay.jpg",
+      "localPath": "textures/tower-bay.jpg",
+      "width": 1024,
+      "height": 1280,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Rectangular crop of an octagon tower bay with windows. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.448,
+          0.191,
+          0.552,
+          0.367
+        ]
+      }
+    },
+    {
+      "id": "rustication",
+      "file": "rustication.jpg",
+      "localPath": "textures/rustication.jpg",
+      "width": 1536,
+      "height": 1024,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Horizontal rustication and mid-lobe sculpture band. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.406,
+          0.474,
+          0.594,
+          0.688
+        ]
+      }
+    },
+    {
+      "id": "door-wood",
+      "file": "door-wood.jpg",
+      "localPath": "textures/door-wood.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "West/south door and flanking statues. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.427,
+          0.535,
+          0.573,
+          0.765
+        ]
+      }
+    },
+    {
+      "id": "lobe-oblique",
+      "file": "lobe-oblique.jpg",
+      "localPath": "textures/lobe-oblique.jpg",
+      "width": 1536,
+      "height": 2048,
+      "sourceId": "west-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2801%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dubrovitsy_church_of_Sign_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Oblique crop of a rusticated lobe with columns and attic. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.36,
+          0.54,
+          0.638,
+          0.81
+        ]
+      }
+    },
+    {
+      "id": "tower-oblique",
+      "file": "tower-oblique.jpg",
+      "localPath": "textures/tower-oblique.jpg",
+      "width": 1280,
+      "height": 1536,
+      "sourceId": "west-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2801%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dubrovitsy_church_of_Sign_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Oblique crop of the octagon tower tiers. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.401,
+          0.27,
+          0.597,
+          0.463
+        ]
+      }
+    },
+    {
+      "id": "crown-cartouche",
+      "file": "crown-cartouche.jpg",
+      "localPath": "textures/crown-cartouche.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "crown-close",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_crown.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dubrovitsy_church_crown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Oculus with rococo gold cartouche and cross-mullion glazing. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.365,
+          0.431,
+          0.635,
+          0.764
+        ]
+      }
+    },
+    {
+      "id": "crown-openwork",
+      "file": "crown-openwork.jpg",
+      "localPath": "textures/crown-openwork.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "crown-close",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_crown.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dubrovitsy_church_crown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Gold openwork band of the crown (ribs, filigree, oculi). Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.333,
+          0.333,
+          0.667,
+          0.681
+        ]
+      }
+    },
+    {
+      "id": "crown-cornice",
+      "file": "crown-cornice.jpg",
+      "localPath": "textures/crown-cornice.jpg",
+      "width": 2048,
+      "height": 768,
+      "sourceId": "crown-close",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_crown.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dubrovitsy_church_crown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Carved stone cornice immediately under the crown. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.26,
+          0.681,
+          0.74,
+          0.972
+        ]
+      }
+    },
+    {
+      "id": "interior-crucifixion",
+      "file": "interior-crucifixion.jpg",
+      "localPath": "textures/interior-crucifixion.jpg",
+      "width": 1536,
+      "height": 1536,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "East-wall Crucifixion high-relief on pale-blue plaster. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.163,
+          0.415,
+          0.716,
+          0.83
+        ]
+      }
+    },
+    {
+      "id": "interior-octagon",
+      "file": "interior-octagon.jpg",
+      "localPath": "textures/interior-octagon.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Looking up into the octagon: blue plaster, white stucco, windows. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.13,
+          0.024,
+          0.846,
+          0.439
+        ]
+      }
+    },
+    {
+      "id": "interior-relief",
+      "file": "interior-relief.jpg",
+      "localPath": "textures/interior-relief.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Side-wall white high-relief on pale-blue plaster. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.0,
+          0.342,
+          0.26,
+          0.781
+        ]
+      }
+    },
+    {
+      "id": "interior-iconostasis",
+      "file": "interior-iconostasis.jpg",
+      "localPath": "textures/interior-iconostasis.jpg",
+      "width": 1536,
+      "height": 768,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "\u0414\u043e\u0434\u043e\u043d\u043e\u0432 \u0412\u044f\u0447\u0435\u0441\u043b\u0430\u0432 \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0438\u0447",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Gilded iconostasis crest and oval openings. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.13,
+          0.757,
+          0.846,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "statue-apostle",
+      "file": "statue-apostle.jpg",
+      "localPath": "textures/statue-apostle.jpg",
+      "width": 1024,
+      "height": 2048,
+      "sourceId": "facade-detail",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2805%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dubrovitsy_church_of_Sign_%2805%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Standing apostle statue (drapery, pedestal). Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.34,
+          0.16,
+          0.66,
+          0.7
+        ]
+      }
+    },
+    {
+      "id": "statue-evangelist",
+      "file": "statue-evangelist.jpg",
+      "localPath": "textures/statue-evangelist.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sourceId": "tower-tiers",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2810%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dubrovitsy_church_of_Sign_%2810%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Seated/standing sculpted figure against the rusticated wall. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.28,
+          0.2,
+          0.68,
+          0.62
+        ]
+      }
+    },
+    {
+      "id": "aerial-roofs",
+      "file": "aerial-roofs.jpg",
+      "localPath": "textures/aerial-roofs.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "aerial-overview",
+      "sourceUrl": "https://www.dubrovitsy-hram.ru/",
+      "originalUrl": "https://www.dubrovitsy-hram.ru/",
+      "author": "Reconstruction reference photograph",
+      "license": "All rights reserved \u2014 reconstruction reference",
+      "licenseUrl": "https://www.dubrovitsy-hram.ru/",
+      "modifications": "Aerial crop of dark petal roofs, Baroque gables, and white attic sculpture. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.11,
+          0.25,
+          0.89,
+          0.72
+        ]
+      }
+    }
+  ]
+}

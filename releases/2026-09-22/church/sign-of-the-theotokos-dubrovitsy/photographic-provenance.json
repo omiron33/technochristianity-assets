@@ -1,0 +1,1996 @@
+{
+  "church": "Church of the Sign of the Theotokos (Znamenie), Dubrovitsy",
+  "note": "Combined source record: retained photographic crop fields, unchanged full-image UV projections, documentary photographs and the historical floor plan. Active texture placement is distinguished from architectural reference use. Exterior gamma/saturation/gain values are authored linear-RGB albedo approximations, not raster edits or reflectance measurements.",
+  "legacyCropRecord": "textures/albedo-fields-provenance.json",
+  "textures": [
+    {
+      "id": "lobe-facade",
+      "file": "lobe-facade.jpg",
+      "localPath": "textures/lobe-facade.jpg",
+      "width": 1536,
+      "height": 2048,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Wall-only crop of the central tetraconch lobe (rustication and door). Tower, sky, and neighbouring lobes masked out of the box. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.41,
+          0.5,
+          0.59,
+          0.78
+        ]
+      },
+      "calibration": {
+        "photographicGamma": 0.76,
+        "photographicSaturation": 0.38,
+        "photographicGain": 1.15,
+        "roughness": 0.9,
+        "workingColorSpace": "linear RGB after sRGB decoding",
+        "operationOrder": "RGB gamma, then HSV saturation and value gain before surface lighting",
+        "rasterBytesChanged": false,
+        "interpretation": "Artistic albedo approximation to reduce captured color cast and exposure differences; not measured reflectance.",
+        "authoredMaterial": "Photographic lobe façade",
+        "scope": "Applied to the retained legacy derivative JPEG. Earlier crop/resize/compression remains documented above; this material calibration creates no new raster."
+      },
+      "retainedRaster": {
+        "byteLength": 583871,
+        "sourceFile": "textures/lobe-facade.jpg",
+        "sourceSha256": "572f3d32a398f4ba023244c2f275602d7481cdc5cfd2e395eabf7cbd65e1b63d"
+      }
+    },
+    {
+      "id": "tower-bay",
+      "file": "tower-bay.jpg",
+      "localPath": "textures/tower-bay.jpg",
+      "width": 1024,
+      "height": 1280,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Rectangular crop of an octagon tower bay with windows. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.448,
+          0.191,
+          0.552,
+          0.367
+        ]
+      }
+    },
+    {
+      "id": "rustication",
+      "file": "rustication.jpg",
+      "localPath": "textures/rustication.jpg",
+      "width": 1536,
+      "height": 1024,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Horizontal rustication and mid-lobe sculpture band. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.406,
+          0.474,
+          0.594,
+          0.688
+        ]
+      },
+      "calibration": {
+        "photographicGamma": 0.76,
+        "photographicSaturation": 0.38,
+        "photographicGain": 1.15,
+        "roughness": 0.9,
+        "workingColorSpace": "linear RGB after sRGB decoding",
+        "operationOrder": "RGB gamma, then HSV saturation and value gain before surface lighting",
+        "rasterBytesChanged": false,
+        "interpretation": "Artistic albedo approximation to reduce captured color cast and exposure differences; not measured reflectance.",
+        "authoredMaterial": "Photographic rustication",
+        "scope": "Applied to the retained legacy derivative JPEG. Earlier crop/resize/compression remains documented above; this material calibration creates no new raster."
+      },
+      "retainedRaster": {
+        "byteLength": 328818,
+        "sourceFile": "textures/rustication.jpg",
+        "sourceSha256": "bb2369209ef6d742e1369b02b0910981ada7ce93dcc7fbaa7fae33231e840fae"
+      }
+    },
+    {
+      "id": "door-wood",
+      "file": "door-wood.jpg",
+      "localPath": "textures/door-wood.jpg",
+      "width": 1024,
+      "height": 1024,
+      "sourceId": "south-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "West/south door and flanking statues. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.427,
+          0.535,
+          0.573,
+          0.765
+        ]
+      }
+    },
+    {
+      "id": "lobe-oblique",
+      "file": "lobe-oblique.jpg",
+      "localPath": "textures/lobe-oblique.jpg",
+      "width": 1536,
+      "height": 2048,
+      "sourceId": "west-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2801%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dubrovitsy_church_of_Sign_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Oblique crop of a rusticated lobe with columns and attic. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.36,
+          0.54,
+          0.638,
+          0.81
+        ]
+      }
+    },
+    {
+      "id": "tower-oblique",
+      "file": "tower-oblique.jpg",
+      "localPath": "textures/tower-oblique.jpg",
+      "width": 1280,
+      "height": 1536,
+      "sourceId": "west-elevation",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2801%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Dubrovitsy_church_of_Sign_%2801%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Oblique crop of the octagon tower tiers. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.401,
+          0.27,
+          0.597,
+          0.463
+        ]
+      }
+    },
+    {
+      "id": "crown-cartouche",
+      "file": "crown-cartouche.jpg",
+      "localPath": "textures/crown-cartouche.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "crown-close",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_crown.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dubrovitsy_church_crown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Oculus with rococo gold cartouche and cross-mullion glazing. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.365,
+          0.431,
+          0.635,
+          0.764
+        ]
+      }
+    },
+    {
+      "id": "crown-openwork",
+      "file": "crown-openwork.jpg",
+      "localPath": "textures/crown-openwork.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "crown-close",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_crown.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dubrovitsy_church_crown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Gold openwork band of the crown (ribs, filigree, oculi). Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.333,
+          0.333,
+          0.667,
+          0.681
+        ]
+      }
+    },
+    {
+      "id": "crown-cornice",
+      "file": "crown-cornice.jpg",
+      "localPath": "textures/crown-cornice.jpg",
+      "width": 2048,
+      "height": 768,
+      "sourceId": "crown-close",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_crown.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Dubrovitsy_church_crown.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Carved stone cornice immediately under the crown. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.26,
+          0.681,
+          0.74,
+          0.972
+        ]
+      }
+    },
+    {
+      "id": "interior-crucifixion",
+      "file": "interior-crucifixion.jpg",
+      "localPath": "textures/interior-crucifixion.jpg",
+      "width": 1536,
+      "height": 1536,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "East-wall Crucifixion high-relief on pale-blue plaster. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.163,
+          0.415,
+          0.716,
+          0.83
+        ]
+      }
+    },
+    {
+      "id": "interior-octagon",
+      "file": "interior-octagon.jpg",
+      "localPath": "textures/interior-octagon.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Looking up into the octagon: blue plaster, white stucco, windows. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.13,
+          0.024,
+          0.846,
+          0.439
+        ]
+      }
+    },
+    {
+      "id": "interior-relief",
+      "file": "interior-relief.jpg",
+      "localPath": "textures/interior-relief.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Side-wall white high-relief on pale-blue plaster. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.0,
+          0.342,
+          0.26,
+          0.781
+        ]
+      }
+    },
+    {
+      "id": "interior-iconostasis",
+      "file": "interior-iconostasis.jpg",
+      "localPath": "textures/interior-iconostasis.jpg",
+      "width": 1536,
+      "height": 768,
+      "sourceId": "interior-nave",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_interior.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovitsy_church_interior.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Додонов Вячеслав Николаевич",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Gilded iconostasis crest and oval openings. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.13,
+          0.757,
+          0.846,
+          1.0
+        ]
+      }
+    },
+    {
+      "id": "statue-apostle",
+      "file": "statue-apostle.jpg",
+      "localPath": "textures/statue-apostle.jpg",
+      "width": 1024,
+      "height": 2048,
+      "sourceId": "facade-detail",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2805%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dubrovitsy_church_of_Sign_%2805%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Standing apostle statue (drapery, pedestal). Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.34,
+          0.16,
+          0.66,
+          0.7
+        ]
+      },
+      "calibration": {
+        "photographicGamma": 0.76,
+        "photographicSaturation": 0.38,
+        "photographicGain": 1.15,
+        "roughness": 0.9,
+        "workingColorSpace": "linear RGB after sRGB decoding",
+        "operationOrder": "RGB gamma, then HSV saturation and value gain before surface lighting",
+        "rasterBytesChanged": false,
+        "interpretation": "Artistic albedo approximation to reduce captured color cast and exposure differences; not measured reflectance.",
+        "authoredMaterial": "Photographic apostle statue",
+        "scope": "Applied to the retained legacy derivative JPEG. Earlier crop/resize/compression remains documented above; this material calibration creates no new raster."
+      },
+      "retainedRaster": {
+        "byteLength": 416887,
+        "sourceFile": "textures/statue-apostle.jpg",
+        "sourceSha256": "a406141424fffb6d80681e140712d2291bd81dd06520eb1f847efe8ee264cce6"
+      }
+    },
+    {
+      "id": "statue-evangelist",
+      "file": "statue-evangelist.jpg",
+      "localPath": "textures/statue-evangelist.jpg",
+      "width": 1024,
+      "height": 1536,
+      "sourceId": "tower-tiers",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2810%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Dubrovitsy_church_of_Sign_%2810%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "Seated/standing sculpted figure against the rusticated wall. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.28,
+          0.2,
+          0.68,
+          0.62
+        ]
+      },
+      "calibration": {
+        "photographicGamma": 0.76,
+        "photographicSaturation": 0.38,
+        "photographicGain": 1.15,
+        "roughness": 0.9,
+        "workingColorSpace": "linear RGB after sRGB decoding",
+        "operationOrder": "RGB gamma, then HSV saturation and value gain before surface lighting",
+        "rasterBytesChanged": false,
+        "interpretation": "Artistic albedo approximation to reduce captured color cast and exposure differences; not measured reflectance.",
+        "authoredMaterial": "Photographic evangelist statue",
+        "scope": "Applied to the retained legacy derivative JPEG. Earlier crop/resize/compression remains documented above; this material calibration creates no new raster."
+      },
+      "retainedRaster": {
+        "byteLength": 323318,
+        "sourceFile": "textures/statue-evangelist.jpg",
+        "sourceSha256": "369a194070c579c5122ed0d4872a077290527c8d753e53e39252ac016e637257"
+      }
+    },
+    {
+      "id": "aerial-roofs",
+      "file": "aerial-roofs.jpg",
+      "localPath": "textures/aerial-roofs.jpg",
+      "width": 1536,
+      "height": 1280,
+      "sourceId": "aerial-overview",
+      "sourceUrl": "https://www.dubrovitsy-hram.ru/",
+      "originalUrl": "https://www.dubrovitsy-hram.ru/",
+      "author": "Reconstruction reference photograph",
+      "license": "All rights reserved — reconstruction reference",
+      "licenseUrl": "https://www.dubrovitsy-hram.ru/",
+      "modifications": "Aerial crop of dark petal roofs, Baroque gables, and white attic sculpture. Rectangular crop, resize and JPEG compression for a 3D texture.",
+      "sampling": {
+        "normalizedBox": [
+          0.11,
+          0.25,
+          0.89,
+          0.72
+        ]
+      }
+    },
+    {
+      "id": "interior-detail-2015",
+      "title": "Iconostasis, chandelier, and octagonal tower",
+      "url": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D1%8B%29_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D1%8B%29_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_1.jpg",
+      "author": "Барабанщиков",
+      "date": "27 August 2015",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file": "interior-detail-2015.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-detail-2015.jpg",
+      "auxiliary": false,
+      "role": "photo-projection-source",
+      "angle": "Gilded iconostasis and chandelier beneath the sculpted octagon · 27 August 2015",
+      "sourceFile": "references/interior-detail.jpg",
+      "sourceSha256": "75d3c99e7a9ef3444ad0f2f65a1a4424ffe8015af1b474e6895ced8dfdba7cd5",
+      "sourceByteLength": 1429786,
+      "modifications": "No raster alteration. Full source image retained. Model meshes select and rectify image regions with UV coordinates, with model lighting and material response applied at render time. Resulting adaptations retain CC BY-SA 4.0 attribution.",
+      "localPath": "photos/interior-detail-2015.jpg",
+      "use": "Eastern iconostasis upper registers, gilded frame details, and interior relief reference.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "projective UV selection from full source image",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "Photographically estimated; encoded in the Blender builder and interior module."
+      }
+    },
+    {
+      "id": "interior-iconostasis-2015",
+      "title": "The iconostasis and holy doors",
+      "url": "https://commons.wikimedia.org/wiki/File:%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D1%8B%29_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%28%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D1%8B%29_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_2.jpg",
+      "author": "Барабанщиков",
+      "date": "25 August 2015",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file": "interior-iconostasis-2015.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-iconostasis-2015.jpg",
+      "auxiliary": false,
+      "role": "photo-projection-source",
+      "angle": "Gilded holy doors, lower iconostasis registers, candle stands, and stone floor · 25 August 2015",
+      "sourceFile": "references/interior-iconostasis-2015.jpg",
+      "sourceSha256": "2a6589fbf805c7ae4689af0e7ec8a805a31d3dd8d8ea50308bc5376c66856ea0",
+      "sourceByteLength": 1176743,
+      "modifications": "No raster alteration. Full source image retained. Model meshes select and rectify image regions with UV coordinates, with model lighting and material response applied at render time. Resulting adaptations retain CC BY-SA 4.0 attribution.",
+      "localPath": "photos/interior-iconostasis-2015.jpg",
+      "use": "Eastern iconostasis lower registers, holy doors, and individual icon fields.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "projective UV selection from full source image",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "Photographically estimated; encoded in the Blender builder and interior module."
+      }
+    },
+    {
+      "id": "interior-entry-2018",
+      "title": "Interior reliefs viewed from the entrance",
+      "url": "https://commons.wikimedia.org/wiki/File:%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D1%8B%2C_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%2C_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_%28%D0%B2%D0%B8%D0%B4_%D0%BE%D1%82_%D0%B2%D1%85%D0%BE%D0%B4%D0%B0%29.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D1%8B%2C_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%2C_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_%28%D0%B2%D0%B8%D0%B4_%D0%BE%D1%82_%D0%B2%D1%85%D0%BE%D0%B4%D0%B0%29.jpg",
+      "author": "Bok",
+      "date": "20 September 2018",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file": "interior-entry-2018.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-entry-2018.jpg",
+      "auxiliary": false,
+      "role": "photo-projection-source",
+      "angle": "Blue-and-white sculpted interior, arched windows, and floral chandelier suspension viewed from the entrance · 20 September 2018",
+      "sourceFile": "references/interior-entry-2023.jpg",
+      "sourceSha256": "d17062761b87e6fcb3a10a313d43b6a9e766a186ebfa65c072eaccebdb0f2fae",
+      "sourceByteLength": 12189018,
+      "modifications": "No raster alteration. Full source image retained. Model meshes select and rectify image regions with UV coordinates, with model lighting and material response applied at render time. Resulting adaptations retain CC BY-SA 4.0 attribution.",
+      "filenameNote": "Legacy source filename contains 2023; the Commons page dates the photograph 20 September 2018.",
+      "localPath": "photos/interior-entry-2018.jpg",
+      "use": "Projected complete standing pier figures, arched window surrounds, two inscription fields, upper ornament and carved arch fields. The window aperture and surrounding photograph share the same traced outline.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "projective UV selection from full source image",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "scripts/church/dubrovitsy-interior.py: _di_source_aperture and _di_window_bay register the physical tower aperture to the source; _di_cartouche_bay, _di_cartouche_bay_right and _di_carved_frieze supply other repeated fields. Pier and curved arch fields are separately bounded."
+      },
+      "limitations": "The retained filename is misleading: this source is dated 2018. Selected fields repeat on equivalent modeled bays, so the reconstruction does not establish unique source coverage or a verified inscription for every placement. Projection and shallow depth are approximate."
+    },
+    {
+      "id": "interior-crucifixion-2023",
+      "title": "Crucifixion relief and upper iconostasis",
+      "url": "https://commons.wikimedia.org/wiki/File:20230618-ANG06242.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/20230618-ANG06242.jpg",
+      "author": "Goussew",
+      "date": "2023-06-18",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file": "interior-crucifixion-2023.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-crucifixion-2023.jpg",
+      "auxiliary": false,
+      "role": "photo-projection-source",
+      "angle": "Centered view toward east Crucifixion relief over the iconostasis; high-resolution 2023 image includes only the top of the gilded screen. · 2023-06-18",
+      "sourceFile": "references/interior-crucifixion-2023.jpg",
+      "sourceSha256": "875f5ec02f10a6cc57be83923e8d7c6290b82fdb28a116259b478e2da19eaacc",
+      "sourceByteLength": 13709567,
+      "modifications": "No raster alteration. Full source image retained. Model meshes select and rectify image regions with UV coordinates, with model lighting and material response applied at render time. Resulting adaptations retain CC BY-SA 4.0 attribution.",
+      "limitations": "The original photograph crops out the lower iconostasis and the chandelier obscures parts of the center. It is not a complete screen texture. Curved projection, source contours, shallow depth and repeated leaf/ribbon placements are inferred. The retained source bytes do not guarantee distortion-free or visually accepted geometry.",
+      "localPath": "photos/interior-crucifixion-2023.jpg",
+      "use": "Projected crossing lunettes, terminal vault ornament, upper icon painting fields, bounded acanthus screen ornament and the narrow running acanthus ribbon on the modeled tier cornices. Also a reference for the east Crucifixion arrangement; the large east Crucifixion texture itself remains the separately credited recovered legacy selection.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "projective UV selection from full source image",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "scripts/church/dubrovitsy-interior.py: bounded crossing lunettes, terminal vault projection and _di_tier_cornice; scripts/church/dubrovitsy-iconostasis.py: upper paintings and bounded leaf ornament. Dimensions and repeat placement remain photographic estimates.",
+        "regions": [
+          {
+            "label": "Running acanthus ribbon below the Resurrection, right of the suspension chain",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "measurementPreviewDimensions": [
+              1920,
+              1280
+            ],
+            "measurementPreviewPixelQuadTopLeft": [
+              [
+                944,
+                620
+              ],
+              [
+                1052,
+                618
+              ],
+              [
+                1050,
+                633
+              ],
+              [
+                944,
+                635
+              ]
+            ],
+            "normalizedImageQuadTopLeft": [
+              [
+                0.49166666666666664,
+                0.484375
+              ],
+              [
+                0.5479166666666667,
+                0.4828125
+              ],
+              [
+                0.546875,
+                0.49453125
+              ],
+              [
+                0.49166666666666664,
+                0.49609375
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                2423.4249999999997,
+                1591.65625
+              ],
+              [
+                2700.68125,
+                1586.521875
+              ],
+              [
+                2695.546875,
+                1625.0296875
+              ],
+              [
+                2423.4249999999997,
+                1630.1640625
+              ]
+            ],
+            "geometryPlacement": "scripts/church/dubrovitsy-interior.py: _di_cornice_ribbon and _di_tier_cornice. Two complete repeats per octagonal facet on the two wider tier returns; photographic strip over a modeled ogee section. Physical scale and profile depth are inferred."
+          }
+        ]
+      }
+    },
+    {
+      "id": "tower-upper-2024",
+      "title": "Crown and upper tower bays",
+      "url": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_Estate_Theotokos_of_the_Sign_Church_2024-01-21_8902.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Dubrovitsy_Estate_Theotokos_of_the_Sign_Church_2024-01-21_8902.jpg",
+      "author": "Mike1979 Russia",
+      "date": "21 January 2024",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "file": "tower-upper-2024.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/tower-upper-2024.jpg",
+      "auxiliary": false,
+      "role": "photo-projection-source",
+      "angle": "Close view of the gilded crown and two upper carved tower tiers ·21 January2024",
+      "sourceFile": "references/tower-upper-2024-8902.jpg",
+      "sourceSha256": "a2aed964c3d25aaf2d079de6518197e2ba67ff7d2968e1eebaedbc4aa19bb121",
+      "sourceByteLength": 9630040,
+      "width": 3907,
+      "height": 5860,
+      "modifications": "No raster alteration. Full original image bytes are retained. Projective mesh UVs select the measured bays; authored linear-RGB gamma, saturation and gain adjust their surface color. Adaptations retain CC BY-SA 3.0 attribution.",
+      "limitations": "Winter photograph: snow on horizontal cornices and sloping roofs. Right glazed bay selections provide the active vertical fields; measured central blind/painted bays remain comparison regions. Calibration approximates albedo artistically and does not recover measured reflectance or remove photographed shadows.",
+      "localPath": "photos/tower-upper-2024.jpg",
+      "use": "Unchanged full source image projected onto the two upper tower tiers through the measured right glazed bay quadrilaterals.",
+      "derivativeLicense": "CC BY-SA 3.0",
+      "sampling": {
+        "method": "projective UV selection from full source image",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "regions": [
+          {
+            "label": "top-tier central vertical bay",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "normalizedImageQuadTopLeft": [
+              [
+                0.375,
+                0.45989583333333334
+              ],
+              [
+                0.5484375,
+                0.459375
+              ],
+              [
+                0.55,
+                0.5979166666666667
+              ],
+              [
+                0.37265625,
+                0.6015625
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                1465,
+                2695
+              ],
+              [
+                2143,
+                2692
+              ],
+              [
+                2149,
+                3504
+              ],
+              [
+                1456,
+                3525
+              ]
+            ],
+            "sourceWidthPixelsApprox": 686,
+            "usedInModel": false
+          },
+          {
+            "label": "top-tier right glazed vertical bay",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "normalizedImageQuadTopLeft": [
+              [
+                0.5515625,
+                0.4635416666666667
+              ],
+              [
+                0.68984375,
+                0.4875
+              ],
+              [
+                0.6953125,
+                0.6119791666666666
+              ],
+              [
+                0.5515625,
+                0.5973958333333333
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                2155,
+                2716
+              ],
+              [
+                2695,
+                2857
+              ],
+              [
+                2717,
+                3586
+              ],
+              [
+                2155,
+                3501
+              ]
+            ],
+            "sourceWidthPixelsApprox": 563,
+            "usedInModel": true
+          },
+          {
+            "label": "middle-tier central vertical bay",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "normalizedImageQuadTopLeft": [
+              [
+                0.36796875,
+                0.634375
+              ],
+              [
+                0.55078125,
+                0.6322916666666667
+              ],
+              [
+                0.55,
+                0.7640625
+              ],
+              [
+                0.3671875,
+                0.7671875
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                1438,
+                3717
+              ],
+              [
+                2152,
+                3705
+              ],
+              [
+                2149,
+                4477
+              ],
+              [
+                1435,
+                4496
+              ]
+            ],
+            "sourceWidthPixelsApprox": 714,
+            "usedInModel": false
+          },
+          {
+            "label": "middle-tier right glazed vertical bay",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "normalizedImageQuadTopLeft": [
+              [
+                0.55703125,
+                0.6354166666666666
+              ],
+              [
+                0.69140625,
+                0.6578125
+              ],
+              [
+                0.6921875,
+                0.7802083333333333
+              ],
+              [
+                0.55703125,
+                0.7651041666666667
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                2176,
+                3724
+              ],
+              [
+                2701,
+                3855
+              ],
+              [
+                2704,
+                4572
+              ],
+              [
+                2176,
+                4484
+              ]
+            ],
+            "sourceWidthPixelsApprox": 538,
+            "usedInModel": true
+          }
+        ],
+        "geometryPlacement": "Upper and middle exterior tower faces in build-dubrovitsy-znamenie.py; physical vertical placement is authored separately from the unchanged source quadrilaterals."
+      },
+      "calibration": {
+        "photographicGamma": 0.74,
+        "photographicSaturation": 0.12,
+        "photographicGain": 1.3,
+        "roughness": 0.9,
+        "workingColorSpace": "linear RGB after sRGB decoding",
+        "operationOrder": "RGB gamma, then HSV saturation and value gain before surface lighting",
+        "rasterBytesChanged": false,
+        "interpretation": "Artistic albedo approximation to reduce captured color cast and exposure differences; not measured reflectance.",
+        "purpose": "Reduce the captured winter blue cast in the right glazed upper and middle tower bays.",
+        "authoredMaterial": "Photographic upper carved tower 2024"
+      }
+    },
+    {
+      "id": "interior-alexrubi-2017",
+      "title": "Octagon and oblique iconostasis detail",
+      "angle": "Blue-and-white octagon, chandelier, and side view of the gilded iconostasis · 22 October 2017",
+      "role": "photo-projection-source",
+      "use": "Original source for the complete oblique right feast painting and its separately traced gold frame, including ten carved leaf and scroll clusters. The original navy gaps and painting boundary guide the modeled geometry.",
+      "limitations": "Only part of the screen is visible and the right feast is strongly foreshortened. Frame contours and shallow depth are inferred rather than measured. This source does not supply a complete frontal iconostasis or improve the resolution of the separate 2015 lower-icon images.",
+      "commonsTitle": "Церковь Божией Матери «Знамение»Интерьер.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%C2%AB%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%C2%BB%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%91%D0%BE%D0%B6%D0%B8%D0%B5%D0%B9_%D0%9C%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%C2%AB%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%C2%BB%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80.jpg",
+      "author": "AlexRubi",
+      "date": "22 October 2017",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceFile": "references/interior-alexrubi-2017.jpg",
+      "sourceSha256": "f15127ac36803de29db00f29837346ef9bc2c65be46092480c52294d424868fb",
+      "sourceByteLength": 4208299,
+      "sourceDimensions": [
+        4154,
+        5906
+      ],
+      "auxiliary": false,
+      "metadataSource": "iconostasis-original-source-provenance.json",
+      "width": 4154,
+      "height": 5906,
+      "file": "interior-alexrubi-2017.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-alexrubi-2017.jpg",
+      "modifications": "Untouched original bytes and full frame retained. Projective UVs, shaped geometry, and explicitly tagged separate gold exposure and painting albedo calibration affect the reconstruction; no raster edits, recompression, or generated repainting.",
+      "localPath": "photos/interior-alexrubi-2017.jpg",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "Projective UV selection from the unchanged full photograph on a shaped painting field and separately carved gold frame",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "authoredCoordinateSource": "scripts/church/dubrovitsy-iconostasis.py::traced_native_feast",
+        "frameContourMeasurementDimensions": [
+          1312,
+          1865
+        ],
+        "innerFrameContourPixels": [
+          [
+            267.663,
+            1339.502
+          ],
+          [
+            278.405,
+            1341.013
+          ],
+          [
+            297.899,
+            1362.178
+          ],
+          [
+            320.406,
+            1384.945
+          ],
+          [
+            336.72,
+            1408.212
+          ],
+          [
+            338.045,
+            1420.188
+          ],
+          [
+            330.743,
+            1432.108
+          ],
+          [
+            323.899,
+            1438.177
+          ],
+          [
+            327.178,
+            1457.877
+          ],
+          [
+            330.565,
+            1480.519
+          ],
+          [
+            329.756,
+            1496.497
+          ],
+          [
+            324.195,
+            1505.315
+          ],
+          [
+            312.904,
+            1508.975
+          ],
+          [
+            308.971,
+            1515.64
+          ],
+          [
+            313.692,
+            1533.604
+          ],
+          [
+            317.308,
+            1552.058
+          ],
+          [
+            319.143,
+            1570.152
+          ],
+          [
+            315.244,
+            1586.998
+          ],
+          [
+            309.147,
+            1595.706
+          ],
+          [
+            303.128,
+            1597.516
+          ],
+          [
+            290.068,
+            1589.238
+          ],
+          [
+            275.415,
+            1579.873
+          ],
+          [
+            262.914,
+            1573.382
+          ],
+          [
+            245.821,
+            1559.489
+          ],
+          [
+            238.391,
+            1545.513
+          ],
+          [
+            235.225,
+            1528.466
+          ],
+          [
+            238.92,
+            1519.921
+          ],
+          [
+            245.479,
+            1516.429
+          ],
+          [
+            238.773,
+            1498.827
+          ],
+          [
+            243.212,
+            1484.994
+          ],
+          [
+            245.739,
+            1470.218
+          ],
+          [
+            249.446,
+            1457.816
+          ],
+          [
+            250.865,
+            1440.693
+          ],
+          [
+            244.399,
+            1420.998
+          ],
+          [
+            247.153,
+            1410.064
+          ],
+          [
+            256.937,
+            1410.561
+          ],
+          [
+            263.42,
+            1405.57
+          ],
+          [
+            266.271,
+            1387.253
+          ],
+          [
+            265.242,
+            1364.501
+          ]
+        ],
+        "outerFrameContourPixels": [
+          [
+            256.122,
+            1312.711
+          ],
+          [
+            276.292,
+            1312.559
+          ],
+          [
+            301.258,
+            1335.856
+          ],
+          [
+            328.506,
+            1362.484
+          ],
+          [
+            350.43,
+            1399.701
+          ],
+          [
+            350.667,
+            1431.783
+          ],
+          [
+            344.416,
+            1448.304
+          ],
+          [
+            339.531,
+            1452.864
+          ],
+          [
+            343.033,
+            1475.158
+          ],
+          [
+            344.34,
+            1493.796
+          ],
+          [
+            342.919,
+            1511.413
+          ],
+          [
+            337.859,
+            1520.797
+          ],
+          [
+            328.755,
+            1524.744
+          ],
+          [
+            327.109,
+            1533.816
+          ],
+          [
+            329.592,
+            1549.681
+          ],
+          [
+            328.664,
+            1564.573
+          ],
+          [
+            326.721,
+            1577.974
+          ],
+          [
+            322.31,
+            1596.103
+          ],
+          [
+            316.254,
+            1607.353
+          ],
+          [
+            311.701,
+            1617.922
+          ],
+          [
+            292.061,
+            1609.364
+          ],
+          [
+            275.791,
+            1597.864
+          ],
+          [
+            260.735,
+            1591.139
+          ],
+          [
+            244.205,
+            1576.005
+          ],
+          [
+            228.954,
+            1554.365
+          ],
+          [
+            226.008,
+            1523.969
+          ],
+          [
+            228.079,
+            1510.822
+          ],
+          [
+            230.932,
+            1502.782
+          ],
+          [
+            228.83,
+            1491.734
+          ],
+          [
+            232.742,
+            1474.239
+          ],
+          [
+            234.527,
+            1457.963
+          ],
+          [
+            236.653,
+            1444.98
+          ],
+          [
+            237.284,
+            1432.82
+          ],
+          [
+            237.744,
+            1415.427
+          ],
+          [
+            239.839,
+            1396.057
+          ],
+          [
+            245.285,
+            1387.202
+          ],
+          [
+            251.492,
+            1379.659
+          ],
+          [
+            251.804,
+            1370.44
+          ],
+          [
+            251.476,
+            1346.232
+          ]
+        ],
+        "leafAndStemMeasurementOriginalPixelBox": [
+          668,
+          4095,
+          1152,
+          5171
+        ],
+        "leafClusterCount": 10,
+        "maximumFrameReliefMetres": 0.082,
+        "sourceBlueApertures": "Original navy gaps remain open between carved gold; source-derived topology retains separate closed layers.",
+        "albedoCalibration": {
+          "authoredMaterial": "Icon screen photographic carved gold 2017",
+          "colorSpace": "linear RGB",
+          "photographicGamma": 1.0,
+          "photographicSaturation": 1.0,
+          "scope": "Carved gold uses a fourfold linear exposure adjustment; the separate painting uses gamma 0.70 and saturation 1.0. Original image bytes are retained.",
+          "photographicGain": 4.0
+        },
+        "limits": "Hand-inspected carving axes, leaf outlines and estimated widths/depth; closed stems are sampled across the full native crop, bounded to those axes and actual navy gaps. Only the right feast uses this construction.",
+        "stemSamplingNativeCrop": [
+          668,
+          4095,
+          1152,
+          5171
+        ],
+        "stemGrid": [
+          180,
+          400
+        ],
+        "stemDomain": "full native crop, source-axis width and navy-aperture masks",
+        "syntheticInnerBoundaryBead": false,
+        "separatedStemRecessCells": 62700,
+        "paintingAlbedoCalibration": {
+          "photographicGamma": 0.7,
+          "photographicSaturation": 1.0
+        }
+      }
+    },
+    {
+      "id": "interior-yoslash-2019",
+      "title": "Crucifixion and upper octagon in daylight",
+      "angle": "Looking up past the upper iconostasis toward the Crucifixion, sculpted octagon, and enclosed blue vault · 10 May 2019",
+      "role": "photo-projection-source",
+      "use": "Three distinct projective UV selections supply narrative relief on the three solid eastern octagon faces. Conservative whole-group outer envelopes remove surrounding architectural photo margins and taper into modeled blue masonry. The full image also documents the iconostasis crest, Crucifixion and upper vault.",
+      "limitations": "Oblique perspective, captured daylight and local source resolution constrain usable detail. The outer envelopes are conservative hand-authored approximations, not exact sculptural segmentation; some extremities or architectural context may be imperfectly retained. Interior blue spaces are kept rather than isolating white pixels. Narrative dimensions, depth and placement remain photographic estimates.",
+      "commonsTitle": "Интерьер церкви Знамения Пресвятой Богородицы в Дубровицах.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_%D0%B2_%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%B0%D1%85.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D1%8C%D0%B5%D1%80_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B_%D0%B2_%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%B0%D1%85.jpg",
+      "author": "Yoslash",
+      "date": "10 May 2019",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceFile": "references/interior-east-full-commons.jpg",
+      "sourceSha256": "b109853b270f1c182a9d0b2d2a4759ca476eab83bda16eddcef832cc66afd289",
+      "sourceByteLength": 5084602,
+      "sourceDimensions": [
+        2238,
+        3369
+      ],
+      "auxiliary": false,
+      "metadataSource": "iconostasis-original-source-provenance.json",
+      "width": 2238,
+      "height": 3369,
+      "file": "interior-yoslash-2019.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-yoslash-2019.jpg",
+      "modifications": "Untouched original bytes and full frame retained. Three unchanged projective UV quadrilaterals are bounded by conservative outer geometry envelopes; their relief tapers into blue masonry. Material gamma/saturation and lighting affect the modeled appearance. No cropped raster, recompression or generated repainting is made for these fields.",
+      "localPath": "photos/interior-yoslash-2019.jpg",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "unchanged projective UV selection from full image, bounded by conservative whole-group geometry envelopes",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "authoredMaterial": "Interior eastern blind narrative relief",
+        "authoredCoordinateSource": "scripts/church/dubrovitsy-interior.py::_di_east_narratives",
+        "regions": [
+          {
+            "label": "Eastern blind narrative relief, tier 1",
+            "authoredIndex": 0,
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "measurementPreviewDimensions": [
+              1279,
+              1927
+            ],
+            "measurementPreviewPixelQuadTopLeft": [
+              [
+                287,
+                541
+              ],
+              [
+                513,
+                592
+              ],
+              [
+                587,
+                828
+              ],
+              [
+                325,
+                767
+              ]
+            ],
+            "normalizedImageQuadTopLeft": [
+              [
+                0.22439405785770133,
+                0.28074727555786194
+              ],
+              [
+                0.40109460516028145,
+                0.30721328489880645
+              ],
+              [
+                0.4589523064894449,
+                0.4296834457706279
+              ],
+              [
+                0.2541047693510555,
+                0.3980280228334198
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                502.1939014855356,
+                945.8375713544369
+              ],
+              [
+                897.6497263487099,
+                1035.001556824079
+              ],
+              [
+                1027.1352619233778,
+                1447.6035288012454
+              ],
+              [
+                568.6864738076623,
+                1340.9564089257913
+              ]
+            ],
+            "geometryPlacement": "scripts/church/dubrovitsy-interior.py: eastern face i=5, tier ti=0; _di_east_narratives[0] retains this source mapping, while _di_narrative_envelopes[0] bounds the complete group inside it. Coordinates in that envelope use the rectified unit field, u right and v up. The shallow front tapers into solid blue masonry; it is not a window. Contour, depth and physical dimensions are estimates."
+          },
+          {
+            "label": "Eastern blind narrative relief, tier 2",
+            "authoredIndex": 1,
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "measurementPreviewDimensions": [
+              1279,
+              1927
+            ],
+            "measurementPreviewPixelQuadTopLeft": [
+              [
+                289,
+                422
+              ],
+              [
+                490,
+                468
+              ],
+              [
+                534,
+                577
+              ],
+              [
+                325,
+                526
+              ]
+            ],
+            "normalizedImageQuadTopLeft": [
+              [
+                0.2259577795152463,
+                0.21899325376232487
+              ],
+              [
+                0.3831118060985145,
+                0.2428645563051375
+              ],
+              [
+                0.4175136825645035,
+                0.299429164504411
+              ],
+              [
+                0.2541047693510555,
+                0.27296315516346653
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                505.6935105551212,
+                737.7882719252725
+              ],
+              [
+                857.4042220484754,
+                818.2106901920083
+              ],
+              [
+                934.3956215793588,
+                1008.7768552153606
+              ],
+              [
+                568.6864738076623,
+                919.6128697457187
+              ]
+            ],
+            "geometryPlacement": "scripts/church/dubrovitsy-interior.py: eastern face i=5, tier ti=1; _di_east_narratives[1] retains this source mapping, while _di_narrative_envelopes[1] bounds the complete group inside it. Coordinates in that envelope use the rectified unit field, u right and v up. The shallow front tapers into solid blue masonry; it is not a window. Contour, depth and physical dimensions are estimates."
+          },
+          {
+            "label": "Eastern blind narrative relief, tier 3",
+            "authoredIndex": 2,
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "measurementPreviewDimensions": [
+              1279,
+              1927
+            ],
+            "measurementPreviewPixelQuadTopLeft": [
+              [
+                299,
+                274
+              ],
+              [
+                484,
+                307
+              ],
+              [
+                524,
+                448
+              ],
+              [
+                328,
+                394
+              ]
+            ],
+            "normalizedImageQuadTopLeft": [
+              [
+                0.23377638780297108,
+                0.14218993253762324
+              ],
+              [
+                0.3784206411258796,
+                0.1593149974052932
+              ],
+              [
+                0.40969507427677876,
+                0.23248572911261028
+              ],
+              [
+                0.25645035183737297,
+                0.20446289569278672
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                523.1915559030493,
+                479.0378827192527
+              ],
+              [
+                846.9053948397185,
+                536.7322262584328
+              ],
+              [
+                916.8975762314309,
+                783.2444213803841
+              ],
+              [
+                573.9358874120408,
+                688.8354955889985
+              ]
+            ],
+            "geometryPlacement": "scripts/church/dubrovitsy-interior.py: eastern face i=5, tier ti=2; _di_east_narratives[2] retains this source mapping, while _di_narrative_envelopes[2] bounds the complete group inside it. Coordinates in that envelope use the rectified unit field, u right and v up. The shallow front tapers into solid blue masonry; it is not a window. Contour, depth and physical dimensions are estimates."
+          }
+        ],
+        "albedoCalibration": {
+          "colorSpace": "linear RGB",
+          "photographicGamma": 0.7,
+          "photographicSaturation": 0.74,
+          "method": "Gamma then HSV saturation in material shading; original image bytes remain unchanged."
+        }
+      }
+    },
+    {
+      "id": "south-elevation-full-image",
+      "title": "Full Sign02 source for the lowest exterior tower tier",
+      "url": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_%2802%29.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Dubrovitsy_church_of_Sign_%2802%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "author": "Okorok",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "file": "Dubrovitsy_church_of_Sign_02.jpg",
+      "auxiliary": false,
+      "role": "photo-projection-source",
+      "sourceFile": "references/Dubrovitsy_church_of_Sign_02.jpg",
+      "sourceSha256": "bbf4bcea427cf7dc35ba708da592897138c2d5d296c81548d68bb551514e653d",
+      "sourceByteLength": 533816,
+      "width": 1920,
+      "height": 1307,
+      "use": "Full retained source image sampled by Photographic rectified tower elevations on the lowest octagonal tier.",
+      "modifications": "No alteration to the retained full source image. Mesh UVs select and orient a narrow vertical bay. Gamma, saturation and gain are authored material operators only.",
+      "calibration": {
+        "photographicGamma": 0.76,
+        "photographicSaturation": 0.38,
+        "photographicGain": 1.15,
+        "roughness": 0.9,
+        "workingColorSpace": "linear RGB after sRGB decoding",
+        "operationOrder": "RGB gamma, then HSV saturation and value gain before surface lighting",
+        "rasterBytesChanged": false,
+        "interpretation": "Artistic albedo approximation to reduce captured color cast and exposure differences; not measured reflectance.",
+        "authoredMaterial": "Photographic rectified tower elevations"
+      },
+      "sourceId": "south-elevation",
+      "limitations": "The selected lower-tier bay spans approximately 90×140 original pixels. Source lighting and weathering remain in the photograph; dimensions and surface calibration are interpretive, not a measured survey or measured reflectance.",
+      "sampling": {
+        "method": "UV selection from unchanged full retained image",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "regions": [
+          {
+            "label": "lowest-tier vertical bay",
+            "cornerOrder": "model top-left, top-right, bottom-right, bottom-left",
+            "normalizedImageQuadTopLeft": [
+              [
+                0.527,
+                0.435
+              ],
+              [
+                0.48,
+                0.435
+              ],
+              [
+                0.48,
+                0.542
+              ],
+              [
+                0.527,
+                0.542
+              ]
+            ],
+            "sourceWidthPixelsApprox": 90,
+            "sourceHeightPixelsApprox": 140,
+            "usedInModel": true
+          }
+        ]
+      },
+      "modelMaterial": "Photographic rectified tower elevations"
+    }
+  ],
+  "historicalReferences": [
+    {
+      "id": "interior-choir-1905-1908",
+      "title": "Historic western choir galleries",
+      "url": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_Interior.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dubrovitsy_church_of_Sign_Interior.jpg",
+      "author": "Петр Петрович Павлов (1860–1924)",
+      "date": "1905–1908",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_Interior.jpg",
+      "file": "interior-choir-1905-1908.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-choir-1905-1908.jpg",
+      "auxiliary": false,
+      "role": "historical-architecture-reference",
+      "angle": "Historic photograph of the carved wooden western choir galleries · 1905–1908",
+      "sourceFile": "references/interior-choir-historic.jpg",
+      "sourceSha256": "556a770795ba592012a18c86209b273d6f416e2b1fd5224d9811d42bb2316d26",
+      "sourceByteLength": 1032608,
+      "modifications": "Original monochrome photograph and full frame retained unchanged. A projective source selection, hand-inspected outer trophy contour and sampled luminance generate closed shallow relief fragments and open negative spaces. Photographic pixels are not applied as a color texture; physical material colors are assigned to the geometry.",
+      "localPath": "photos/interior-choir-1905-1908.jpg",
+      "use": "Historical gallery construction reference and original-image luminance source for the bounded central underside trophy relief. Modern blue timber, pale rectangular pickets, dark rails and concentrated gilding are inferred from the parish-linked March 2021 panorama.",
+      "derivativeLicense": "Public domain",
+      "sampling": {
+        "method": "projective original-image sampling for bounded shallow relief geometry; no photographic color texture",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "scripts/church/dubrovitsy-west-gallery.py: central underside trophy; inferred physical placement within the existing choir envelope.",
+        "regions": [
+          {
+            "label": "Central underside trophy",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "measurementPreviewDimensions": [
+              993,
+              1300
+            ],
+            "measurementPreviewPixelQuadTopLeft": [
+              [
+                245,
+                430
+              ],
+              [
+                590,
+                432
+              ],
+              [
+                700,
+                650
+              ],
+              [
+                280,
+                687
+              ]
+            ],
+            "normalizedImageQuadTopLeft": [
+              [
+                0.24672708962739173,
+                0.33076923076923076
+              ],
+              [
+                0.594159113796576,
+                0.3323076923076923
+              ],
+              [
+                0.7049345417925479,
+                0.5
+              ],
+              [
+                0.28197381671701915,
+                0.5284615384615384
+              ]
+            ],
+            "geometryPlacement": "scripts/church/dubrovitsy-west-gallery.py: patches[soffit], trophy_perimeter and carved_patch. Negative spaces are geometry openings; the photograph does not determine the modern paint color."
+          }
+        ]
+      },
+      "limitations": "Historic monochrome tones are not measurements of relief depth or present-day color. The silhouette, small openings, depth and placement are reconstructed estimates; surrounding modern choir finishes follow the separate dated panorama."
+    },
+    {
+      "id": "iconostasis-historic-1905-1908",
+      "title": "Historic eastern iconostasis and holy doors",
+      "url": "https://commons.wikimedia.org/wiki/File:Russia._%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%B0%D1%85_-_%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D0%B0%D1%81_x2._%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2_0025_e1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Russia._%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C_%D0%97%D0%BD%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D1%86%D0%B0%D1%85_-_%D0%98%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%82%D0%B0%D1%81_x2._%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2_0025_e1.jpg",
+      "author": "Павлов П.",
+      "date": "1905–1908",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-Russia-1996",
+      "file": "iconostasis-historic-1905-1908.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/iconostasis-historic-1905-1908.jpg",
+      "auxiliary": false,
+      "role": "historical-architecture-reference",
+      "angle": "Historical east iconostasis, full front elevation on left; detail of Royal Doors and flanking painted panels on right. Distinct from the west choir historic photograph. · 1905–1908",
+      "sourceFile": "references/iconostasis-historic-1905-1908.jpg",
+      "sourceSha256": "ac39c77e30c5fb0fb85a2d79f0e169faa36e1da165830f6219d629251c46bddb",
+      "sourceByteLength": 812233,
+      "modifications": "No raster alteration. Full source image retained. Used only to compare historical architecture.",
+      "limitations": "Monochrome print scan at modest resolution. Useful for arrangement and proportions; not evidence of current paint colors, current icons, or current condition.",
+      "localPath": "photos/iconostasis-historic-1905-1908.jpg",
+      "use": "Historic iconostasis arrangement and relative proportions; not a current color reference.",
+      "derivativeLicense": "Public domain",
+      "sampling": {
+        "method": "documentary reference only",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "Photographically estimated; encoded in the Blender builder and interior module."
+      }
+    },
+    {
+      "id": "plan-krasovsky-1909",
+      "title": "Krasovsky’s plan of the Church of the Sign",
+      "commonsTitle": "План Церкви Знамения.jpg",
+      "url": "https://commons.wikimedia.org/wiki/File:План_Церкви_Знамения.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/План_Церкви_Знамения.jpg",
+      "author": "Mikhail Vitoldovich Krasovsky",
+      "date": "1909",
+      "publication": "Outline of the History of Church Architecture of the Moscow Period, 1911",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licenseNote": "License reproduced as listed in the retained Commons source record.",
+      "sourceFile": "references/plan-krasovsky-1909.jpg",
+      "sourceSha256": "6154c51b758bfe1c9c70b971838eaad8570ed84b14f6ca761faa5015fb46a7a5",
+      "sourceByteLength": 168031,
+      "auxiliary": true,
+      "role": "historical-plan-reference",
+      "angle": "Historical floor plan showing the central crossing, corner masonry, four lobes and exterior stairs · drawing dated 1909",
+      "use": "Primary plan comparison for broad central crossing, corner masonry, side openings and choir orientation. Photographic/model dimensions remain estimates, not a surveyed reconstruction.",
+      "limitations": "Historical printed plan guides room proportions and masonry arrangement. Image measurements and reconstructed dimensions remain approximate; it is not a current survey or a record of present-day finishes.",
+      "metadataSource": "plan-source-provenance.json",
+      "width": 998,
+      "height": 925,
+      "sourceDimensions": [
+        998,
+        925
+      ],
+      "file": "plan-krasovsky-1909.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/plan-krasovsky-1909.jpg",
+      "modifications": "Untouched full source image retained. Used for documentary architectural comparison; no texture placement recorded.",
+      "localPath": "photos/plan-krasovsky-1909.jpg",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "documentary reference only",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false
+      }
+    }
+  ],
+  "referencePhotographs": [
+    {
+      "id": "interior-octagon-2017",
+      "title": "Interior octagon and sculpted Passion scenes",
+      "url": "https://commons.wikimedia.org/wiki/File:Znamen_Church_In_Dubrovici_%28Interier%29.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Znamen_Church_In_Dubrovici_%28Interier%29.jpg",
+      "author": "Cons Ph",
+      "date": "7 July 2017",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "file": "interior-octagon-2017.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/interior-octagon-2017.jpg",
+      "auxiliary": false,
+      "role": "reference-photograph",
+      "angle": "Looking up through the octagon, with white sculpted figures, arched windows, and the chandelier suspension · 2017",
+      "sourceFile": "references/interior-east.jpg",
+      "sourceSha256": "8b3811eda8dc48b28f32b0fb38d19941ae97913369872752618c0ac4e6aff01d",
+      "sourceByteLength": 2668288,
+      "modifications": "No raster alteration. Full source image retained for visual architectural comparison; not currently sampled as an interior model texture.",
+      "filenameNote": "Legacy source filename says east; the source is an upward-looking view of the interior octagon.",
+      "localPath": "photos/interior-octagon-2017.jpg",
+      "use": "Comparison reference for the octagonal interior, white sculpted groups and window arrangement. Current interior modules do not project this photograph onto their visible geometry.",
+      "derivativeLicense": "CC BY-SA 4.0",
+      "sampling": {
+        "method": "documentary reference only",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "geometryPlacement": "No current geometry or texture placement uses this source; retained as an architectural comparison."
+      },
+      "limitations": "This dated upward view does not provide a measured room model or unique source coverage for every bay."
+    },
+    {
+      "id": "tower-middle-2005",
+      "title": "Tower middle-tier carved bays",
+      "url": "https://commons.wikimedia.org/wiki/File:Dubrovitsy_church_of_Sign_(31).JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dubrovitsy_church_of_Sign_%2831%29.JPG",
+      "author": "Okorok",
+      "date": "29 May 2005",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "file": "tower-middle-2005.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/tower-middle-2005.jpg",
+      "auxiliary": false,
+      "role": "reference-photograph",
+      "angle": "Middle tower tier with carved shafts and arched window surrounds ·29 May2005",
+      "sourceFile": "references/Dubrovitsy_church_of_Sign_31.JPG",
+      "sourceSha256": "4b0725b82a008c9077cb926b7a349c37ebe86706dcdc01a8181d8f55d5518f8f",
+      "sourceByteLength": 2449952,
+      "width": 2592,
+      "height": 1944,
+      "modifications": "No raster alteration. Full source image retained for architectural comparison only; no current model material samples this source.",
+      "limitations": "Top tier cropped out. Weathered stone and the partially blocked central window record the 2005 condition, not current surface reflectance or a complete tower elevation.",
+      "localPath": "photos/tower-middle-2005.jpg",
+      "use": "Architectural comparison of the middle tower tier, carved shafts and arched surrounds in the 2005 condition. This photograph is not projected onto the current model.",
+      "derivativeLicense": "CC BY-SA 3.0",
+      "sampling": {
+        "method": "documentary reference only",
+        "sourceFrameRetained": true,
+        "croppedRasterCreated": false,
+        "regions": [
+          {
+            "label": "middle-tier central vertical bay",
+            "cornerOrder": "top-left, top-right, bottom-right, bottom-left",
+            "normalizedImageQuadTopLeft": [
+              [
+                0.4237938596491228,
+                0.2309941520467836
+              ],
+              [
+                0.5866228070175439,
+                0.22807017543859648
+              ],
+              [
+                0.5882675438596491,
+                0.49780701754385964
+              ],
+              [
+                0.40515350877192985,
+                0.5175438596491229
+              ]
+            ],
+            "originalPixelQuadTopLeft": [
+              [
+                1098,
+                449
+              ],
+              [
+                1521,
+                443
+              ],
+              [
+                1525,
+                968
+              ],
+              [
+                1050,
+                1006
+              ]
+            ],
+            "sourceWidthPixelsApprox": 450,
+            "usedInModel": false
+          }
+        ],
+        "geometryPlacement": "No current geometry or texture placement uses this photograph. Retained quadrilaterals are comparison measurements, not active UV projections."
+      }
+    }
+  ],
+  "materialSources": [
+    {
+      "id": "material-marble-01",
+      "title": "Marble 01 · floor material source",
+      "url": "https://polyhaven.com/a/marble_01",
+      "author": "Rob Tuytel",
+      "license": "CC0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "file": "material-marble-01.jpg",
+      "webPath": "/church/sign-of-the-theotokos-dubrovitsy/photos/material-marble-01.jpg",
+      "auxiliary": true,
+      "role": "generic-material-source",
+      "angle": "Generic marble material supplied by Poly Haven; not a photograph of Dubrovitsy",
+      "sourceFile": "assets/church/materials/marble_01_diff_4k.jpg",
+      "sourceSha256": "3c7805a8988323b46d45d747530b659b4aa46e5bfa0b57c3d21083a403de229d",
+      "sourceByteLength": 5013465,
+      "width": 4096,
+      "height": 4096,
+      "use": "Approximate gray stone response for the modeled floor. Church photographs guide the slab layout and appearance; the veins come from a generic material sample.",
+      "modifications": "Original diffuse and OpenGL normal bytes are retained. Mesh UVs select joint-free regions and rotate them among modeled slabs. Linear RGB gamma and HSV saturation are applied as authored material operators, not raster edits.",
+      "limitations": "This material is not a scan or photographic record of the church floor. Individual veins, slab dimensions and material response are interpretive.",
+      "channels": [
+        {
+          "file": "marble_01_diff_4k.jpg",
+          "sourceFile": "assets/church/materials/marble_01_diff_4k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/marble_01/marble_01_diff_4k.jpg",
+          "channel": "diffuse",
+          "colorSpace": "sRGB",
+          "usedInDubrovitsy": true,
+          "width": 4096,
+          "height": 4096,
+          "sourceSha256": "3c7805a8988323b46d45d747530b659b4aa46e5bfa0b57c3d21083a403de229d",
+          "sourceByteLength": 5013465
+        },
+        {
+          "file": "marble_01_nor_gl_4k.jpg",
+          "sourceFile": "assets/church/materials/marble_01_nor_gl_4k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/marble_01/marble_01_nor_gl_4k.jpg",
+          "channel": "tangent-space OpenGL normal",
+          "colorSpace": "Non-Color",
+          "usedInDubrovitsy": true,
+          "width": 4096,
+          "height": 4096,
+          "sourceSha256": "ca7efbe72f13bf156545485762307e91d6077b06746dc7cc1742908cf9873cbd",
+          "sourceByteLength": 1274528
+        },
+        {
+          "file": "marble_01_rough_4k.jpg",
+          "sourceFile": "assets/church/materials/marble_01_rough_4k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/marble_01/marble_01_rough_4k.jpg",
+          "channel": "roughness",
+          "colorSpace": "Non-Color",
+          "usedInDubrovitsy": false,
+          "width": 4096,
+          "height": 4096,
+          "sourceSha256": "519e24e673323b0f09f6591e6339c95f9c6aedad3798e4a46d43b34bf335d649",
+          "sourceByteLength": 941909
+        }
+      ],
+      "calibration": {
+        "photographicGamma": 0.92,
+        "photographicSaturation": 0.055,
+        "normalMapStrength": 0.24,
+        "roughness": 0.44
+      },
+      "sampling": {
+        "method": "UV selections from unchanged full 4096x4096 material maps",
+        "coordinateOrigin": "top-left of source image",
+        "normalizedFields": [
+          [
+            0.36,
+            0.015,
+            0.635,
+            0.193
+          ],
+          [
+            0.7,
+            0.219,
+            0.975,
+            0.437
+          ],
+          [
+            0.323,
+            0.454,
+            0.58,
+            0.66
+          ],
+          [
+            0.669,
+            0.709,
+            0.985,
+            0.977
+          ]
+        ],
+        "originalPixelFields": [
+          [
+            1474.56,
+            61.44,
+            2600.96,
+            790.528
+          ],
+          [
+            2867.2,
+            897.024,
+            3993.6,
+            1789.952
+          ],
+          [
+            1323.008,
+            1859.584,
+            2375.68,
+            2703.36
+          ],
+          [
+            2740.224,
+            2904.064,
+            4034.56,
+            4001.792
+          ]
+        ],
+        "sourceJointsExcluded": true,
+        "modeledSlabWidthMeters": 0.9,
+        "modeledJointWidthMeters": 0.005,
+        "rotationsDegrees": [
+          0,
+          90,
+          180,
+          270
+        ]
+      },
+      "date": "Material capture date not supplied"
+    },
+    {
+      "id": "material-white-plaster-02",
+      "title": "White Plaster 02 · fine plaster finish source",
+      "url": "https://polyhaven.com/a/white_plaster_02",
+      "author": "Rob Tuytel",
+      "license": "CC0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "file": "white_plaster_02_nor_gl_1k.jpg",
+      "auxiliary": true,
+      "role": "generic-material-source",
+      "angle": "Generic fine plaster normal and roughness supplied by Poly Haven; not a photograph of Dubrovitsy",
+      "date": "Material capture date not supplied",
+      "sourceFile": "assets/church/materials/white_plaster_02_nor_gl_1k.jpg",
+      "sourceSha256": "eb572ca3630d5bfde72e2601b1f02412da23ca005cd19384dced8690be4cb783",
+      "sourceByteLength": 652310,
+      "width": 1024,
+      "height": 1024,
+      "use": "Subtle mineral normal and roughness variation on the modeled blue limewash and chalk stucco. Existing authored blue and chalk base colors remain unchanged. Only the OpenGL normal and packed ARM image are used; diffuse and standalone roughness originals are retained but unused.",
+      "modifications": "All four retained source JPEGs are unchanged. Normal strength and roughness factors are authored material settings, not raster edits. Standard glTF exports the original normal and ARM JPEG bytes; the ARM blue channel has a zero metallic factor and its red AO channel is unused.",
+      "limitations": "This generic material is not a scan, photograph or measured survey of Dubrovitsy plaster. The one-metre repeat and subtle material response are interpretive; per-face metric UV islands can introduce fine orientation seams.",
+      "channels": [
+        {
+          "file": "white_plaster_02_diff_1k.jpg",
+          "sourceFile": "assets/church/materials/white_plaster_02_diff_1k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_diff_1k.jpg",
+          "channel": "diffuse",
+          "colorSpace": "sRGB",
+          "usedInDubrovitsy": false,
+          "width": 1024,
+          "height": 1024,
+          "sourceSha256": "a1ebbe091bd1ae93d2abd5de8d69f9003a8d0ee6532bcf9a87c2492c97051f23",
+          "sourceByteLength": 527219,
+          "use": "Retained original for source documentation; not connected in the model."
+        },
+        {
+          "file": "white_plaster_02_nor_gl_1k.jpg",
+          "sourceFile": "assets/church/materials/white_plaster_02_nor_gl_1k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_nor_gl_1k.jpg",
+          "channel": "tangent-space OpenGL normal",
+          "colorSpace": "Non-Color",
+          "usedInDubrovitsy": true,
+          "width": 1024,
+          "height": 1024,
+          "sourceSha256": "eb572ca3630d5bfde72e2601b1f02412da23ca005cd19384dced8690be4cb783",
+          "sourceByteLength": 652310
+        },
+        {
+          "file": "white_plaster_02_rough_1k.jpg",
+          "sourceFile": "assets/church/materials/white_plaster_02_rough_1k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_rough_1k.jpg",
+          "channel": "standalone roughness",
+          "colorSpace": "Non-Color",
+          "usedInDubrovitsy": false,
+          "width": 1024,
+          "height": 1024,
+          "sourceSha256": "4ff1fe957cd161b07f721fe6c28a9459c8c2e8ec65627a26c16e483a07c80d85",
+          "sourceByteLength": 295900,
+          "use": "Retained original for source documentation; not connected in the model."
+        },
+        {
+          "file": "white_plaster_02_arm_1k.jpg",
+          "sourceFile": "assets/church/materials/white_plaster_02_arm_1k.jpg",
+          "originalUrl": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/white_plaster_02/white_plaster_02_arm_1k.jpg",
+          "channel": "packed ARM; green roughness used",
+          "colorSpace": "Non-Color",
+          "usedInDubrovitsy": true,
+          "width": 1024,
+          "height": 1024,
+          "sourceSha256": "2bb1115821715dfd8bbd1c5a294a5bb43b97d5c46b1aa8aa8f744bcaf5eeeb10",
+          "sourceByteLength": 191017,
+          "channelUse": {
+            "redAO": "unused",
+            "greenRoughness": "used with roughness factor 0.94",
+            "blueMetallic": "connected with factor 0; plaster remains nonmetallic and the original packed image is retained"
+          }
+        }
+      ],
+      "calibration": {
+        "baseColor": "Preserved authored blue/chalk color; source diffuse is not connected",
+        "normalMapStrength": 0.25,
+        "roughnessFactor": 0.94,
+        "metallicFactor": 0
+      },
+      "sampling": {
+        "method": "Full unchanged normal and ARM images repeated through metre-scale mesh UVs",
+        "uvLayer": "PlasterMeters",
+        "gltfTexCoord": 1,
+        "repeatWidthMeters": 1.0,
+        "sourceDimensionsMM": [
+          1000,
+          1000
+        ],
+        "scaleNote": "Current asset page states 1m wide and API dimensions are 1000×1000mm; API legacy scale string says 1.5M×1.5M. Study uses current dimension fields and page."
+      },
+      "retainedOriginalsProvenance": "assets/church/materials/white_plaster_02_provenance.json"
+    }
+  ]
+}

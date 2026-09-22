@@ -1,0 +1,49 @@
+{
+  "identity": "Church of the Savior on Spilled Blood / Cathedral of the Resurrection of Christ, Saint Petersburg, Russia",
+  "primarySources": [
+    {
+      "title": "State Museum St Isaac's Cathedral — Savior on the Spilled Blood: Architecture",
+      "url": "https://cathedral.ru/en/spas/architecture",
+      "language": "Russian, despite the en URL",
+      "notes": [
+        "Built from 1883; the final 1887 design was Alfred Parland's. It interprets seventeenth-century Moscow and Yaroslavl church architecture.",
+        "Compact rectangular main mass, four internal piers and three aisles. Curved kokoshnik gables terminate north and south facades.",
+        "Nine heads form the skyline: a central tented tower surrounded by four onion domes; the western bell tower; three small gilded apse heads to the east.",
+        "The western bell tower projects toward the Griboedov Canal above the place where Alexander II was mortally wounded. Three semicircular apses form the east end.",
+        "Principal material cues: red-brown brick, gray granite base, white marble ornamental arcades and arches, mosaic panels, gilded copper, patterned enamel on the central five heads. Tall delicate crosses accent the skyline.",
+        "The south side is the broad public approach; north faces Konyushennaya Square; east borders Mikhailovsky Garden; west faces the canal."
+      ]
+    },
+    {
+      "title": "State Museum St Isaac's Cathedral — Savior on the Spilled Blood: Mosaics",
+      "url": "https://cathedral.ru/ru/spas/mosaic",
+      "language": "Russian",
+      "notes": [
+        "Over 7,000 square metres of mosaics cover the ensemble. The Frolov workshop made more than 600 icons and compositions between 1896 and 1907 using designs by 32 artists.",
+        "Pantocrator occupies the central dome. The four smaller dome images are the Theotokos, Christ the Blessed Silence, Christ Emmanuel and John the Baptist.",
+        "The Annunciation spans the two altar piers: the Theotokos at the well on the viewer's right, Gabriel on the left.",
+        "The south wall follows Christ's childhood from the Visitation and Nativity through the Baptism. The north wall presents healings and other miracles.",
+        "The western piers and memorial area present the Passion, Crucifixion, Entombment and Descent into Hades. The sanctuary vault bears Christ in Glory.",
+        "The Christ and Theotokos icons flank the royal doors. Their designs are by Viktor Vasnetsov."
+      ]
+    },
+    {
+      "title": "State Museum St Isaac's Cathedral — restoration timeline",
+      "url": "https://history.cathedral.ru/2010",
+      "notes": [
+        "The polychrome marble floor was made in Genoa in Giuseppe Novi's workshop and brought to Saint Petersburg in 1903. It contains 45 geometric carpet compositions, each different, made using the Florentine mosaic technique."
+      ]
+    }
+  ],
+  "visualObservations": [
+    "Selected photos show bright turquoise and deep blue mosaic fields, gold haloes, floral ribbons around saint panels, dark green/gray and burgundy stone dados, a carved pale-gold/ochre iconostasis, patterned silver-and-gold royal doors, and the dark carved memorial ciborium.",
+    "The enameled side dome photo shows raised faceted diamond units in blue, white, green and gold. The small central top dome has broad blue, green and white spiral ribs. These are actual observed patterns, not generic Russian-dome stripes."
+  ],
+  "limitations": [
+    "This reference collection supports an interpretive 3D walkthrough, not a measured survey, photogrammetry scan, or 360-degree panorama.",
+    "Exterior views cover west/canal, south, east/apses and north, plus roof/dome/porch details. No unobstructed overhead roof survey was located; the Mikhailovsky Garden aerial thumbnail had insufficient church detail and was rejected.",
+    "Interior coverage includes east iconostasis, western memorial, south childhood cycle, north miracles, dome/vaults, piers and floor. The compass direction of the generic wide nave-side-wall photograph is unverified.",
+    "Some source photos are from 2011–2019; they document the building and mosaics, not current visitor arrangement or restoration state.",
+    "Source-derived texture crops retain original photographic shadows and some perspective; they should not be advertised as a precise digital twin."
+  ]
+}

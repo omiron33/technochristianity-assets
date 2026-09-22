@@ -1,0 +1,957 @@
+{
+  "formatVersion": 1,
+  "release": "2026-09-22",
+  "website": "https://technochristianity.com",
+  "models": [
+    "church/saint-sava-exterior/saint-sava-exterior.gltf",
+    "church/saint-sava.gltf",
+    "church/savior-on-spilled-blood/savior-on-spilled-blood.gltf",
+    "church/sign-of-the-theotokos-dubrovitsy/sign-of-the-theotokos-dubrovitsy.gltf"
+  ],
+  "files": {
+    "church/LICENSE.md": {
+      "byteLength": 3251,
+      "sha256": "54b07b0e07c047334776a1e40fa969af0dacc87e5180c202d28cc3a71a3b7093"
+    },
+    "church/credits.json": {
+      "byteLength": 4620,
+      "sha256": "4cdf23932e89bc3730b97ff17d4950ed054eb1056ae352a79604a17952bfe345"
+    },
+    "church/geometry-001.bin": {
+      "byteLength": 22044624,
+      "sha256": "d19568271ec1026ad4572460b2120d8134852dabcd7b759ad76ceaad9ce81321"
+    },
+    "church/geometry.bin": {
+      "byteLength": 23655268,
+      "sha256": "3d8623a08f982a757a57aa7d8683913ba0007130fc4e39932ec6bb02fc71bd1a"
+    },
+    "church/model-textures/saint-sava-image-000-stone-nor-gl.jpg": {
+      "byteLength": 35915,
+      "sha256": "0e61700d980c751d5c5070fd5e0992aa0d8468857db55719336f27c3e2c5e27c"
+    },
+    "church/model-textures/saint-sava-image-001-stone-diff.jpg": {
+      "byteLength": 219367,
+      "sha256": "78265c6fedc05746644245b1557cb766666fb1b4ed2dfb3bfdffc7d0b8900941"
+    },
+    "church/model-textures/saint-sava-image-002-stone-rough.png": {
+      "byteLength": 128065,
+      "sha256": "5d9ed20420313575938c9bec18f085a4ec925a46d7ba50bcf35494a1525a0ded"
+    },
+    "church/model-textures/saint-sava-image-003-marble.jpg": {
+      "byteLength": 134659,
+      "sha256": "d99cce7a327982058a4e81dd6fa025ace2d1283a363e8ca84aafd88eb8057950"
+    },
+    "church/model-textures/saint-sava-image-004-repair-green-continuous.jpg": {
+      "byteLength": 649730,
+      "sha256": "f6103b37c63a1517cd33d558222f0ce2aea4624e60698ad4e87d66750f6429f6"
+    },
+    "church/model-textures/saint-sava-image-005-repair-gallery-shafts.jpg": {
+      "byteLength": 1477812,
+      "sha256": "9851b6d1c39861d24d58983203969ec09ec776290979f51352ac47bd6e96bd24"
+    },
+    "church/model-textures/saint-sava-image-006-mosaic-normal.png": {
+      "byteLength": 190011,
+      "sha256": "3f2b740d8977e7fc97e1c925e5a4253430e258ad07b9a099f31fd4dd9268b44c"
+    },
+    "church/model-textures/saint-sava-image-007-gold.jpg": {
+      "byteLength": 8384,
+      "sha256": "73573067d0f01a2df0a306f694fb29181fce8a3eab3f0cd99c09280ebab79e39"
+    },
+    "church/model-textures/saint-sava-image-008-east-christ.jpg": {
+      "byteLength": 472606,
+      "sha256": "ec77c9a1b5b57924782be54b212f8bd8ebea11b2f0f6ea179afc2c4ba98f76f8"
+    },
+    "church/model-textures/saint-sava-image-009-theotokos.jpg": {
+      "byteLength": 641096,
+      "sha256": "dcd8eb39193eca998f4fa00f6846126b012b086332edc16ae57b3e5b13ce526b"
+    },
+    "church/model-textures/saint-sava-image-010-resurrection.jpg": {
+      "byteLength": 974113,
+      "sha256": "112c60c4b1fa4800a374180ebadcd04e74c90274a172251138d099d244416c75"
+    },
+    "church/model-textures/saint-sava-image-011-nativity.jpg": {
+      "byteLength": 894835,
+      "sha256": "80dfa84379ba6b37bd76bfcb941ee642950105b1a7c5a7e6ff7909fed983db64"
+    },
+    "church/model-textures/saint-sava-image-012-east-arch.jpg": {
+      "byteLength": 1164882,
+      "sha256": "97afb96289002bb0303c2f1bf9cecade99ae38ab108b08cf4ec3ecc0a022c7c9"
+    },
+    "church/model-textures/saint-sava-image-013-south-arch.jpg": {
+      "byteLength": 1778160,
+      "sha256": "6a04c288c99195cef40d7fd16dbdacf961331d6b97851a36e14e5265c23ee900"
+    },
+    "church/model-textures/saint-sava-image-014-north-arch.jpg": {
+      "byteLength": 1553880,
+      "sha256": "fc0c1f13053d843cb0750fd1690f04ce5135322edb51f60317f60107b89feef0"
+    },
+    "church/model-textures/saint-sava-image-015-ascension.jpg": {
+      "byteLength": 1666151,
+      "sha256": "bda79b3f7001b8c043a48e8bbb2b57e222e008cc1f4cb3fd6a49417da1c9a7f9"
+    },
+    "church/model-textures/saint-sava-image-016-drum-frieze.jpg": {
+      "byteLength": 170804,
+      "sha256": "33eb5f306e61fa981730e732a16f8c6dfafb16734e95d73496d83481dd2b2b17"
+    },
+    "church/model-textures/saint-sava-image-017-annunciation-left.jpg": {
+      "byteLength": 607147,
+      "sha256": "67b30beff13d3a39be579253013dae326aca5f0f93cf8871e3c45b39ce7344c0"
+    },
+    "church/model-textures/saint-sava-image-018-annunciation-right.jpg": {
+      "byteLength": 541572,
+      "sha256": "1e898546ef78709dfaf27b8fcb1f66aadd172f6badf3a93ee6eb19ed2c1c7afb"
+    },
+    "church/model-textures/saint-sava-image-019-icon-0.jpg": {
+      "byteLength": 130727,
+      "sha256": "6bebce47ac6b8778089d27497de1f501e9b5bf739e91721b8ce8feeffa2871e5"
+    },
+    "church/model-textures/saint-sava-image-020-icon-1.jpg": {
+      "byteLength": 130802,
+      "sha256": "64fb69dc91981d5fc24db504c677f79fd45af420f33f580606ac61fd477b2b23"
+    },
+    "church/model-textures/saint-sava-image-021-icon-2.jpg": {
+      "byteLength": 143019,
+      "sha256": "e41402ec682bd31c0251134b4215b58197738164d1657d91de0709b182f7393d"
+    },
+    "church/model-textures/saint-sava-image-022-icon-3.jpg": {
+      "byteLength": 132908,
+      "sha256": "84d64ace721215edf328bc8c29a8112999cd844db5b30dd5bb34d722560939b1"
+    },
+    "church/model-textures/saint-sava-image-023-icon-4.jpg": {
+      "byteLength": 149990,
+      "sha256": "51639bd428044402e2ffe2429c0f00b5bbe0f4ef6356f48ea36462cf299faeec"
+    },
+    "church/model-textures/saint-sava-image-024-icon-5.jpg": {
+      "byteLength": 141635,
+      "sha256": "d0b16d8d1353e8c3505db84aab86d134a34f010bf6f82144fb32123d7608936a"
+    },
+    "church/model-textures/saint-sava-image-025-royal-doors.jpg": {
+      "byteLength": 328070,
+      "sha256": "4ffbe58bf40f75420e2274effb64d4f36fccb2dfe8fd376db262d6de3f1319c3"
+    },
+    "church/model-textures/saint-sava-image-026-trinity-feast.jpg": {
+      "byteLength": 224586,
+      "sha256": "3f11ceb1c573fee300353c79e3b2d3fee24b685a443846e375852c1c5604b716"
+    },
+    "church/model-textures/saint-sava-image-027-observed-feast-atlas.jpg": {
+      "byteLength": 499299,
+      "sha256": "c9592313572af77e8e78074ca36e5ab7d2836acaa6375a02325956c63beb08b2"
+    },
+    "church/model-textures/saint-sava-image-028-capital.jpg": {
+      "byteLength": 42171,
+      "sha256": "2de3d9a3f1494c4de7422c712169557543f212675d072e23f580c48fa67e9068"
+    },
+    "church/model-textures/saint-sava-image-029-carving.jpg": {
+      "byteLength": 84677,
+      "sha256": "c6ec554d6cf43849d8313445e084376318c210f373372b585e19f4252ccfa1ef"
+    },
+    "church/model-textures/saint-sava-image-030-iconostasis-facade.jpg": {
+      "byteLength": 1279677,
+      "sha256": "a73f4033254693558749de616a4a3f3ec04413476869e57940e15e7a7d534b89"
+    },
+    "church/model-textures/saint-sava-image-031-corona-fret.jpg": {
+      "byteLength": 6176,
+      "sha256": "de32d066b998403ab5bb2029a23f1b92f2f80f8397950f93ae33a75f93da957a"
+    },
+    "church/model-textures/saint-sava-image-032-corona-cherub.jpg": {
+      "byteLength": 7516,
+      "sha256": "b5fe83be63b0f1a71819fbb0f3f9fa58373d0d0f243304446e711d54872fe2ee"
+    },
+    "church/model-textures/saint-sava-image-033-dormition.jpg": {
+      "byteLength": 957016,
+      "sha256": "bf33aea43db360213513203021fa4c09118c5223a35140bcdad828325420832e"
+    },
+    "church/model-textures/saint-sava-image-034-west-arch.jpg": {
+      "byteLength": 640316,
+      "sha256": "fdbd1a3bfa11d6b40ef01b7ea5d8500e62ec2485eb398e64da5d12189d9449cf"
+    },
+    "church/model-textures/saint-sava-image-035-west-portrait-rim.jpg": {
+      "byteLength": 256833,
+      "sha256": "fda8e702cf81d29b62641a90e21932e1bf517bb69f5a8622ad160090e633098b"
+    },
+    "church/model-textures/saint-sava-image-036-north-portrait-rim.jpg": {
+      "byteLength": 763030,
+      "sha256": "7cacbb39812faf0a51c86120344ca5725925a83e80cb9ba2bbe87570fda85d4d"
+    },
+    "church/model-textures/saint-sava-image-037-south-portrait-rim.jpg": {
+      "byteLength": 866802,
+      "sha256": "3805f7c4d6382ea72905df4b466998fd04fb9f62c2a9dce780566b74e620905d"
+    },
+    "church/model-textures/saint-sava-image-038-north-stepped-diamond-arch.jpg": {
+      "byteLength": 590301,
+      "sha256": "4cde8faa81af257aa681688365b87ba75d3cc64d7048bde3a897c9dcbb4b455d"
+    },
+    "church/model-textures/saint-sava-image-039-south-stepped-diamond-arch.jpg": {
+      "byteLength": 648122,
+      "sha256": "435411d2d3213ca067a67571505fac7f5ab3f3e0a5385d038e7cefa4ae99bbda"
+    },
+    "church/model-textures/saint-sava-image-040-west-window-saint-0.jpg": {
+      "byteLength": 77758,
+      "sha256": "42f38413f37e388947eaf36fb74881734344837ec0991d4dc8f6d06c7a1336d5"
+    },
+    "church/model-textures/saint-sava-image-041-west-window-saint-1.jpg": {
+      "byteLength": 78453,
+      "sha256": "a1ff0408eb4c0c9c21a7b00a98c6c51828574f7bf28f3edc0a0ce434c12f61a4"
+    },
+    "church/model-textures/saint-sava-image-042-west-window-saint-2.jpg": {
+      "byteLength": 83009,
+      "sha256": "4aef39e6964861a848896f78aac1489048a6d6df904e9d2a141ee9dda4c64020"
+    },
+    "church/model-textures/saint-sava-image-043-west-window-saint-3.jpg": {
+      "byteLength": 93425,
+      "sha256": "92bf4da1281b5c6214b81e770ba3623c1d295d906ef8798a5527d7da19ba96e8"
+    },
+    "church/model-textures/saint-sava-image-044-west-window-saint-4.jpg": {
+      "byteLength": 85832,
+      "sha256": "b5e073b575ad8606a243707a2bdb3346877477a60a5950b3ca3b9cfddd8236ac"
+    },
+    "church/model-textures/saint-sava-image-045-west-window-saint-5.jpg": {
+      "byteLength": 77860,
+      "sha256": "afdd4d72f00957506c1bddc7eec0cc8d5aef4b4ee3c6abed9c3382840044803a"
+    },
+    "church/model-textures/saint-sava-image-046-west-window-saint-6.jpg": {
+      "byteLength": 75203,
+      "sha256": "cdb939a6b0a43b60742b8e0c95fdca84aba99b774173112af900a8a61f301dbf"
+    },
+    "church/model-textures/saint-sava-image-047-west-window-saint-7.jpg": {
+      "byteLength": 69257,
+      "sha256": "53d2854f9db1cf43d05310644580d3f4daec8d54f1184ae3bc8834506861cd0c"
+    },
+    "church/model-textures/saint-sava-image-048-western-blue-reveal.jpg": {
+      "byteLength": 374763,
+      "sha256": "47568cbe6b666ef31934092c6e0435e0e629a7d459828b2884cd6e4663b4e174"
+    },
+    "church/model-textures/saint-sava-image-049-gallery-detail-atlas.jpg": {
+      "byteLength": 193880,
+      "sha256": "d97da410dc31f00cad83efbed960f3ee5dc39ccab37f74c64712e8b1eb54f657"
+    },
+    "church/model-textures/saint-sava-image-050-gallery-carved-entablature.jpg": {
+      "byteLength": 37947,
+      "sha256": "b7c374d0a04e54c49d3030b98fbebe00dd175eef698e8f43235c70e14c06a9a1"
+    },
+    "church/model-textures/saint-sava-image-051-repair-architecture-atlas.jpg": {
+      "byteLength": 5607739,
+      "sha256": "b4420f79e288c6b402056212e20103e3da530f78d6636b1c8ddcbda369612fc1"
+    },
+    "church/model-textures/saint-sava-image-052-repair-official-fields.jpg": {
+      "byteLength": 9623046,
+      "sha256": "72e6cc48112b5eb78767bf86c34d220cb8a332999129063d0cb05857274f3dee"
+    },
+    "church/model-textures/saint-sava-image-053-repair-floor-annulus.jpg": {
+      "byteLength": 20833,
+      "sha256": "e4ac5273eb1cabfe06503df15538649748eeb42f4ffc84d5c0b2f7ea0224b05a"
+    },
+    "church/model-textures/saint-sava-image-054-repair-pier-atlas.jpg": {
+      "byteLength": 8402095,
+      "sha256": "919e517cbe026c66cbaafd23d623a4854d4a6f66573c8533a4a75934a2fde737"
+    },
+    "church/model-textures/saint-sava-image-055-pier-stone-roundel.jpg": {
+      "byteLength": 84281,
+      "sha256": "765abe84061e1e6678297cb214823facecd52fa763434bc6404bdafcc82218f6"
+    },
+    "church/model-textures/saint-sava-image-056-pier-upper-interlace.jpg": {
+      "byteLength": 70582,
+      "sha256": "5ac31257959a32e50a0e3127e35df25e2ba4f5abffb24bb8a53bb3e1d8f52c6c"
+    },
+    "church/model-textures/saint-sava-image-057-repair-west-devotional.jpg": {
+      "byteLength": 944519,
+      "sha256": "154360b0c3c45dfbab434f2e9b13280bd735fff487b11ddced9a6dbbdcf9c834"
+    },
+    "church/model-textures/saint-sava-image-058-repair-standing-crucifix.jpg": {
+      "byteLength": 1119129,
+      "sha256": "e5061726105520517f37dd374efc5b2a1db14c571866cf21b344527ad07a3680"
+    },
+    "church/model-textures/saint-sava-image-059-repair-concha-carved-crowns.jpg": {
+      "byteLength": 76050,
+      "sha256": "de778c811424773ec9ee3607b938e440a7700fd87d7a59f3b1607239e1835188"
+    },
+    "church/model-textures/saint-sava-image-060-repair-concha-window-heads.jpg": {
+      "byteLength": 585161,
+      "sha256": "5902d8d7a2d31ab58f3b811bffac87c5158b45048901d6e2f6874ac7168df8c2"
+    },
+    "church/model-textures/saint-sava-image-061-repair-evangelist-sw.jpg": {
+      "byteLength": 1607149,
+      "sha256": "50e72bab2d0ad1dcfe0851218b778206b3bb1c20b9d9f11e2ae3779826968245"
+    },
+    "church/model-textures/saint-sava-image-062-repair-evangelist-nw.jpg": {
+      "byteLength": 1379615,
+      "sha256": "6207e8618188c37171f9bdf7a692a063ad2b1dd47d4aa88926c131af980c66e3"
+    },
+    "church/model-textures/saint-sava-image-063-repair-evangelist-ne.jpg": {
+      "byteLength": 1618510,
+      "sha256": "070b91932aeaa33620259e7b1d582f16366b269d2e21981c6ab1d614367dba67"
+    },
+    "church/model-textures/saint-sava-image-064-repair-evangelist-se.jpg": {
+      "byteLength": 1915911,
+      "sha256": "88d99dd008a78264594ac5f3af1201e785c6bb48582d318d4eb9c75717d1e5f1"
+    },
+    "church/model-textures/saint-sava-image-065-repair-drum-circumference.jpg": {
+      "byteLength": 433023,
+      "sha256": "dd4eefd2b93e0266f1a6e6df9bd0b17200d99d9090430187d633e8cca09507e8"
+    },
+    "church/model-textures/saint-sava-image-066-repair-theotokos-inscription.jpg": {
+      "byteLength": 679688,
+      "sha256": "855a041fc54934888b58d5f06db7ab9c7f392610a42e53d5758648d6d0210129"
+    },
+    "church/model-textures/saint-sava-image-067-repair-niche-peter.jpg": {
+      "byteLength": 472496,
+      "sha256": "513125091917417ea71bbe9d60dfe5de9ff09c654cf9826a0cb9819e00eb9a55"
+    },
+    "church/model-textures/saint-sava-image-068-repair-niche-north-return.jpg": {
+      "byteLength": 347874,
+      "sha256": "bea6aa6218cffb7e211eda13d9135893624aeb9b6773aebf73d18e260e37c734"
+    },
+    "church/model-textures/saint-sava-image-069-repair-niche-paul.jpg": {
+      "byteLength": 458172,
+      "sha256": "53d8d0ce13be59a7fd678986c146474f973d1b95228fbc5482eb0c81373cf5fd"
+    },
+    "church/model-textures/saint-sava-image-070-repair-niche-south-return.jpg": {
+      "byteLength": 372354,
+      "sha256": "dd3b4ad4bdb5c2bd270a1e5093b2b12612c70d9d07e57c77207189edb93d7724"
+    },
+    "church/model-textures/saint-sava-image-071-repair-visible-sanctuary.jpg": {
+      "byteLength": 24656,
+      "sha256": "1e0d1518b82005d7d2ced7dd26eb0845e5e4af0ae58ffbf0d267106eb489a414"
+    },
+    "church/model-textures/saint-sava-image-072-repair-west-continuous-cap.jpg": {
+      "byteLength": 4984742,
+      "sha256": "a049bcad427bb32777cfd35e8bcda3278b0fdc740017f97de4936e76affd174f"
+    },
+    "church/model-textures/saint-sava-image-073-repair-west-vault-ornament.jpg": {
+      "byteLength": 64650,
+      "sha256": "948ff5e7bb7ad871a57b7762051d11d0afc21fb2ad4e41dcfe9062a0895f35cf"
+    },
+    "church/model-textures/saint-sava-image-074-repair-gallery-soffit-north-right.jpg": {
+      "byteLength": 16318,
+      "sha256": "b182beab375e328a15b84c364f3e673a2eb686990bbdd4bd7f02271f6fd44703"
+    },
+    "church/model-textures/saint-sava-image-075-repair-gallery-soffit-north-left.jpg": {
+      "byteLength": 15014,
+      "sha256": "59e3dec94c9db254ef4b3bee03a33f1f13e85c4e32659ea0899f0759fe3f8ee0"
+    },
+    "church/model-textures/saint-sava-image-076-repair-north-left-narrative.jpg": {
+      "byteLength": 24779,
+      "sha256": "49f8aea4ccad0b6db3d41d21fdf5ebc7e3ca236930592d61dda1ea5e315a456f"
+    },
+    "church/model-textures/saint-sava-image-077-repair-north-bronze-ornament.jpg": {
+      "byteLength": 2810,
+      "sha256": "bdcc2d6b06138f1619f5a719caab21f5be56248ac8a3b1baf12db739d9bffcee"
+    },
+    "church/model-textures/saint-sava-image-078-repair-north-vault-ornament.jpg": {
+      "byteLength": 63722,
+      "sha256": "f82cca6f850a4ccc99dcf9e79a74cb2599cf02dac22b794d020ba95ddf6474f3"
+    },
+    "church/model-textures/saint-sava-image-079-repair-gallery-soffit-south-right.jpg": {
+      "byteLength": 15905,
+      "sha256": "197a33e9b0b5fc3c5b4b9d332c1c9fb4109fc26c2a839d8257ed5ddeb14a34d7"
+    },
+    "church/model-textures/saint-sava-image-080-repair-gallery-soffit-south-left.jpg": {
+      "byteLength": 14313,
+      "sha256": "d6aaedf59cd48ec247bd4f30b61429517fb9ff357969075b677f5a4bd5b97103"
+    },
+    "church/model-textures/saint-sava-image-081-repair-south-bronze-ornament.jpg": {
+      "byteLength": 1365,
+      "sha256": "aa0bb9903d737d3e34763ee73965af21c3b0a8e1dbdfbc835cb3d23dc88c5726"
+    },
+    "church/model-textures/saint-sava-image-082-repair-south-vault-ornament.jpg": {
+      "byteLength": 67810,
+      "sha256": "cbcf3e74a9d4cf10d1f8a3e982c3e9539ef7f729581592f58f2f89847b0271d6"
+    },
+    "church/model-textures/saint-sava-image-083-repair-east-crucifixion-complete.jpg": {
+      "byteLength": 3667653,
+      "sha256": "663a03c4c12649737c602f53917da4ef34dce65990cf86a9a0caffd26a233c5e"
+    },
+    "church/model-textures/saint-sava-image-084-repair-east-myrrhbearers-complete.jpg": {
+      "byteLength": 3927928,
+      "sha256": "e007f71d7eb62af1496ba75f0d9a1443f6eec826e9f7d8a5d9f8c42bb8b05f07"
+    },
+    "church/model-textures/saint-sava-image-085-repair-corona-portraits.jpg": {
+      "byteLength": 1853854,
+      "sha256": "4ab26b8c27a8980c107ada6382f7573e8def0ecf78e2f5d19ded65a78c9bbce6"
+    },
+    "church/saint-sava-exterior/LICENSE.md": {
+      "byteLength": 1327,
+      "sha256": "dad88488fcca48d20a2c57d77bcf6fd99bda73ce970678d9070b4e3489f937a7"
+    },
+    "church/saint-sava-exterior/credits.json": {
+      "byteLength": 2779,
+      "sha256": "96ddf0df349119665c762bfd69aca57ce8e0e67d696a7bb5806d3901c42ac43b"
+    },
+    "church/saint-sava-exterior/geometry.bin": {
+      "byteLength": 12582407,
+      "sha256": "f2ce80d798bdf1dc32ef12526d545098f5827b4656249ebf53f1a03c3ff02821"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-000-rose-window-field.jpg": {
+      "byteLength": 12550,
+      "sha256": "04f9b989bed199679b778bc00224472a6c579536cf712aec1320af863e4910fe"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-001-north-rose-rectified.png": {
+      "byteLength": 42590,
+      "sha256": "a358708429e286ab0342cb53c9a6c75f614c05de3eb6af2a5449c8905d672aa0"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-002-south-rose-rectified.png": {
+      "byteLength": 9973,
+      "sha256": "4876b7ef3573828cc66c06e3fc3110ad28ff656162537c167f0e58a6244ebad0"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-003-west-left-soffit-context.jpg": {
+      "byteLength": 171600,
+      "sha256": "a610915186cd24facb9cf9703dff966f01824f55eee4c429baca155e9e5e1c9e"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-004-west-right-soffit-context.jpg": {
+      "byteLength": 172981,
+      "sha256": "e144c0655877f463fd8110ab8744bdff3f8fabc0d89f9950a86a5a3d3b5e4798"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-005-west-left-door.jpg": {
+      "byteLength": 81622,
+      "sha256": "73848354b68d965e79ab6f637b9fe835d54cb5e3dc7ca2abf8c1ee0dd187076b"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-006-west-sava.jpg": {
+      "byteLength": 511427,
+      "sha256": "b42c98d2256fbc8e6c4a0925fb57f6f46507260ba222ce366cbf44294a71060c"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-007-west-center-soffit-context.jpg": {
+      "byteLength": 431216,
+      "sha256": "8b10e062eb027a33a5b83e29c534ebcb1ac322e1a0439481b3b8d56f3ee6599e"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-008-west-central-door-complete.jpg": {
+      "byteLength": 798597,
+      "sha256": "e3037b3b6425ed4d57437169f4ce8d86c59e8f6eea5865799b751a07e405dc18"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-009-west-christ.jpg": {
+      "byteLength": 605747,
+      "sha256": "981791146ab9aee365b82b1e47694b79b9b1fd5f0d5fd039f29d0783213d7688"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-010-west-right-door.jpg": {
+      "byteLength": 74765,
+      "sha256": "974aa64c461975d3ac3e575d3fd35cf7546041c22188a383b2cb8124e8e41e18"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-011-west-simeon.jpg": {
+      "byteLength": 552119,
+      "sha256": "9b7d44081bb0d7bc4b1662b86b96edd50bbfe0012f01471e7c2713621c2db385"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-012-west-left-capital-eagle-front.jpg": {
+      "byteLength": 138701,
+      "sha256": "336afcd67143385f7445150ad7cbd9286c6b79564dc73553b1c2ec14bae575b6"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-013-west-left-capital-eagle-side.jpg": {
+      "byteLength": 72681,
+      "sha256": "e91b3d985254aff84da44c5c68119ce5be542f9e2690f298f876b7099f3281ba"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-014-west-right-capital-chirho-front.jpg": {
+      "byteLength": 138178,
+      "sha256": "ef441b5acf870ec4b4c06b1a3aa85be169757b96e86758428240907549c028fa"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-015-north-side-soffit-overlapping-rings.png": {
+      "byteLength": 127905,
+      "sha256": "db9a1c027a8209161eb8b7c905f383123a3df2517eea7fcf9933dbb45192c1b9"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-016-north-left-door-rectified.png": {
+      "byteLength": 1899574,
+      "sha256": "da936c7033fedff479b15a80ded47d59c194655319066fd81c0e0d510b5c2103"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-017-north-stefan.jpg": {
+      "byteLength": 979992,
+      "sha256": "54625fe42e69bc0494f35cfa0b4e33805397be3b707c1f2019d29bc1fd02ddc8"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-018-north-central-soffit-blue-strip.png": {
+      "byteLength": 1894,
+      "sha256": "921f547881367c1914ee13f6dc97d0bb608320c7ac6285c716395fe25487005d"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-019-north-center-soffit-crown-rectified.png": {
+      "byteLength": 295,
+      "sha256": "9eb3faca204ec38f27a79f9bd85151cc5595d03cb9c554236addb1dd59e71f7a"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-020-north-center-door-rectified.png": {
+      "byteLength": 1457445,
+      "sha256": "5bae84208ba489c665e17afdad52f2e0375b37a76ed418c32c4a5f611dcebd8a"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-021-north-orans.jpg": {
+      "byteLength": 4710,
+      "sha256": "25821a97a7f515574d7452df93aebb5b6b01e2e6c4595e1c61294f5525386605"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-022-north-right-door-rectified.png": {
+      "byteLength": 1830760,
+      "sha256": "ea436c40ec59e07e76831f827ff671349967260a29bb35223a6f6f447e2db41d"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-023-north-lazar.jpg": {
+      "byteLength": 1029195,
+      "sha256": "9c7dbfa256f4401758833f76bd6e743302eb861c7e6f62a2acf2d431a3071c45"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-024-north-left-capital-front-rectified.png": {
+      "byteLength": 3921,
+      "sha256": "060f3964704a364b275f4d27392f73cea2cd9afe7ed658fe582e5a748dcd0241"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-025-north-right-capital-front-rectified.png": {
+      "byteLength": 16637,
+      "sha256": "4a4e36ed6b9baa7aa83218a15174d54227cbfd100262f4909e2a4f8c2772e1da"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-026-south-side-soffit-gold-strip-rectified.png": {
+      "byteLength": 948,
+      "sha256": "c7ff357dd4b1c42664ad46f6bca6b034ffcfc50ff2b7d694137ec640eba28f64"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-027-south-side-soffit-crown-rectified.png": {
+      "byteLength": 496,
+      "sha256": "0c8eaa841b8eda4f046bb70e083810382ed3c9f498e78538ea2211296cac99da"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-028-south-left-door-complete-rectified.png": {
+      "byteLength": 30338,
+      "sha256": "43fcc246a06f3f82968ae2473fb13a21043bc8b11f7962cca21514188641a9c7"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-029-south-left-martyr.jpg": {
+      "byteLength": 4278,
+      "sha256": "b4dc0ad8241b16131707b42900fef14ee1ed2ba16af8c79ba7528763971cc48f"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-030-south-central-soffit-interlace-strip.png": {
+      "byteLength": 33120,
+      "sha256": "1acb3076b63c6a0ad5e29a2684ad5f4006cbc37f248051655e7809421c9d646b"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-031-south-center-soffit-crown-rectified.png": {
+      "byteLength": 528,
+      "sha256": "7a94b259b902920b580efa31acd80e1b012fb806be3ffeac334341e24a921882"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-032-south-center-door-closed-rectified.png": {
+      "byteLength": 56684,
+      "sha256": "7744589fbc1e04d656473e47ace23fca807760b75c3c304ab7f3048ff46ff849"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-033-south-john-baptist.jpg": {
+      "byteLength": 4833,
+      "sha256": "ec71c49c6e0f9ea8669a8e7821166106a9cb57ba60daac28905a3314b5eb6aa7"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-034-south-right-door-rectified.png": {
+      "byteLength": 16867,
+      "sha256": "f5fa6b172384af892cfbea936e48d925c59cca890ac14b3910cd9f51e5b59309"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-035-south-right-martyr.jpg": {
+      "byteLength": 4307,
+      "sha256": "0bf8c4c32715e5c361ba86755d018233aaf20172f395d44244231b1d5f3b81df"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-036-south-left-capital-front-rectified.png": {
+      "byteLength": 3156,
+      "sha256": "a326037cabf9ee2bfe028f7ebdc9dbed8616d4e4ac6189b219f5d5cc5f3bac29"
+    },
+    "church/saint-sava-exterior/model-textures/saint-sava-exterior-image-037-south-right-capital-front-rectified.png": {
+      "byteLength": 3390,
+      "sha256": "f9bc5e0f98a9661577e39e5802dec46eeffe874f7934bcd757355ff6780ebe7d"
+    },
+    "church/saint-sava-exterior/saint-sava-exterior-package-manifest.json": {
+      "byteLength": 34135,
+      "sha256": "2b507228003455296bed6b3779f76538393748fc295da099467c950d396b72cd"
+    },
+    "church/saint-sava-exterior/saint-sava-exterior.gltf": {
+      "byteLength": 113556,
+      "sha256": "e723eb41cbf2ca2dc680a8c6632f0977eea9140d40e80b976155ea6d984f7c35"
+    },
+    "church/saint-sava-exterior/textures/provenance.json": {
+      "byteLength": 76560,
+      "sha256": "df680ffb21ac3ad765e5e4e2bd6fd568707abeeabfba7c149638e384c0f7239a"
+    },
+    "church/saint-sava-interior-repair-provenance.json": {
+      "byteLength": 840994,
+      "sha256": "1eb2315457476bff028f54b39efb2456ac6f53046e43e6c894c1063933aa514e"
+    },
+    "church/saint-sava-package-manifest.json": {
+      "byteLength": 65084,
+      "sha256": "9966f44acfb89e64b2bcf016fadec8a5138b290fe30e43823b6c1dfef5dd5b92"
+    },
+    "church/saint-sava.gltf": {
+      "byteLength": 211332,
+      "sha256": "ccf547134df34a70ce633012ecacd47d51628d937c6e594b5fdd87a57974a18a"
+    },
+    "church/savior-on-spilled-blood/LICENSE.md": {
+      "byteLength": 8391,
+      "sha256": "dc4c3536c085d0966d6effafbf7ddf87ee9a4505314a179a66106d239cd20466"
+    },
+    "church/savior-on-spilled-blood/architectural-notes.json": {
+      "byteLength": 4367,
+      "sha256": "1593cc79337100ef012c51ac767c60a8f4338b09772558a428e817565a0c31f0"
+    },
+    "church/savior-on-spilled-blood/credits.json": {
+      "byteLength": 15554,
+      "sha256": "c7d3ed02050977abc3466a49c18da6ad1aa26201ae8f45657f1aeb13a2870afe"
+    },
+    "church/savior-on-spilled-blood/geometry-001.bin": {
+      "byteLength": 6213658,
+      "sha256": "0351b3361a519ff790aec732daf8c321ce844f4e02306405ef364be60d276d5c"
+    },
+    "church/savior-on-spilled-blood/geometry.bin": {
+      "byteLength": 24585640,
+      "sha256": "98e224f55df2f8f26fd7eec2dcd5803b2231afea39b41bf0a7fffde751f67c16"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-000-exterior-brick.jpg": {
+      "byteLength": 206403,
+      "sha256": "def36f5d2ad320cf829cc3dd5cce3773588650541664bece903e3d5430aa6738"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-001-cream-marble.jpg": {
+      "byteLength": 31263,
+      "sha256": "bba5ee8bc50c7cf6efc5b6620b97357530b804660851fce705b51b031ef7ecbd"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-002-green-marble.jpg": {
+      "byteLength": 70863,
+      "sha256": "06038ecaf13cef2ca4684d68cfbdc7e3bc8c6d0abdb5dd09095b1f0d24649879"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-003-ciborium-stone.jpg": {
+      "byteLength": 26658,
+      "sha256": "f60af2f078db1066d7a17c914de4eed38f30d088c3937dcd3c32f94fd0ac58ee"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-004-red-marble.jpg": {
+      "byteLength": 42236,
+      "sha256": "74f0556490ee69aad1b2180de17f614de1cb9460473efffbd0485f89ace4bf30"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-005-yellow-floor-marble.jpg": {
+      "byteLength": 28897,
+      "sha256": "6cdb02aee4f74d52d091c72eec28b22eddf9cd3d5a3d6b37bc16d5a4e3ed3780"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-006-white-floor-marble.jpg": {
+      "byteLength": 26041,
+      "sha256": "8f7ef142dd470ce1408870cb0635720844f9ad52d8b2364ed8c9224f0a7575f7"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-007-floor-honey-medallion.jpg": {
+      "byteLength": 11909,
+      "sha256": "7bc5d856b8113f4bd1b298b05e742d53c24fe572ccfc9eb997ef0c2883059126"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-008-floor-porphyry-medallion.jpg": {
+      "byteLength": 12975,
+      "sha256": "caf4fd6e25d1dbd6be1ca691f1b3090692ba604987b50ff611d44801ee3a2e4c"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-009-floor-marble-veins.jpg": {
+      "byteLength": 79989,
+      "sha256": "cc43f3400162c11f33976f07ebc79fd4c99b75a6d3d70fe11942dbf03aa34f64"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-010-blue-floral-border.jpg": {
+      "byteLength": 85627,
+      "sha256": "f91abc7098e00db50d3c807c774fd9f5595db21b10969f4fdf515f6c599e8f2b"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-011-memorial-floor-red-stone.jpg": {
+      "byteLength": 18774,
+      "sha256": "8f009959906fa214e3a3e09c5d9d39561820fde99442ffbfe29da8cedcf3d2ef"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-012-memorial-floor-green-stone.jpg": {
+      "byteLength": 34972,
+      "sha256": "ea7d56c70c56880f41b74677f490597d68c59d22d2d2085e66a3e5a48e00723a"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-013-memorial-floor-dark-stone.jpg": {
+      "byteLength": 26487,
+      "sha256": "fe418bf2542fa73df86ed5a85af6784d270be151fcc511512ecae11017baf455"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-014-memorial-flagstone.jpg": {
+      "byteLength": 5637,
+      "sha256": "9079cbaae7be44e0a39173bbd653b4aef0c2f0b30317f466dbf881664b1bd17f"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-015-memorial-cobblestone.jpg": {
+      "byteLength": 6998,
+      "sha256": "c0e2c4462e2d6f2291167ece1c553102069c94f7e6e1ab8fbf68e0ea25826c31"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-016-memorial-jasper-grain.jpg": {
+      "byteLength": 31801,
+      "sha256": "6a69af1dc39fdf67d75568155f4f76335fc861a9b4ca71619ce81e51984c432e"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-017-gold-mosaic.jpg": {
+      "byteLength": 13314,
+      "sha256": "e1e466d16810f69152e676e0157cc105bd86b9e8d6f5ba8da2643359166cb28e"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-018-memorial-vault-continuous.jpg": {
+      "byteLength": 2117824,
+      "sha256": "d6b2a25856fabf86e2f0d1e06f915ae4400faf327a265ddbb23699a10707134f"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-019-floral-border.jpg": {
+      "byteLength": 171105,
+      "sha256": "0f86ef366a946ced6f5dc39b2e99341ccd5445ba65a1c9eaaabbe25717ee7e53"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-020-east-vault-ornament.jpg": {
+      "byteLength": 289668,
+      "sha256": "e5a0db3fbe8961a4e9758042f897a8c5a70554827829c2d033455906130cb3de"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-021-photo-atlas-0.jpg": {
+      "byteLength": 3260321,
+      "sha256": "6578efe02255d5206191e405eb40fc11b401a288c976319eb5a1a81c2382072a"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-022-photo-atlas-1.jpg": {
+      "byteLength": 2089778,
+      "sha256": "9780238f36912b31f5127e339f0bff3f05ce9daab7d920f328b926e1a5c4cace"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-023-photo-atlas-10.jpg": {
+      "byteLength": 907521,
+      "sha256": "50f8f3c67a91d163e964f034dbf466b210f89315199284bdfbaa88781897c67e"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-024-photo-atlas-11.jpg": {
+      "byteLength": 1012248,
+      "sha256": "220e423085b64f3572c007ab1b5eb86c0515b30a77307f9fa30618ac52bf619d"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-025-photo-atlas-12.jpg": {
+      "byteLength": 2027945,
+      "sha256": "63684f75541a4d34aaf97fdc78d04de9750fa9ad635cef1d514cd88116579601"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-026-photo-atlas-13.jpg": {
+      "byteLength": 3445459,
+      "sha256": "879451f3b030fb949fdf1621ce5ab8f6d0e3d8eda140a7cfd3a5cbe7199110af"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-027-photo-atlas-14.jpg": {
+      "byteLength": 4880588,
+      "sha256": "19b1a294c3c8f82cf4a053afe7427f225b3ac934dda9f14292819c55a6884079"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-028-photo-atlas-15.jpg": {
+      "byteLength": 2177562,
+      "sha256": "89efe9fe1864fa55fc1f8416a3ecdbefbbca63918a957f27ea5e055cd9249db0"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-029-photo-atlas-16.jpg": {
+      "byteLength": 1948278,
+      "sha256": "8b418dbfc6f6811e1d3ac8bebf3ca458ff105b681eeb2d0f118f96d436b340dd"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-030-photo-atlas-17.jpg": {
+      "byteLength": 3079771,
+      "sha256": "521a76c19d66bd80865e8bc217dee88c6e047c933f3ffeeef47a3c417d67806a"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-031-photo-atlas-18.jpg": {
+      "byteLength": 2954327,
+      "sha256": "fef253618273a1898e2b5495a6a284deb68788af9eeb73ae779bc57a5354411c"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-032-photo-atlas-19.jpg": {
+      "byteLength": 2571861,
+      "sha256": "cd3803c766f92a67a30bb5f590fd3367bfeb9585fd84402a272938db588c936a"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-033-photo-atlas-2.jpg": {
+      "byteLength": 2239647,
+      "sha256": "a5d96a973935c81fc59b935c0e17df1b8ff93ce67817c7911e02ca54c709c290"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-034-photo-atlas-20.jpg": {
+      "byteLength": 3858154,
+      "sha256": "fe3b0ca730d7413c7564ab135ff0ddb30966460de1678bcd96a261deff3760ca"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-035-photo-atlas-21.jpg": {
+      "byteLength": 2365162,
+      "sha256": "4305de5762c4615b434f7249a5e0df4e2fc059b380b960bac56f920dc582656b"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-036-photo-atlas-22.jpg": {
+      "byteLength": 2862982,
+      "sha256": "4e464e694281f0bf4caf152d2c8da7d83c0cd096c24b7a5dcba6f78d864a0849"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-037-photo-atlas-23.jpg": {
+      "byteLength": 2536944,
+      "sha256": "259ac2e59cd8cef0b5c5fc09db9f00e3d425fc1156d0438b02f5c043dc46a97b"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-038-photo-atlas-24.jpg": {
+      "byteLength": 2134632,
+      "sha256": "2d38e0cbbfcbe1ee61bd5d753facb2d76401903a22c4f54dbc1822065cdc052a"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-039-photo-atlas-25.jpg": {
+      "byteLength": 2610003,
+      "sha256": "a8e51c8d18f30d31513746bba7a0f22532d78564f6afef35ebad5a903109d266"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-040-photo-atlas-26.jpg": {
+      "byteLength": 3203777,
+      "sha256": "f141274fbd0b18c5aa98cdacb13603d7605e221514f5d212fc68024d128abba3"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-041-photo-atlas-27.jpg": {
+      "byteLength": 4756523,
+      "sha256": "1afb6704667115f868703c8f4822065310b9f98a4894626e16cc9d6e95399b88"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-042-photo-atlas-28.jpg": {
+      "byteLength": 2596176,
+      "sha256": "ed83020d324eceb08fe02ad40132a169c2828bfada64198a9e29b155ec2ca28e"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-043-photo-atlas-3.jpg": {
+      "byteLength": 2185521,
+      "sha256": "ca60201124e503ed4c8400cf80627eb13895cb59ed6a04b4aa46fa5ac777960d"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-044-photo-atlas-4.jpg": {
+      "byteLength": 1386419,
+      "sha256": "a5bafa7664cf5e0daf4364670c3ea8934bdba50a24b5a6c5ae50e2ac36b2c845"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-045-photo-atlas-5.jpg": {
+      "byteLength": 1323401,
+      "sha256": "dc9a7a69c68c9f2a135843d5dd7790178d37a955833702e4ec3b6980616ed8e8"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-046-photo-atlas-6.jpg": {
+      "byteLength": 2019061,
+      "sha256": "9e7be3f8c6dab1b577344504b00e2fcfa2bd39ec38807ec095948735384dc4d6"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-047-photo-atlas-7.jpg": {
+      "byteLength": 2052647,
+      "sha256": "6684d08da1380096bbdd4df1693fe2227330bab9fe2390b34939eb96bbbc3060"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-048-photo-atlas-8.jpg": {
+      "byteLength": 991589,
+      "sha256": "80c37c4068e973bc5b1fbcb64126b59900b0abe833c6350cd739406f28364c6c"
+    },
+    "church/savior-on-spilled-blood/model-textures/savior-on-spilled-blood-image-049-photo-atlas-9.jpg": {
+      "byteLength": 826828,
+      "sha256": "58e499f6a4dba4bb154ba99330bdccfaa0ab591b46cea5417999fba24ede2132"
+    },
+    "church/savior-on-spilled-blood/savior-on-spilled-blood-package-manifest.json": {
+      "byteLength": 40680,
+      "sha256": "a73f1f04bb882e33b212d3b63b87079e90c64934966961d5fffb03ee10894010"
+    },
+    "church/savior-on-spilled-blood/savior-on-spilled-blood.gltf": {
+      "byteLength": 132888,
+      "sha256": "4c39450d0e484fcdc67d901c7071832275d75ebb3cdf469c053b81c193c30cdb"
+    },
+    "church/savior-on-spilled-blood/textures/provenance.json": {
+      "byteLength": 34199,
+      "sha256": "f5040a267616114bd6ca02a7bf4bb22fa17d71909b13e44705a30f4953518852"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/LICENSE.md": {
+      "byteLength": 4695,
+      "sha256": "2774db28c4e5923166e577898d79f990c50f0638a274b1092de2de963e5952b0"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/credits.json": {
+      "byteLength": 13098,
+      "sha256": "baa330c11a13c63979b75bf8fd79fc76353ee1ab500a5fd2890afa81646ce776"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/geometry-001.bin": {
+      "byteLength": 18839106,
+      "sha256": "662e3d7e999f0732b0b41f801efbc334508981e9a025303bbad6e7efa855f271"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/geometry.bin": {
+      "byteLength": 24802639,
+      "sha256": "589486edd0b1e71570b3e58462006b5ace60edf1b4b284e302998a8a7a8a4d85"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-000-white-plaster-02-nor-gl-1k.jpg": {
+      "byteLength": 652310,
+      "sha256": "eb572ca3630d5bfde72e2601b1f02412da23ca005cd19384dced8690be4cb783"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-001-white-plaster-02-arm-1k.jpg": {
+      "byteLength": 191017,
+      "sha256": "2bb1115821715dfd8bbd1c5a294a5bb43b97d5c46b1aa8aa8f744bcaf5eeeb10"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-002-lobe-facade.jpg": {
+      "byteLength": 583871,
+      "sha256": "572f3d32a398f4ba023244c2f275602d7481cdc5cfd2e395eabf7cbd65e1b63d"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-003-rustication.jpg": {
+      "byteLength": 328818,
+      "sha256": "bb2369209ef6d742e1369b02b0910981ada7ce93dcc7fbaa7fae33231e840fae"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-004-statue-apostle.jpg": {
+      "byteLength": 416887,
+      "sha256": "a406141424fffb6d80681e140712d2291bd81dd06520eb1f847efe8ee264cce6"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-005-statue-evangelist.jpg": {
+      "byteLength": 323318,
+      "sha256": "369a194070c579c5122ed0d4872a077290527c8d753e53e39252ac016e637257"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-006-door-wood.jpg": {
+      "byteLength": 238477,
+      "sha256": "23c290e8930df456e1ee6775cdb054a6f43a6a2e3179b3d3ae65d5d6ba0a5312"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-007-dubrovitsy-church-of-sign-02.jpg": {
+      "byteLength": 533816,
+      "sha256": "bbf4bcea427cf7dc35ba708da592897138c2d5d296c81548d68bb551514e653d"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-009-park-leaf-spray-1.png": {
+      "byteLength": 56890,
+      "sha256": "ef800feb0841c26686c217802639bb6c3a48dafdc41acef4bea00debf49390dc"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-010-park-leaf-spray-2.png": {
+      "byteLength": 54196,
+      "sha256": "1ab46e4d210e398b7fc52460e4d051ee2e5fec56bbafb74d25196864c82da6b6"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-011-park-leaf-spray-3.png": {
+      "byteLength": 54175,
+      "sha256": "417d8ad9f93764b1be09bd8580ad88ffa4f16a6b2df4226ffc0fa1f2ffefe48d"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-012-park-leaf-spray-4.png": {
+      "byteLength": 49733,
+      "sha256": "16d82214646c8b31fd61dc5b0457f81d611d2b80353906c4243ab9fb0a2b0629"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-013-park-leaf-spray-5.png": {
+      "byteLength": 49635,
+      "sha256": "d3c1ea90a87a43a138e5718a89123d454210e443f1efdfdab9179c479028b56e"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-014-park-leaf-spray-6.png": {
+      "byteLength": 53894,
+      "sha256": "32968ea14bf6776142fcf891d11b9cbc07900963f2323e743e01cb37f68fd8b0"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-015-park-meadow-grass-1-normal-3m.png": {
+      "byteLength": 306338,
+      "sha256": "1d16296309f770fdbbae8e7010c43bdd160cd3690198a7ce1e29ea84c0896ebe"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-016-park-meadow-grass-1-albedo-3m.png": {
+      "byteLength": 174779,
+      "sha256": "2ccc432e3bb6c4a726cfb97abdbb1fc3be4d981945ee5bc4d7f4feb0fedf01ef"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-018-park-meadow-grass-2-albedo-3m.png": {
+      "byteLength": 173746,
+      "sha256": "b40431170111683ee885a9a2e92d46502b68d1cba18e82c1887b8ee61731fa57"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-020-park-meadow-grass-3-albedo-3m.png": {
+      "byteLength": 177905,
+      "sha256": "0086236f7b89243f0969f43ea4cd4f587a469cac68fb33cbdaf1e60cf19fba33"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-021-park-reddish-gravel-apron-normal-3m.png": {
+      "byteLength": 278635,
+      "sha256": "dd167097e633bbf352a66b7e47a721a02c6b10f87242169e397fe75b1176b93b"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-022-park-reddish-gravel-apron-albedo-3m.png": {
+      "byteLength": 229030,
+      "sha256": "5d06966504be561f612b7d3ed8791f9a8d7beaa31c119c553796b3c0421dcd87"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-024-park-worn-gravel-walks-albedo-3m.png": {
+      "byteLength": 232377,
+      "sha256": "d8df0cd2050f0f7e490d90d5b7eeea2106a436c3517e3aa63b5ab1825e60e23b"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-028-interior-crucifixion.jpg": {
+      "byteLength": 435922,
+      "sha256": "7837f94f0acc8e82821f31109dbedb6debf418c29594a8e73fc1bd8ca76dbf87"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-029-marble-01-nor-gl-4k.jpg": {
+      "byteLength": 1274528,
+      "sha256": "ca7efbe72f13bf156545485762307e91d6077b06746dc7cc1742908cf9873cbd"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/model-textures/sign-of-the-theotokos-dubrovitsy-image-030-marble-01-diff-4k.jpg": {
+      "byteLength": 5013465,
+      "sha256": "3c7805a8988323b46d45d747530b659b4aa46e5bfa0b57c3d21083a403de229d"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photographic-provenance.json": {
+      "byteLength": 83571,
+      "sha256": "0c9bdcd369bd73fab4960ad034415a1db687bdeb8312305b7a624e421546ac23"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/interior-alexrubi-2017.jpg": {
+      "byteLength": 4208299,
+      "sha256": "f15127ac36803de29db00f29837346ef9bc2c65be46092480c52294d424868fb"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/interior-crucifixion-2023.jpg": {
+      "byteLength": 13709567,
+      "sha256": "875f5ec02f10a6cc57be83923e8d7c6290b82fdb28a116259b478e2da19eaacc"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/interior-detail-2015.jpg": {
+      "byteLength": 1429786,
+      "sha256": "75d3c99e7a9ef3444ad0f2f65a1a4424ffe8015af1b474e6895ced8dfdba7cd5"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/interior-entry-2018.jpg": {
+      "byteLength": 12189018,
+      "sha256": "d17062761b87e6fcb3a10a313d43b6a9e766a186ebfa65c072eaccebdb0f2fae"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/interior-iconostasis-2015.jpg": {
+      "byteLength": 1176743,
+      "sha256": "2a6589fbf805c7ae4689af0e7ec8a805a31d3dd8d8ea50308bc5376c66856ea0"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/interior-yoslash-2019.jpg": {
+      "byteLength": 5084602,
+      "sha256": "b109853b270f1c182a9d0b2d2a4759ca476eab83bda16eddcef832cc66afd289"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/photos/tower-upper-2024.jpg": {
+      "byteLength": 9630040,
+      "sha256": "a2aed964c3d25aaf2d079de6518197e2ba67ff7d2968e1eebaedbc4aa19bb121"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/sign-of-the-theotokos-dubrovitsy-package-manifest.json": {
+      "byteLength": 39328,
+      "sha256": "f07253eff35ba24b39f9ba0b3a6918c64b6044b0a1c97849d0c3f28d445d5ff9"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/sign-of-the-theotokos-dubrovitsy.gltf": {
+      "byteLength": 192924,
+      "sha256": "74bff52eade24099b54fd0463067ba7c4fa56af746ffbd21ed86af47b22fdca6"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/textures/albedo-fields-provenance.json": {
+      "byteLength": 15462,
+      "sha256": "ab9c7005edfa50ed637028f417629446e9cede3587d22e1ac1d49e6acb0403a1"
+    },
+    "church/sign-of-the-theotokos-dubrovitsy/textures/provenance.json": {
+      "byteLength": 1165,
+      "sha256": "9af6decc39506aa5d8e9ef5476d05ddbdb34111c9ffe6f46febd1ac45042fae2"
+    },
+    "church/textures/provenance.json": {
+      "byteLength": 121759,
+      "sha256": "3f1e79ed9bd1b1677d3565faf60798c98097a669aba492c01884a463b4888443"
+    }
+  }
+}

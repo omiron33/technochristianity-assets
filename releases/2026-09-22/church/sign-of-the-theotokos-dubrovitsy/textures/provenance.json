@@ -1,0 +1,15 @@
+{
+  "church": "sign-of-the-theotokos-dubrovitsy",
+  "note": "Blender material-batched reconstruction with diffuse vertex bake. Primary massing from assets/church/dubrovitsy-znamenie/source.jpg; additional Wikimedia Commons photographs listed in selected-photographs.json. Procedural limestone, rustication, pale-blue interior plaster, white stucco relief, slate roofs, and gilded openwork crown; photographic atlas baking of individual façade sculptures remains an estimate.",
+  "textures": [],
+  "lightingContract": {
+    "bakedLightScale": "per-mesh extras",
+    "colorAttribute": "COLOR_0 linear diffuse radiance without albedo",
+    "encoding": "linear-diffuse-radiance"
+  },
+  "sources": [
+    {"id": "parish-history", "label": "History of the church · Dubrovitsy parish", "url": "https://www.dubrovitsy-hram.ru/o-hrame/istoriya-hrama"},
+    {"id": "wikipedia", "label": "Znamenskaya Church (Dubrovitsy)", "url": "https://en.wikipedia.org/wiki/Znamenskaya_Church_(Dubrovitsy)"},
+    {"id": "commons-category", "label": "Wikimedia Commons category", "url": "https://commons.wikimedia.org/wiki/Category:Church_of_the_Theotokos_of_the_Sign_(Dubrovitsy)"}
+  ]
+}
