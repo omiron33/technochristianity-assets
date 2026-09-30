@@ -14,3 +14,7 @@ The `releases/2026-09-22/` directory contains four glTF model packages, their co
 - [Sign of the Theotokos, Dubrovitsy](releases/2026-09-22/church/sign-of-the-theotokos-dubrovitsy/sign-of-the-theotokos-dubrovitsy.gltf) · [license](releases/2026-09-22/church/sign-of-the-theotokos-dubrovitsy/LICENSE.md)
 
 Photographs and texture adaptations retain their individual credited licenses. Consult each model's license, credits and provenance documents before reuse.
+
+## Bible-song films
+
+The immutable [`releases/2026-09-30/music/`](releases/2026-09-30/music/README.md) directory contains seven browser-playable full films for TechnoChristianity's public listening room. The site itself remains the customer-facing interface; this repository only serves static media bytes.
