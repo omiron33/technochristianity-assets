@@ -16,4 +16,6 @@ The audio files are `genesis-{1,2,4,7,8}.mp3`, `psalm-{23,51}.mp3`, and `psalm-9
 
 `posters/*.jpg` are still frames extracted from the corresponding published film in this release for the listening-room cards and native video poster. Their source times are Genesis 1 00:35, Genesis 2 01:35, Genesis 4 00:35, Genesis 7 01:35, Genesis 8 01:35, Psalm 23 00:35, and Psalm 91 03:00.
 
+The listening room uses `posters/genesis-1-land.jpg` (Genesis 1 at 01:30) for the first card so the central image and lettering remain legible when cropped on a phone. The earlier Genesis 1 still remains in the release history.
+
 All seven films have H.264 video and AAC audio. The media host supports HTTP range playback for both films and songs. Do not replace this dated release in place; create a new release for revised works.
