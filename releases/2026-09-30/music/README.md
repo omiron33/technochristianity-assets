@@ -1,6 +1,6 @@
 # Bible-song films · 2026-09-30
 
-These seven MP4s are web-playable copies of full-length films associated with the eight songs in the owner's published Suno Bible Verses playlist. They are served as static media for the on-page players at `https://technochristianity.com/music`. The source exports remain on the Mac mini; this release is not an editing workspace.
+These seven MP4s and eight audio files are web-playable copies of works associated with the owner's published Suno Bible Verses playlist. They are served as static media for the on-page players at `https://technochristianity.com/music`. The source exports and original downloads remain on the Mac mini; this release is not an editing workspace.
 
 | File | Source export |
 | --- | --- |
@@ -12,4 +12,6 @@ These seven MP4s are web-playable copies of full-length films associated with th
 | `psalm-23.mp4` | Photos / Movies: `Psalm 23 - Held in the Ordinary - Motion Cut.mp4` |
 | `psalm-91.mp4` | Photos / Movies: `Psalm 91 - Shelter - Full Film v4.mp4` |
 
-All seven files have H.264 video and AAC audio, and are intended for HTTP range playback. Do not replace this dated release in place; create a new release for revised films.
+The audio files are `genesis-{1,2,4,7,8}.mp3`, `psalm-{23,51}.mp3`, and `psalm-91.m4a`. They match the eight direct Suno song links on the listening-room page. The MP3s include browser-ready copies of downloaded WAV masters where those were available.
+
+All seven films have H.264 video and AAC audio. The media host supports HTTP range playback for both films and songs. Do not replace this dated release in place; create a new release for revised works.
