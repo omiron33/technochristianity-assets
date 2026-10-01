@@ -14,4 +14,6 @@ These seven MP4s and eight audio files are web-playable copies of works associat
 
 The audio files are `genesis-{1,2,4,7,8}.mp3`, `psalm-{23,51}.mp3`, and `psalm-91.m4a`. They match the eight direct Suno song links on the listening-room page. The MP3s include browser-ready copies of downloaded WAV masters where those were available.
 
+`posters/*.jpg` are still frames extracted from the corresponding published film in this release for the listening-room cards and native video poster. Their source times are Genesis 1 00:35, Genesis 2 01:35, Genesis 4 00:35, Genesis 7 01:35, Genesis 8 01:35, Psalm 23 00:35, and Psalm 91 03:00.
+
 All seven films have H.264 video and AAC audio. The media host supports HTTP range playback for both films and songs. Do not replace this dated release in place; create a new release for revised works.
