@@ -1,6 +1,6 @@
 # The Faith of the Apostles · v2
 
-Web media for the original Orthodox song and lyric film [The Faith of the Apostles](https://technochristianity.com/music/#faith-of-the-apostles).
+Web media for the original Orthodox song and lyric film [The Faith of the Apostles](https://technochristianity.com/music/?work=faith-of-the-apostles).
 
 - `faith-of-the-apostles.wav`: the original stereo, 48 kHz, 16-bit WAV master, unchanged.
 - `faith-of-the-apostles.mp4`: a full-length 1920 × 1080, 30 fps H.264/AAC delivery copy transcoded directly from the approved v2 film master. The full-quality film is also [on YouTube](https://www.youtube.com/watch?v=GIqK4IMjw0g).
