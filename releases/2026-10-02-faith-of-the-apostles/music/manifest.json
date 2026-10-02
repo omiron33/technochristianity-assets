@@ -1,0 +1,33 @@
+{
+  "formatVersion": 1,
+  "release": "2026-10-02-faith-of-the-apostles",
+  "collection": "music",
+  "website": "https://technochristianity.com/music/#faith-of-the-apostles",
+  "files": {
+    "faith-of-the-apostles.wav": {
+      "byteLength": 54081040,
+      "sha256": "a144606aa0b3073751a6232d0cfa857a22fd1a9e9f9736ecd56d63fef78ccef3"
+    },
+    "faith-of-the-apostles.mp4": {
+      "byteLength": 91475136,
+      "sha256": "51c5a14aa060180d3d0a4af9175b2e049159e5bda5d89c6943d1ed4270f23664"
+    },
+    "posters/faith-of-the-apostles.jpg": {
+      "byteLength": 737868,
+      "sha256": "b2d526e4afd5df90558df6b39833877989e092e009d8a3a86ec373d8f64059ca"
+    }
+  },
+  "source": {
+    "title": "The Faith of the Apostles",
+    "version": "v2",
+    "sunoSongId": "2a8faba8-f258-473a-bd04-994c498f22bf",
+    "youtube": "https://www.youtube.com/watch?v=GIqK4IMjw0g",
+    "sourceRepository": "https://github.com/omiron33/faith-of-the-apostles",
+    "filmSourceCommit": "4f1553e",
+    "durationSeconds": 281.6,
+    "audioFormat": "Original PCM 16-bit stereo 48 kHz WAV",
+    "videoFormat": "H.264/AAC MP4, 1920 × 1080, 30 fps",
+    "posterSourceTimeSeconds": 84.86,
+    "derivative": "Web delivery copy transcoded directly from the approved v2 master; source edit, imagery, lyric timing, and full duration are preserved."
+  }
+}
