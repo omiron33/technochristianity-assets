@@ -17,4 +17,4 @@ Photographs and texture adaptations retain their individual credited licenses. C
 
 ## Bible-song films
 
-The immutable [`releases/2026-09-30/music/`](releases/2026-09-30/music/README.md) directory contains seven browser-playable full films for TechnoChristianity's public listening room. The site itself remains the customer-facing interface; this repository only serves static media bytes.
+The immutable [`releases/2026-09-30/music/`](releases/2026-09-30/music/README.md) directory contains seven browser-playable full films for TechnoChristianity's public listening room. The immutable [`releases/2026-10-02/music/`](releases/2026-10-02/music/README.md) directory adds the approved passage-song film **Poisoned Cups**. The site itself remains the customer-facing interface; this repository only serves static media bytes.

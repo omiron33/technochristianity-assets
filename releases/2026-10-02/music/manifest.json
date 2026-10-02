@@ -1,0 +1,28 @@
+{
+  "formatVersion": 1,
+  "release": "2026-10-02",
+  "collection": "music",
+  "website": "https://technochristianity.com/music",
+  "files": {
+    "poisoned-cups.mp4": {
+      "byteLength": 91477247,
+      "sha256": "60d0a5e1dcadedf66ae1b2b64a8b01db1d980e005a9a5026fdfe9ef592096968"
+    },
+    "poisoned-cups.mp3": {
+      "byteLength": 6752789,
+      "sha256": "4383254e54b6e3fdb6258915bb9a30e405dda2e905868b92a591c571d3d44d0e"
+    },
+    "posters/poisoned-cups.jpg": {
+      "byteLength": 811334,
+      "sha256": "09c65d29dbb21a4a9bfa084b8f2e72f7ba30ca5bf521ee69a9a7b5ea16b7c3f3"
+    }
+  },
+  "source": {
+    "title": "Poisoned Cups",
+    "description": "A cyberpunk machine-age Matthew 23 film and song after the woes: cups clean outside and full within, brood of vipers.",
+    "sunoSongId": "5d017230-8c02-444f-b691-dba87dfe8f8f",
+    "filmSource": "Photos / DATA: Poisoned Cups v5.mp4",
+    "posterSourceTime": "00:59",
+    "lyricsSource": "/Volumes/DATA/songs/poisoned-cups/intake/official-lyrics.txt"
+  }
+}
