@@ -1,0 +1,23 @@
+{
+  "formatVersion": 1,
+  "release": "2026-10-02-genesis-3",
+  "collection": "music",
+  "website": "https://technochristianity.com/music/",
+  "files": {
+    "genesis-3.wav": {
+      "byteLength": 67129360,
+      "sha256": "38b20816461dd30b278c8defa1683bdc140b25002f3ba5a2e40b399a2580d8b7"
+    },
+    "posters/genesis-3.jpg": {
+      "byteLength": 536968,
+      "sha256": "9fb2a0fff217da3f736be18337a73f7d61da2c67953a557222742bc24645693a"
+    }
+  },
+  "source": {
+    "title": "Genesis 3 — The Exile",
+    "sunoSongId": "ce009f9c-44bc-4677-becb-6e82ba444e9a",
+    "audioFormat": "PCM 16-bit stereo 48 kHz WAV",
+    "durationSeconds": 349.56,
+    "cover": "Published Suno song cover"
+  }
+}
