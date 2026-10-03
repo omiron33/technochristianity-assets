@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "release": "2026-10-03-genesis-3-v3",
+  "collection": "music",
+  "website": "https://technochristianity.com/music/?work=genesis-3",
+  "files": {
+    "genesis-3.mp4": {
+      "byteLength": 87594884,
+      "sha256": "777c0798f9fd2e27255367e27c39df9e77d3a3d02408fcc4832743ca253fa72a"
+    }
+  },
+  "audio": {
+    "url": "https://omiron33.github.io/technochristianity-assets/releases/2026-10-02-genesis-3/music/genesis-3.wav",
+    "sha256": "38b20816461dd30b278c8defa1683bdc140b25002f3ba5a2e40b399a2580d8b7",
+    "format": "Published Suno WAV; unchanged"
+  },
+  "source": {
+    "title": "Genesis 3 \u2014 The Exile",
+    "version": "v3",
+    "sunoSongId": "ce009f9c-44bc-4677-becb-6e82ba444e9a",
+    "sourceRepository": "https://github.com/omiron33/genesis3-the-exile",
+    "filmSourceCommit": "99a8e78662939e511c71692336cb80dbcb6416bd",
+    "master": {
+      "filename": "Genesis 3 - The Exile v3.mp4",
+      "byteLength": 3216207409,
+      "sha256": "bcbd0588521e834a6baab457eb2412b2090ea09868c063aec4740548e6badda4",
+      "format": "H.264/AAC MP4, 1920 \u00d7 1080, 60 fps",
+      "durationSeconds": 349.6
+    },
+    "durationSeconds": 349.666667,
+    "videoFormat": "H.264/AAC MP4, 1920 \u00d7 1080, 30 fps",
+    "derivative": "Web delivery copy transcoded directly from the reviewed v3 master; same source edit, imagery, lyric timing and full duration."
+  }
+}
