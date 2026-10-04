@@ -37,7 +37,8 @@ const songs = await Promise.all(approved.map(async (work) => {
     : null;
   const title = work.title.replace(new RegExp(`\\s*[—-]\\s*${book}\\s+${chapter}$`, "i"), "").trim();
   return {
-    id: `${work.book}-${chapter}`, studioId: work.id, book, chapter: String(chapter), reference, title,
+    id: `${work.book}-${chapter}`, studioId: work.id, book, chapter: String(chapter), reference,
+    title: work.title, shortTitle: title,
     intro: work.description || `An approved song for ${reference}.`,
     suno: work.approvedTakeId,
     audio: typeof work.audioUrl === "string" && work.audioUrl.startsWith(publicMedia) ? work.audioUrl : null,
